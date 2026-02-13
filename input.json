@@ -1,0 +1,12 @@
+{
+  "input": "What is the mean biomass production (units: Mg/ha) for agrisilviculture (abbreviated as AS) among the AFS category, according to the paper \"Harish Sharma, K. S. Pant, R. Bishist, K. Gautam, Ludarmani, Dhirender Kumar. Carbon stock potential of agroforestry systems in low hills of north-western Himalayas. 2023. Indian Journal of Agricultural Sciences.\" Tell me from what section of the paper you got the value from.",
+  "ctxs": [
+    {
+      "title": "Carbon stock potential of agroforestry systems in low hills of north-western Himalayas ",
+      "text": "We propose a retrieval-augmented generation framework...",
+      "abstract": "This paper studies...",
+      "citation_counts": 1200,
+      "url": "https://..."
+    }
+  ]
+}

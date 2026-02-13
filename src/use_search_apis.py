@@ -16,6 +16,8 @@ import argparse
 import pandas as pd
 from xml.etree import ElementTree as ET
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 S2_API_KEY=os.environ["S2_API_KEY"]
 # YOUR_API_KEY = os.environ["YOUR_API_KEY"]
