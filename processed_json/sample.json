@@ -1,0 +1,100 @@
+{
+    "paper_id": "sample",
+    "title": "Sample Paper",
+    "authors": [
+        {"first": "John",
+            "middle": [],
+            "last": "Doe",
+            "suffix": "",
+            "affiliation": {},
+            "email": "johndoe@email.com"
+        },
+        {"first": "Jane",
+            "middle": [],
+            "last": "Smith",
+            "suffix": "",
+            "affiliation": {},
+            "email": "janesmith@email.com"
+        }
+    ],
+    "abstract": "Here is the abstract of this paper. We did some tests and got some results.  This paper has huge impact.",
+    "pdf_parse" :{
+        "paper_id": "sample",
+        "_pdf_hash": "",
+         "abstract": [
+            {
+                "text": "Here is the abstract of this paper.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "We did some tests and got some results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "This paper has huge impact.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "In this paper, we will tell you about our findings.  We figured out many things.  First H2O is water (Lavoisier, 1789).  Then we discovered that a set is compact if and only if it is closed and bounded (Heine et al., 1852).",
+                "cite_spans": [
+                    {
+                        "start": 101,
+                        "end": 118,
+                        "text": "(Lavoisier, 1789)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 202,
+                        "end": 222,
+                        "text" : "(Heine et al., 1852)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "text here",
+                "cite_spans" :[],
+                "ref_spans":[
+                    
+                ]
+
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0" : {
+
+            },
+            "BIBREF1" : {
+
+            }
+        },
+        "ref_entries": {
+            "TABREF0" : {
+                "html": null,
+                "type_str": "table",
+                "text": "This is a table with numerical values",
+                "num": null,
+                "content": ""
+            }
+        }
+
+    }
+}
