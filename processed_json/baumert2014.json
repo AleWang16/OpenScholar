@@ -1,0 +1,1902 @@
+{
+    "paper_id": "baumert2014",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2026-02-18T15:59:55.135117Z"
+    },
+    "title": "SOIL ORGANIC CARBON SEQUESTRATION IN JATROPHA CURCAS SYSTEMS IN BURKINA FASO",
+    "authors": [
+        {
+            "first": "Sophia",
+            "middle": [],
+            "last": "Baumert",
+            "suffix": "",
+            "affiliation": {},
+            "email": "sbaumert@uni-bonn.de"
+        },
+        {
+            "first": "Asia",
+            "middle": [],
+            "last": "Khamzina",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Paul",
+            "middle": [
+                "L G"
+            ],
+            "last": "Vlek",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The cultivation of the biofuel crop Jatropha curcas L. in Burkina Faso may contribute to ameliorating the soil fertility of severely declining cropland through increased organic matter input and erosion control. This study addresses the potential for the soil organic carbon (SOC) sequestration in traditional and newly introduced J. curcas production systems. Five prevailing systems included interplanting with annual crops, intensely managed monoculture plantations, afforestation of abandoned cropland, plantings along contour stone walls, and traditional living fences.\nThe SOC was analyzed in 20 paired sites of 1-to 4-year-old J. curcas plantings and adjacent cropland. Paired sites with living fences involved a longer chronosequence with 15-and 20-year-old plantings. Additionally, the contribution of J. curcas to SOC sequestration was investigated by comparing the 13 C signature of the C inputs in four J. curcas sites with that of sorghum cropping.\nLinear regression analysis did not reveal a clear trend of SOC dynamics over time for the short-term chronosequences, nor could the isotopic tracer technique prove a contribution of 4-year-old J. curcas trees to the SOC stock. The 20-year chronosequence of J. curcas living fences exhibited a significant SOC increase of 62 \u00b1 23 g m \u00c02 y \u00c01 . Considering soil coverage of 1,200 m 2 ha \u00c01 by living fences (400-m hedge with a width of 3 m), 1.5 Mg SOC was sequestered. Also, changes in \u03b4 13 C values indicated a contribution of C 3 -derived C to the SOC stock. These findings on traditional J. curcas systems indicate the potential of this biofuel crop for improving cropland soil fertility in the long run.",
+    "pdf_parse": {
+        "paper_id": "baumert2014",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The cultivation of the biofuel crop Jatropha curcas L. in Burkina Faso may contribute to ameliorating the soil fertility of severely declining cropland through increased organic matter input and erosion control. This study addresses the potential for the soil organic carbon (SOC) sequestration in traditional and newly introduced J. curcas production systems. Five prevailing systems included interplanting with annual crops, intensely managed monoculture plantations, afforestation of abandoned cropland, plantings along contour stone walls, and traditional living fences.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "The SOC was analyzed in 20 paired sites of 1-to 4-year-old J. curcas plantings and adjacent cropland. Paired sites with living fences involved a longer chronosequence with 15-and 20-year-old plantings. Additionally, the contribution of J. curcas to SOC sequestration was investigated by comparing the 13 C signature of the C inputs in four J. curcas sites with that of sorghum cropping.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "Linear regression analysis did not reveal a clear trend of SOC dynamics over time for the short-term chronosequences, nor could the isotopic tracer technique prove a contribution of 4-year-old J. curcas trees to the SOC stock. The 20-year chronosequence of J. curcas living fences exhibited a significant SOC increase of 62 \u00b1 23 g m \u00c02 y \u00c01 . Considering soil coverage of 1,200 m 2 ha \u00c01 by living fences (400-m hedge with a width of 3 m), 1.5 Mg SOC was sequestered. Also, changes in \u03b4 13 C values indicated a contribution of C 3 -derived C to the SOC stock. These findings on traditional J. curcas systems indicate the potential of this biofuel crop for improving cropland soil fertility in the long run.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Soil organic carbon (SOC) plays a vital role in soil-based environmental services, soil fertility, and the productivity of an ecosystem (Vlek, 2005; Bationo et al., 2006) . In West Africa, only little organic material is left in annual cropping systems for mulching because of low productivity levels, biomass burning in the field, livestock grazing, and biomass use for energy purposes or as construction material (Tiessen et al., 1998; Bationo et al., 2006) . On the other hand, soil carbon loss is accelerated by microbe-induced, termiteinduced, and temperature-induced rapid mineralization and decomposition rates of organic material and by leaching and erosion (Batjes, 2001) . The SOC concentrations in West African soils, inherently low in fertility and under increasing anthropogenic pressure, range only between 1 and 8 g kg \u00c01 (Bationo et al., 2006) .",
+                "cite_spans": [
+                    {
+                        "start": 136,
+                        "end": 148,
+                        "text": "(Vlek, 2005;",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 149,
+                        "end": 170,
+                        "text": "Bationo et al., 2006)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 415,
+                        "end": 437,
+                        "text": "(Tiessen et al., 1998;",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 438,
+                        "end": 459,
+                        "text": "Bationo et al., 2006)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 666,
+                        "end": 680,
+                        "text": "(Batjes, 2001)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 837,
+                        "end": 859,
+                        "text": "(Bationo et al., 2006)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "The shrub species Jatropha curcas L. has been recently introduced as a low-maintenance biofuel crop with cultivation hotspots in India, Zambia, Madagascar, Tanzania, Brazil, Mexico, and Ghana (Gao et al., 2011) , on the basis of its claimed potential to increase energy security while contributing to land rehabilitation (Francis et al., 2005; Jongschaap et al., 2007) and mitigation of CO 2 emissions. In Burkina Faso, where declining soil fertility represents a main threat to agricultural production (Vlek et al., 2008) , the contribution of J. curcas cultivation to soil amelioration through increased residue inputs and erosion control could be significant. However, scientific evidence on land reclamation by J. curcas is scarce (Gasparatos et al., 2012) . Experiments carried out so far show evidence of improved soil structure and potential for C sequestration in degraded soils in a 30-month-old J. curcas plantation (Ogunwole et al., 2008) and increased soil-C stocks in J. curcas hedgerows as opposed to neighboring fields (Soulama, 2008) . Long-term soil-C sequestration rates of J. curcas systems are not known.",
+                "cite_spans": [
+                    {
+                        "start": 192,
+                        "end": 210,
+                        "text": "(Gao et al., 2011)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 321,
+                        "end": 343,
+                        "text": "(Francis et al., 2005;",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 344,
+                        "end": 368,
+                        "text": "Jongschaap et al., 2007)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 503,
+                        "end": 522,
+                        "text": "(Vlek et al., 2008)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 735,
+                        "end": 760,
+                        "text": "(Gasparatos et al., 2012)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 926,
+                        "end": 949,
+                        "text": "(Ogunwole et al., 2008)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1034,
+                        "end": 1049,
+                        "text": "(Soulama, 2008)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "Studies of long-term changes in soil C in the same location are rarely feasible because of the long-term follow-up required. Therefore, comparisons of soils under plantations with those under previous land use and under plantations of different ages are valuable methods for the detection of SOC change due to afforestation. The latter \"space-for-time substitution\" approach implies a soil chronosequence as a series of soils that develop in similar geological positions with comparable site factors except plantation age [Jenny (1980) cited in Richter & Markewitz, 2001] . Stable C isotope studies can furthermore help to detect subtle SOC changes due to the contribution of trees to soil organic matter in systems where the 13 C signature of the C inputs from afforested plots (C 3 plants) is different from the 13 C signature of the previous land use with C 4 plants (Nyberg & H\u00f6gberg, 1995; del Galdo et al., 2003) . Our study aimed to quantify the SOC dynamics in J. curcas systems as opposed to annually cultivated cropland (i) by means of comparing paired J. curcas-cropland sites in a chronosequence approach and (ii) through application of the 13 C natural abundance technique, where the land-use history allowed 13 C discrimination.",
+                "cite_spans": [
+                    {
+                        "start": 522,
+                        "end": 535,
+                        "text": "[Jenny (1980)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 545,
+                        "end": 571,
+                        "text": "Richter & Markewitz, 2001]",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 870,
+                        "end": 894,
+                        "text": "(Nyberg & H\u00f6gberg, 1995;",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 895,
+                        "end": 918,
+                        "text": "del Galdo et al., 2003)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "INTRODUCTION",
+                "sec_num": null
+            },
+            {
+                "text": "On the basis of an inventory of J. curcas cultivation systems in Burkina Faso (Hallensleben, 2011) , soil samples were collected in five existing systems (Figure 1 ).",
+                "cite_spans": [
+                    {
+                        "start": 78,
+                        "end": 98,
+                        "text": "(Hallensleben, 2011)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 162,
+                        "end": 163,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Study Sites",
+                "sec_num": null
+            },
+            {
+                "text": "In south-western Burkina Faso, in the Sudanian agroecological zone (AEZ), J. curcas was introduced in small-scale, lowinput intercropping systems in 2007, including annual crops, and in larger-scale, more intensely managed plantations. These sites were predominantly characterized by shallow (53 \u00b1 7 cm) ferric lixisols, with sandy loamy texture in the topsoil and clay content increasing with depth (see Appendix S1 of the supporting information). Afforestation in the south-west also occurred on very shallow (<40 cm) leptosols and endoplinthic ferric lixisols containing over 20% of ferruginous gravel. Sandy loamy in upper horizons and more clayey with depth, these soils are particularly poor in plant-available phosphorus (P) and potassium (K) and, because of low productivity, abandoned from agricultural activities several years before J. curcas planting. Within the Sudano-Sahelian AEZ, living fences of J. curcas have been traditionally planted to protect farm fields from animals. The hedges contain J. curcas shrubs of varying age (due to self-propagation), growing on 120+-cm deep lixisols with a sandy or silt-loamy texture. Further to the north, in the Sahelian AEZ, J. curcas has been planted since 2008 along the stone walls established against wind and water erosion. This area is characterized by >100-cm deep cambisols, clay-loamy in texture with clay content increasing in deeper horizons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Sites",
+                "sec_num": null
+            },
+            {
+                "text": "The average observed soil bulk density over all sites lies between 1\u202233 and 1\u202253 g cm \u00c03 , typically increasing with depth. The soils are moderately to slightly acidic (pH 5\u20229-6\u20223) and are very low in plant-available P (2\u20222 \u00b1 0\u20227 ppm) and low in plantavailable K (28 \u00b1 4\u20229 ppm) (BUNASOL, 1990) . Total nitrogen (N) and C concentrations, ranging between 0\u202206% and 0\u202208% and between 0\u202276% and 1\u202204%, respectively, and decreasing with depth, also reflect poor soil fertility. The C/N ratio averaged 13\u20228 \u00b1 0\u20227 (Appendix S1).",
+                "cite_spans": [
+                    {
+                        "start": 278,
+                        "end": 293,
+                        "text": "(BUNASOL, 1990)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Sites",
+                "sec_num": null
+            },
+            {
+                "text": "At 20 J. curcas sites, soil pits between the tree rows were dug to the bedrock or to a maximum depth of 120 cm. The soil profiles were investigated and classified on the basis of the international World Reference Base for Soil Resources (WRB, 1998) . In each of the horizons, three undisturbed soil cores were extracted for the determination of bulk density. Samples were also collected in 0-10, 10-20, 20-40, 40-60, Figure 1 . Location of 20 paired Jatropha curcas-cropland sample sites in Burkina Faso. This figure is available in color online at wileyonlinelibrary.com/journal/ldr. and 60-100 cm soil layers for measuring SOC. Additionally, soils for the SOC analysis were sampled with a soil auger to a maximum depth of 60 cm according to the microsite sampling approach (Ellert et al., 2001) . The restriction of the sampling points to small microsites minimizes lateral variability and increases the precision in determining temporal changes in soil carbon (Ellert et al., 2001) . Thus, in two microsites (2 m \u00d7 2 m) per plantation, samples were collected at three points with an increasing distance from the tree stem (40, 120, and 200 cm) and bulked according to the sampling depth. This approach also aimed to account for differences in SOC caused by spatially variable rooting and leaf-fall patterns of J. curcas shrubs.",
+                "cite_spans": [
+                    {
+                        "start": 237,
+                        "end": 248,
+                        "text": "(WRB, 1998)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 390,
+                        "end": 416,
+                        "text": "0-10, 10-20, 20-40, 40-60,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 775,
+                        "end": 796,
+                        "text": "(Ellert et al., 2001)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 963,
+                        "end": 984,
+                        "text": "(Ellert et al., 2001)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1125,
+                        "end": 1146,
+                        "text": "(40, 120, and 200 cm)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 424,
+                        "end": 425,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil Sampling",
+                "sec_num": null
+            },
+            {
+                "text": "As reference sites, croplands in the immediate proximity of the J. curcas systems were sampled to represent the previous land use. These sites cropped with cotton, maize, sorghum, millet, and legumes (Appendix S1) were also sampled with a soil auger in two microsites to a maximum depth of 60 cm. However, soil auger sampling beyond 40-cm soil depth was hardly possible because of compacted or gravelly soil. The reference cropping sites next to contour hedges were protected by stone walls. The abandoned croplands in the vicinity of afforestation sites were not sampled because J. curcas plants survived poorly there; hence, no SOC accrual was expected. All samples were collected in the beginning of the dry period in October and November of 2010 and 2011.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil Sampling",
+                "sec_num": null
+            },
+            {
+                "text": "Short-term soil chronosequences were selected for introduced J. curcas systems in south-western Burkina Faso, covering previous land use (cropland) and plantations aged 1, 2, 3, and 4 years (Appendix S1). For traditional living fence systems in central Burkina Faso, the long-term effect of J. curcas could be investigated in a chronosequence of two cropland sites, representing year 0, and two J. curcas living fences aged 15 and 20 years.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Chronosequence Study",
+                "sec_num": null
+            },
+            {
+                "text": "By using the mass balance of stable 13 C isotope contents, the relative contribution of the new agroforestry system to SOC can be detected (Balesdent & Mariotti, 1987) . To this end, topsoil (0-20 cm) and plant (leaf) samples from four sites where J. curcas was established on land formerly cropped with sorghum were analyzed with respect to their 13 C signature (expressed as \u03b4 13 C). Adjacent sorghum-cropped sites, representing the situation before afforestation, were also analyzed for \u03b4 13 C. The proportion of newly derived C from J. curcas plots f new was calculated according to the mass balance equation (del Galdo et al., 2003; Christensen et al., 2011) :",
+                "cite_spans": [
+                    {
+                        "start": 139,
+                        "end": 167,
+                        "text": "(Balesdent & Mariotti, 1987)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 613,
+                        "end": 637,
+                        "text": "(del Galdo et al., 2003;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 638,
+                        "end": 663,
+                        "text": "Christensen et al., 2011)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "C Natural Abundance Technique",
+                "sec_num": "13"
+            },
+            {
+                "text": "f new \u00bc \u03b4 new \u00c0 \u03b4 old \u03b4 veg \u00c0 \u03b4 old",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "C Natural Abundance Technique",
+                "sec_num": "13"
+            },
+            {
+                "text": "Where: \u03b4 new is \u03b4 13 C of J. curcas, \u03b4 old is that of the reference sorghum soil, and \u03b4 veg is that of J. curcas leaves.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "C Natural Abundance Technique",
+                "sec_num": "13"
+            },
+            {
+                "text": "Total soil carbon and total SOC concentrations were analyzed by dry combustion with a EuroEA Elemental Analyzer. For SOC analysis, the soil was treated with 20% HCl beforehand. The analysis of \u03b4 13 C was performed using a mass spectrometer (SerCon \"Callisto CF-IRMS\"). Prior to the analyses, all samples were dried at 103 \u00b0C for 24 h and ground to pass a 0\u20222-mm sieve. Soil bulk density (\u03c1 b ) was computed as the ratio of water and gravel content corrected mass to volume (g cm \u00c03 ). The SOC concentration (%) was converted to C stock (C t , Mg ha \u00c01 ) for a fixed soil depth increment d (0-10, 10-20, 20-40, and 40-60 cm):",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "C t \u00bc SOC \u2022 \u03c1 b \u2022d",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Carbon stocks for the entire soil profiles were calculated by summing up the C stocks of individual layers down to the bedrock. Considering that \u03c1 b can change over time because of crop choice and soil tillage, Ellert et al. (2001) recommended relating the SOC content to the unit of mass rather than volume. To account for unequal soil masses or densities among the sites, SOC was calculated in successive layers of a soil mass corresponding approximately to the soil mass of the depth increments (~14 g cm \u00c02 for 10-cm increment). The thickness of the additional soil layer (T add ) required to attain the equivalent soil mass (M equiv ) was then computed according to the equivalent soil mass calculation proposed by Ellert et al. (2001) :",
+                "cite_spans": [
+                    {
+                        "start": 211,
+                        "end": 231,
+                        "text": "Ellert et al. (2001)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 720,
+                        "end": 740,
+                        "text": "Ellert et al. (2001)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "T add \u00bc M equiv \u00c0 M layer \u03c1 b",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "with M layer as the actual soil mass of a 10-cm increment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Statistical analyses were performed using STATA (12\u20220). All datasets were checked for normal distribution and homogeneity of variance. Least-square linear regression models were tested for significance. In case of overall significant results, differences between means were tested by pairwise comparison with Bonferroni adjustment. For the comparison among the cultivation systems, regression analyses were adjusted for nested design (J. curcas plantations nested in system).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "The analyses were performed at p = 0\u202205 significance level. Mean values \u00b1 standard error (adjusted for nested design) are reported except when indicated otherwise.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Soil Organic Carbon in Jatropha curcas and Cropping Sites The SOC stock to 60-cm soil depth ranged from 33 to 66 t ha \u00c01 (50 \u00b1 7\u20225) over all cropland and J. curcas sites with ~40% of the C residing in the top 20 cm. SOC made up 97 \u00b1 0\u20227% of the total C pool with no significant variation among the systems. Average SOC concentrations lay between 0\u202273% and 1\u202201% across all sites and depths. Three-factorial linear regression showed significant overall effects of the system (for 0-20 cm horizon) and depth factors (Table I ) and their interactions (p < 0\u2022001) on SOC concentrations. The inclusion of the age factor in the overall regression model did not show interpretable results because of the unbalanced data distribution (Appendix S1).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 521,
+                        "end": 522,
+                        "text": "I",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Over all sites and systems, SOC concentrations significantly decreased with increasing soil depth, measuring 0\u20229-1\u20222% in the topsoil (Figure 2 ) and 0\u20222-0\u20225% below 60 cm. Testing the depth factor separately for each system showed a significant decrease in SOC over soil depth in intercropping systems. The depth effect was statistically insignificant for intensely managed plantations and associated cropland because of the high SOC variability observed in these sites. Living fences with their associated cropland sites, afforestation systems, and particularly contour hedges showed statistically insignificant variations in SOC concentration over sampled soil depths. The virtually constant SOC concentrations over the entire soil depth under contour hedges and stone lines indicate steady C stocks. SOC stocks to a depth of 80 cm in soils under contour hedges were higher than those in the other plantation systems, whereas the topsoil values were the lowest among the studied systems (Figure 2 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 141,
+                        "end": 142,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 996,
+                        "end": 997,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "All recently established J. curcas sites showed somewhat lower SOC concentrations than the adjacent cropland. In contrast, SOC concentrations in mature living fences (15 and 20 years old) significantly exceeded those in the reference cropping sites, indicating C accrual following J. curcas planting.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Significant differences were detected among the systems for SOC concentrations in the top 20-cm soil layer (Figure 2 ). Contour hedges had significantly lower SOC values (0\u202261 \u00b1 0\u202208) than living fences (1\u202219 \u00b1 0\u202208) and afforestation sites (1\u202208 \u00b1 0\u202211). Given the differences in soil types among these systems, the observed variations have to be at least partly attributed to the location-specific soil properties. Among the cropland sites (pooled for each corresponding J. curcas system), no significant differences were observed (1\u202201 \u00b1 0\u202210), although croplands associated with the intercropping and intensely managed plantations showed mean SOC concentrations at least 1\u20225 times higher than those adjacent to living fences and contour hedges. Below the 20-cm soil depth, variations among the systems were not significant.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 115,
+                        "end": 116,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Table I. Significance of (a) soil depth factor for soil organic carbon (SOC) in paired sites of Jatropha curcas and reference cropland and (b) differences in topsoil SOC concentrations (20 cm) among J. curcas systems based on linear regression model adjusted for nested design (p < 0\u202205) System (a) Depth (b) System J. curcas (n) Reference (n) L F C H A F I M Intercropping (IC) <0\u2022001 (147) 0\u2022002 (65) 1\u202200 0\u202213 1\u202200 1\u202200 Living fence (LF) 0\u2022138 (31) 0\u2022872 (19) 0\u202200 1\u202200 1\u202200 Contour hedge (CH) 0\u2022969 (36) 0\u2022446 (24) 0\u202203 1\u202200 Afforestation (AF) 0\u2022239 (45) n.o. 1\u202200 Intensely managed (IM) 0\u2022112 (37) 0\u2022390 (16) All sites <0\u2022001 (296) <0\u2022001 (131) <0\u2022001 (183) n, sample size; n.o., not observed. Multiple comparisons were Bonferroni adjusted.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Figure 2 . Mean values of total soil organic carbon concentrations (SOC, %) as affected by soil depth for paired J. curcas-cropland sites. Intercropping system include 1-4-year-old plantings, living fence -15 and 20 year-old, contour hedge -2 and 3 year-old, intensively managed plantation -3 and 4 year-old.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 7,
+                        "end": 8,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The SOC expressed in mass per unit area (kg m \u00c02 ) for the top 20-cm soil layer is shown in Figure 3 . Living fences exhibited significantly higher SOC masses than all the other systems (p < 0\u2022001), except intensely managed plantations. Among the reference sites, significant differences were only observed between sites next to living fences and contour hedges (p < 0\u202205). Calculating SOC according to the equivalent soil mass of 28 g cm \u00c02 for the first 20-cm increment resulted in more homogeneous SOC among J. curcas systems. Only contour hedges still showed the lowest values (p < 0\u202205). SOC masses in intercropping and afforestation systems increased following the calculation of the equivalent soil mass because of high gravel content and, consequently, low density of these soils.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 99,
+                        "end": 100,
+                        "text": "3",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In agreement with the results on SOC concentrations, SOC mass of cropland soils was also higher than that in J. curcas plantations in all paired sites, except for living fences. The C decline following afforestation in the first years is commonly observed and explained by the soil disturbance during plantation establishment and a fast mineralization of the fresh litter (Epron et al., 2009; Lagani\u00e8re et al., 2010) . In the afforestation systems, most J. curcas trees died in the first years after planting because of soil constraints and lack of management. Hence, the relatively high SOC stocks observed in these sites (Figure 3 ) are more because of the contribution by the fallow vegetation and the absence of soil tillage.",
+                "cite_spans": [
+                    {
+                        "start": 372,
+                        "end": 392,
+                        "text": "(Epron et al., 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 393,
+                        "end": 416,
+                        "text": "Lagani\u00e8re et al., 2010)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 631,
+                        "end": 632,
+                        "text": "3",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS AND DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The construction of chronosequences for newly introduced J. curcas plantation systems did not reveal a clear SOC trend over 4 years. For some paired sites in the intercropping systems and intensely managed plantations, croplands showed higher SOC masses (p < 0\u202205) in the first 40-cm layer (Figure 3 ). Over all systems and sites, no differences between SOC stocks measured in 2010 and in 2011 were observed. These observations comply with the meta-analysis by Li et al. (2012) indicating significant C stock changes only after 30 years following afforestation. C decline in the first years since afforestation is commonly observed and explained by the soil disturbance during plantation establishment and a fast mineralization of the fresh litter (Epron et al., 2009; Li et al., 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 461,
+                        "end": 477,
+                        "text": "Li et al. (2012)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 748,
+                        "end": 768,
+                        "text": "(Epron et al., 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 769,
+                        "end": 785,
+                        "text": "Li et al., 2012)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 298,
+                        "end": 299,
+                        "text": "3",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil Organic Carbon Dynamics",
+                "sec_num": null
+            },
+            {
+                "text": "In contrast, the chronosequence consisting of cropland soil (0 years) and living fences aged 15 and 20 years showed significant but low linear correlation between SOC (R 2 = 0\u202238, p < 0\u202205) and living fence age in the top 20 cm. In deeper soil layers, no significant SOC stock increase over time was observed. SOC concentrations exhibited patterns similar to those of SOC stocks (Figure 4 ). The SOC masses of the cropping sites averaged 2\u20227 kg m \u00c02 and increased to approximately 4\u20220 kg m \u00c02 under mature living fences. The linear relationship for the 0-20 cm soil layers corresponds to an SOC accumulation rate of 62 \u00b1 23 g C m \u00c02 y \u00c01 . The increase was the highest for the top 10-cm soil layer. Expressed in SOC concentration, an annual 0\u202202% increase from the initial 0\u202284% resulted in an SOC of 1\u20222%. Assuming soil coverage of 1200 m 2 by living fences (400-m hedge fencing 1 ha with a mean width of 3 m), an SOC sequestration of 77 kg ha \u00c01 y \u00c01 can be expected. Over the period of 20 years, this accumulates to 1\u20225 t C ha \u00c01 . With 6\u20223 Mg C ha \u00c01 sequestered in the woody above-ground and below-ground biomass of J. curcas living fences over 20 years (Baumert, 2014) , the contribution of topsoil SOC sequestration to the total ecosystem C accrual was 19%. In comparison with annual cropping systems, such as maize and cotton where usually only the root biomass of ~0\u20222-0\u20223 Mg C ha \u00c01 (Tiessen et al., 1998) remains in the soil, J. curcas systems have substantial returns of organic material to the soil through the annual leaf fall. In general, in perennial systems with less soil disturbance, organic matter decomposition is slowed down. Eventually, high litterfall rates coupled with low decay rates lead to increasing litter stocks (Martius et al., 2004) and soil-C sequestration over time (Lal, 2004) . The observed increase in SOC of living fence systems is in line with the findings of Soulama (2008) that show an SOC mass increase in the 0-20 cm topsoil layer from 2\u20223 kg m \u00c02 in a cropping site to 3\u20227 kg m \u00c02 under a mature J. curcas living fence in the northern region of Burkina Faso. The observed values are high compared with the rates reported in the literature, for example, a global average accumulation of 33\u20228 g C m \u00c02 y \u00c01 in forests (Post & Kwon, 2000) , 10-20 g C m \u00c02 y \u00c01 in Senegal under best management practices (Batjes, 2001) , and 20-40 g C m \u00c02 y \u00c01 in arid and semi-arid agroforestry systems according to the literature review by Nair et al. (2009) . The findings of a metaanalysis by Guo & Gifford (2002) showed that land-use conversion from crop to plantation might cause a soil-C stock increase of 18% (estimated at 26% by Lagani\u00e8re et al., 2010) . This is substantially below the value of 48% calculated for the presented case. However, the high value can be explained given the localized planting with dense spacing in J. curcas living fences (<1-m distance between trees). Even though the share of SOC accumulation in the total C sequestration potential of living fences was high (19% over a growing period of 20 years), soil C sequestration in dry lands plays a negligible role in reducing the global C emission gap till 2100 (Batjes, 2001; Smith, 2008) . The incentive for J. curcas management leading to increasing SOC should therefore rather be seen in raising site productivity and soil fertility.",
+                "cite_spans": [
+                    {
+                        "start": 1159,
+                        "end": 1174,
+                        "text": "(Baumert, 2014)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1393,
+                        "end": 1415,
+                        "text": "(Tiessen et al., 1998)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1744,
+                        "end": 1766,
+                        "text": "(Martius et al., 2004)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1802,
+                        "end": 1813,
+                        "text": "(Lal, 2004)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1901,
+                        "end": 1915,
+                        "text": "Soulama (2008)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 2262,
+                        "end": 2281,
+                        "text": "(Post & Kwon, 2000)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 2347,
+                        "end": 2361,
+                        "text": "(Batjes, 2001)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 2469,
+                        "end": 2487,
+                        "text": "Nair et al. (2009)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 2524,
+                        "end": 2544,
+                        "text": "Guo & Gifford (2002)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 2665,
+                        "end": 2688,
+                        "text": "Lagani\u00e8re et al., 2010)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 3172,
+                        "end": 3186,
+                        "text": "(Batjes, 2001;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 3187,
+                        "end": 3199,
+                        "text": "Smith, 2008)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 387,
+                        "end": 388,
+                        "text": "4",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil Organic Carbon Dynamics",
+                "sec_num": null
+            },
+            {
+                "text": "The 13 C natural abundance technique revealed subtle shifts in SOC stocks that would be significant in the long term but that might not be detected by less sensitive, conventional methodologies of total SOC measurements (del Galdo et al., 2003) . However, consistent with the results on SOC content in paired J. curcas and cropping sites in recently introduced J. curcas plantations, the \u03b4 13 C signature of young J. curcas stands did not show significant amounts of newly C 3 -derived soil C (Table II ). The observed shift of the \u03b4 13 C signature to significantly lower negative values in the intercropping systems can probably be traced back to a thick weed (C 4 ) cover in the plantations. As weed can be a major source of soil organic matter and seasonal shifts in weed composition (proportion of C 3 and C 4 weeds) can occur, monitoring of the weed component would help to better understand the soil C contribution by trees (Diels et al., 2001) .",
+                "cite_spans": [
+                    {
+                        "start": 220,
+                        "end": 244,
+                        "text": "(del Galdo et al., 2003)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 930,
+                        "end": 950,
+                        "text": "(Diels et al., 2001)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 500,
+                        "end": 502,
+                        "text": "II",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Changes in \u03b4 13 C Values",
+                "sec_num": null
+            },
+            {
+                "text": "In traditional living fences with mature J. curcas plants, the \u03b4 13 C values in 0-20 cm topsoil were more negative than in the adjacent sorghum fields, indicating a contribution of J. curcas to soil C. The newly C 3 -derived C amounted to 10% (f new ) of SOC and eventually contributed to the significant increase in SOC. The proportion of C 3 -C was particularly high in the first 0-10 cm soil layer. In a sparse plantation of >15-year-old J. curcas trees where a young J. curcas intercropping system was integrated (sampling site 11, Appendix S1), parkland trees and ancient C 3 vegetation most likely contributed to the highly negative 13 C values observed (Table II ). However, despite the observable trends, the overall analyses did not prove significant differences in \u03b4 13 C values between the mature J. curcas and the neighboring sorghum sites.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 667,
+                        "end": 669,
+                        "text": "II",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Changes in \u03b4 13 C Values",
+                "sec_num": null
+            },
+            {
+                "text": "Statistically significant SOC accumulation over time could be observed solely in living fences, as these are the only systems existing over a long enough period in Burkina Faso.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSIONS",
+                "sec_num": null
+            },
+            {
+                "text": "Table II. Comparison of \u03b4 13 C (\u2030) in soils (0-20 cm) under Jatropha curcas and sorghum J. curcas \u03b4 13 C (\u2030) Sorghum \u03b4 13 C (\u2030) f new p n 2-year-old afforestation system \u00c014\u20226 \u00b1 0\u202214 \u00c015\u20226 \u00b1 0\u202244 -0\u202202 15 4-year-old intercropping system a \u00c016\u20227 \u00b1 0\u202245 \u00c017\u20223 \u00b1 0\u202237 -0\u202229 18 20-year-old living fence \u00c016\u20223 \u00b1 0\u202255 \u00c015\u20221 \u00b1 0\u202257 0\u202210 0\u202214 18 >15-year-old J. curcas trees in sparse plantations \u00c020\u20225 \u00b1 0\u202265 \u00c019\u20229 \u00b1 0\u202242 0\u202207 0\u202250 14 a",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSIONS",
+                "sec_num": null
+            },
+            {
+                "text": "Sorghum and groundnut intercropping stopped 1 year before sampling; Jatropha curcas leaves had a mean \u03b4 13 C value of (\u00c027\u20229 \u00b1 0\u20222\u2030) (n = 4); \u03b4 13 C value of sorghum, millet, and grass averaged (\u00c011\u20227 \u00b1 0\u20221\u2030) (Bayala et al., 2006) . Mean values \u00b1 standard error; f new : proportion of newly derived C from J. curcas plots (in the first two cases, no newly derived C could be observed).",
+                "cite_spans": [
+                    {
+                        "start": 209,
+                        "end": 230,
+                        "text": "(Bayala et al., 2006)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSIONS",
+                "sec_num": null
+            },
+            {
+                "text": "The chronosequence study (covering 20 years) showed an average annual SOC accumulation of 62 g m \u00c02 in the top 20 cm (48% increase over 20 years) under J. curcas living fences. This value was corroborated by observable changes in \u03b4 13 C values, indicating a contribution of C 3 -derived C to total soil C. Even if no increase in SOC in the newly introduced J. curcas plantation systems could be discovered over the first years, long-term SOC accumulation can be expected on the basis of the high organic matter inputs through annual foliage deposition in contrast to annually harvested crop biomass. Longer-term measurements comprising standard soil analyses and 13 C natural isotope abundance should be undertaken in growing J. curcas plantations to investigate SOC changes over time. The equivalent soil mass approach is advisable for calculating SOC stock changes as the soils are characterized by high gravel content.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSIONS",
+                "sec_num": null
+            },
+            {
+                "text": "In J. curcas living fences, localized plantings with high tree densities, high litter production, and low soil disturbance led to comparably high soil C sequestration rates. These made an important contribution to the total C budget of the living fences. Thus, ignoring SOC changes would lead to an underestimation of the C sequestration potential. Although the contribution to climate change mitigation remains small from the global perspective, the observed SOC increases are locally important for enhancing soil productivity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSIONS",
+                "sec_num": null
+            },
+            {
+                "text": "Copyright \u00a9 2014 John Wiley & Sons, Ltd. LAND DEGRADATION & DEVELOPMENT, (2014)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "We gratefully acknowledge the financial and logistical support of the Dreyer Foundation in Burkina Faso. We sincerely thank all people who facilitated the research activities and especially all farmers for providing us the opportunity of conducting measurements in their fields.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ACKNOWLEDGEMENTS",
+                "sec_num": null
+            },
+            {
+                "text": "Additional supporting information may be found in the online version of this article at the publisher's web-site: Appendix S1. Main site characteristics and soil properties (topsoil 20 cm) of different J. curcas systems and reference sites.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SUPPORTING INFORMATION",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Natural C abundance as a tracer for studies of soil organic matter dynamics",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Balesdent",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Mariotti",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Soil Biology & Biochemistry",
+                "volume": "19",
+                "issue": "",
+                "pages": "25--30",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Balesdent J, Mariotti A. 1987. Natural C abundance as a tracer for studies of soil organic matter dynamics. Soil Biology & Biochemistry 19: 25-30.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Soil organic carbon dynamics, functions and management in West African agro-ecosystems",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bationo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kihara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Waswa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kimetu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Agricultural Systems",
+                "volume": "94",
+                "issue": "",
+                "pages": "13--25",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bationo A, Kihara J, Vanlauwe B, Waswa B, Kimetu J. 2006. Soil organic car- bon dynamics, functions and management in West African agro-ecosystems. Agricultural Systems 94: 13-25.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Options for increasing carbon sequestration in West African soils: an exploratory study with special focus on Senegal",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Batjes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Land Degradation & Development",
+                "volume": "12",
+                "issue": "",
+                "pages": "131--142",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Batjes NH. 2001. Options for increasing carbon sequestration in West African soils: an exploratory study with special focus on Senegal. Land Degradation & Development 12: 131-142.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Life cycle assessment of carbon and energy balances in Jatropha production systems of Burkina Faso",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Baumert",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Ecology Development Series",
+                "volume": "92",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Baumert S. 2014. Life cycle assessment of carbon and energy balances in Jatropha production systems of Burkina Faso. In Ecology Development Series No. 92, Vlek PLG (ed.). Cuvillier Verlag: G\u00f6ttingen.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Relative contribution of trees and crops to soil carbon content in a parkland system in Burkina Faso using variations in natural C abundance",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bayala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Balesdent",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Marol",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zapata",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Teklehaimanot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Ouedraogo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Nutrient Cycling in Agroecosystems",
+                "volume": "79",
+                "issue": "",
+                "pages": "193--201",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bayala J, Balesdent J, Marol C, Zapata F, Teklehaimanot Z, Ouedraogo SJ. 2006.Relative contribution of trees and crops to soil carbon content in a parkland system in Burkina Faso using variations in natural C abundance. Nutrient Cycling in Agroecosystems 79: 193-201.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Manuel pour l'\u00e9valuation des terres",
+                "authors": [],
+                "year": 1990,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bureau national des sols (BUNASOL). 1990. Manuel pour l'\u00e9valuation des terres, Ouagadougou.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Annual variation in d13C values of maize and wheat: effect on estimates of decadal scale soil carbon turnover",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Christensen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Olesen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Hansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Thomsen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Soil Biology & Biochemistry",
+                "volume": "43",
+                "issue": "",
+                "pages": "1961--1967",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Christensen BT, Olesen JE, Hansen EM, Thomsen IK. 2011. Annual variation in d13C values of maize and wheat: effect on estimates of decadal scale soil carbon turnover. Soil Biology & Biochemistry 43: 1961-1967.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Temporal variations in plant \u03b4 13 C values and implications for using the 13 C technique in long-term soil organic matter studies",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Diels",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Coolen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Soil Biology & Biochemistry",
+                "volume": "33",
+                "issue": "",
+                "pages": "1245--1251",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Diels J, Vanlauwe B, Sanginga N, Coolen E, Merckx R. 2001. Temporal variations in plant \u03b4 13 C values and implications for using the 13 C tech- nique in long-term soil organic matter studies. Soil Biology & Biochemistry 33: 1245-1251.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Soil carbon dynamics following afforestation of a tropical savannah with eucalyptus in Congo",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Ellert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Janzen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Mcconkey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "'anninzio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Nouvellon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Assessment methods for soil carbon",
+                "volume": "323",
+                "issue": "",
+                "pages": "309--322",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ellert BH, Janzen HH, McConkey BG. 2001. Measuring and comparing soil carbon storage. In Assessment methods for soil carbon, Lal R, Kimble JM, Follett RF, et al. (eds). Lewis Publisher: Boca Raton. Epron D, Marsden C, M'Bou AT, Saint-Andr\u00e9 L, D'Anninzio R, Nouvellon Y. 2009. Soil carbon dynamics following afforestation of a tropical savannah with eucalyptus in Congo. Plant and Soil 323: 309-322.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "A concept for simultaneous wasteland reclamation, fuel production, and socio-economic development in degraded areas in India: need, potential and perspectives of Jatropha plantations",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Francis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Edinger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Becker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Natural Resources Forum",
+                "volume": "29",
+                "issue": "",
+                "pages": "12--24",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Francis G, Edinger R, Becker K. 2005. A concept for simultaneous waste- land reclamation, fuel production, and socio-economic development in degraded areas in India: need, potential and perspectives of Jatropha plantations. Natural Resources Forum 29: 12-24.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Assessing the impact of land-use change on soil C sequestration in agricultural soils by means of organic matter fractionation and stable C isotopes",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Del Galdo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Six",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Peressotti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Cotrufo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Global Change Biology",
+                "volume": "9",
+                "issue": "",
+                "pages": "1204--1213",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "del Galdo I, Six J, Peressotti A, Cotrufo MF. 2003. Assessing the impact of land-use change on soil C sequestration in agricultural soils by means of organic matter fractionation and stable C isotopes. Global Change Biology 9: 1204-1213.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "A global analysis of deforestation due to biofuel development",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Gao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Skutsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Masera",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Pacheco",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "68",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gao Y, Skutsch M, Masera O, Pacheco P. 2011. A global analysis of defor- estation due to biofuel development. Working Paper 68. CIFOR: Bogor.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Biofuels in Africa impacts on ecosystem services, biodiversity and human well-being",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Gasparatos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Von",
+                        "middle": [],
+                        "last": "Maltitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Mathai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "De Oliveira",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Jap",
+                        "middle": [],
+                        "last": "Willis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gasparatos A, Lee LY, von Maltitz GP, Mathai MV, de Oliveira JAP, Willis KJ. 2012. Biofuels in Africa impacts on ecosystem services, biodi- versity and human well-being. UNU-IAS Policy Report.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Soil carbon stocks and land use change: a metaanalysis",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Gifford",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Global Change Biology",
+                "volume": "8",
+                "issue": "",
+                "pages": "345--360",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Guo LB, Gifford RM 2002: Soil carbon stocks and land use change: a meta- analysis. Global Change Biology 8: 345-360.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Assessment of Jatropha curcas systems and their potential for rural development in Burkina Faso, West Africa",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Hallensleben",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hallensleben M. 2011. Assessment of Jatropha curcas systems and their po- tential for rural development in Burkina Faso, West Africa. Rheinische Friedrich-Wilhelms-Universit\u00e4t: Bonn.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Claims and facts on Jatropha curcas L",
+                "authors": [
+                    {
+                        "first": "Ree",
+                        "middle": [],
+                        "last": "Jongschaap",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Corr\u00e9",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Bindraban",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Brandenburg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "158",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jongschaap REE, Corr\u00e9 WJ, Bindraban PS, Brandenburg WA. 2007. Claims and facts on Jatropha curcas L., 158 Plant Research International B.V., Wageningen.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Carbon accumulation in agricultural soils after afforestation: a meta-analysis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Lagani\u00e8re",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Angers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Par\u00e9",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Global Change Biology",
+                "volume": "16",
+                "issue": "",
+                "pages": "439--453",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lagani\u00e8re J, Angers DA, Par\u00e9 D. 2010. Carbon accumulation in agricultural soils after afforestation: a meta-analysis. Global Change Biology 16: 439-453.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Soil carbon sequestration impacts on global climate change and food security",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Science",
+                "volume": "304",
+                "issue": "",
+                "pages": "1623--1627",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal R. 2004. Soil carbon sequestration impacts on global climate change and food security. Science 304: 1623-1627.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Global patterns of the dynamics of soil carbon and nitrogen stocks following afforestation: a meta-analysis",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Niu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Luo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "New Phytologist",
+                "volume": "195",
+                "issue": "",
+                "pages": "172--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Li D, Niu S, Luo Y. 2012. Global patterns of the dynamics of soil carbon and nitrogen stocks following afforestation: a meta-analysis. New Phytologist 195: 172-181.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Litter fall, litter stocks and decomposition rates in rainforest and agroforestry sites in central Amazonia",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Martius",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "H\u00f6fer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Mvb",
+                        "middle": [],
+                        "last": "Garcia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "R\u00f6mbke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Hanagarth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Nutrient Cycling in Agroecosystems",
+                "volume": "68",
+                "issue": "",
+                "pages": "137--154",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Martius C, H\u00f6fer H, Garcia MVB, R\u00f6mbke J, Hanagarth W. 2004. Litter fall, litter stocks and decomposition rates in rainforest and agroforestry sites in central Amazonia. Nutrient Cycling in Agroecosystems 68: 137-154.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Soil carbon sequestration in tropical agroforestry systems: a feasibility appraisal",
+                "authors": [
+                    {
+                        "first": "Pkr",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kumar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Haile",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Environmental Science & Policy",
+                "volume": "12",
+                "issue": "",
+                "pages": "1099--1111",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nair PKR, Nair VD, Kumar BM, Haile SG. 2009. Soil carbon sequestration in tropical agroforestry systems: a feasibility appraisal. Environmental Science & Policy 12: 1099-1111.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Effects of young agroforestry trees on soils in on-farm situations in western Kenya",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Nyberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "H\u00f6gberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Agroforestry Systems",
+                "volume": "32",
+                "issue": "",
+                "pages": "45--92",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nyberg G, H\u00f6gberg P. 1995. Effects of young agroforestry trees on soils in on-farm situations in western Kenya. Agroforestry Systems 32: 45-92.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Contribution of Jatropha curcas to soil quality improvement in a degraded Indian entisol",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Ogunwole",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Chaudhary",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Gosh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Daudu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Chikara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Patolia",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Acta Agriculturae Scandinavica Sectopn B -Soil and Plant Science",
+                "volume": "58",
+                "issue": "",
+                "pages": "245--251",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ogunwole JO, Chaudhary DR, Gosh A, Daudu C, Chikara J, Patolia J. 2008. Contribution of Jatropha curcas to soil quality improvement in a degraded Indian entisol. Acta Agriculturae Scandinavica Sectopn B -Soil and Plant Science 58: 245-251.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Soil carbon sequestration and land-use change: processes and potentials",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Post",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Kwon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Global Change Biology",
+                "volume": "6",
+                "issue": "",
+                "pages": "317--328",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Post WM, Kwon KC. 2000. Soil carbon sequestration and land-use change: processes and potentials. Global Change Biology 6: 317-328.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Understanding soil change. Soil sustainability over millennia, centuries, and decades",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Richter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Markewitz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Richter DD, Markewitz D. 2001. Understanding soil change. Soil sustain- ability over millennia, centuries, and decades. Cambridge University Press: Cambridge.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Soil organic carbon dynamics and land-use change",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Land use and soil resources",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smith P. 2008. Soil organic carbon dynamics and land-use change. In Land use and soil resources, Braimoh AK, Vlek LG (eds). Springer Science +Business Media B.V.: Dordrecht.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Influence de Jatropha curcas dans la s\u00e9questration du carbone et essai de compostage",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Soulama",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Soulama S. 2008. Influence de Jatropha curcas dans la s\u00e9questration du carbone et essai de compostage. Universit\u00e9 de Ouagadougou: Ouagadougou.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Carbon sequestration and turnover in semi-arid savannas and dry forests",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Tiessen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Feller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Evsb",
+                        "middle": [],
+                        "last": "Sampaio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Garin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Climatic Change",
+                "volume": "40",
+                "issue": "",
+                "pages": "105--117",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tiessen H, Feller C, Sampaio EVSB, Garin P. 1998. Carbon sequestration and turnover in semi-arid savannas and dry forests. Climatic Change 40: 105-117.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Nothing begets nothing. The creeping disaster of land degradation",
+                "authors": [
+                    {
+                        "first": "Plg",
+                        "middle": [],
+                        "last": "Vlek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vlek PLG. 2005. Nothing begets nothing. The creeping disaster of land degradation. InterSecTions. Publication Series of UNU-EHS: Bonn.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Land decline in land-rich Africaa creeping disaster in the making",
+                "authors": [
+                    {
+                        "first": "Plg",
+                        "middle": [],
+                        "last": "Vlek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Le",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Tamene",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "CGIAR Science Council Secretariat",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vlek PLG, Le QB, Tamene L. 2008. Land decline in land-rich Africa -a creeping disaster in the making. CGIAR Science Council Secretariat: Rome.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "type_str": "figure",
+                "num": null,
+                "fig_num": "3",
+                "uris": null,
+                "text": "Figure 3. Mean values and their confidence intervals (95%) of (a) total soil organic carbon stocks (SOC) in mass per unit area (kg m \u00c02 ) and (b) in equivalent soil mass (Equivalent SOC) in the topsoil (0-20 cm) of paired J. curcas and cropping sites (J. curcas systems: IC -Intercropping system; LV -Living fence; CH -Contour hedge; AF -Afforestation system; IM -Intensely managed plantation)."
+            },
+            "FIGREF1": {
+                "type_str": "figure",
+                "num": null,
+                "fig_num": "4",
+                "uris": null,
+                "text": "Figure 4. Linear regression and observed data points of total soil organic carbon (SOC, kg m \u00c02 ) stocks in the topsoil (0-20 cm) in Jatropha curcas living fences in the central region of Burkina Faso. Dotted lines indicate confidence interval (95%)."
+            }
+        }
+    }
+}
