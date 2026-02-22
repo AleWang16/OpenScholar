@@ -1,4 +1,4 @@
-name: scaling
+cname: scaling
 channels:
   - pytorch
   - nvidia
@@ -6,10 +6,12 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-  - numpy
-  - torch
+  - numpy=1.26.4
+  - pyarrow=20.*
+  - openjdk=21
+  - pytorch
   - faiss-gpu=1.8.0
-  
+  - pip
   - pip:
     - omegaconf
     - hydra-core
