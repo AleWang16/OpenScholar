@@ -14,7 +14,6 @@ def main(cfg)-> None:
     print("Done building index.  Searching top k...")
     search_topk(cfg)
     print("Done searching top k.")
-
-
-if __name__ == "__main__":
+    
+if __name__ == "__main__": 
     main()
