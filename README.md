@@ -1,3 +1,136 @@
+# Important Information
+
+DISCLAIMER: all commands displayed in this section is for bash, and thus it is highly recommended to use Ubuntu for best results.
+
+This forked repository contains two new scripts that contain the fundamental functions for chunking, embedding, indexing, and 
+searching.  Two files are relevant for these functions are ```run_chunk_and_embed.py``` and ```build_indices_and_search.py```.  Below is a simplified file tree of the relevant files
+
+```
+OpenScholar
+|   README.md
+|
+└─── retriever
+|   |   run_chunk_and_embed.py  
+|   |
+|   └─── src
+|       |   build_indices_and_search.py
+|       |
+|
+└─── environments
+|   |   build_indices_and_search.yml
+|   |   run_chunk_and_embed.txt
+|   |
+|   
+└─── papers
+|   |   # insert your Grobid-preproceseed papers in .json format here 
+|   |
+|
+└─── processed_papers
+|   |
+|   └─── embeddings
+|   |   | 
+|   |   └─── index
+|   |   |   |
+|   |   |   └─── {shard number}
+|   |   |   |   |   # faiss indices in .faiss format
+|   |   |   # directory for passage chunk embeddings in .pkl format
+|   |   |
+|   |
+|   └─── normalized_jsonl
+|   |   |   # papers processed in .jsonl ready to be fed to the pipeline
+|   |   | 
+|   |
+|   └─── passages
+|   |   |   # passage vector database shards saved in .pkl format
+|   |   
+|
+└─── queries
+|   |   # input queries in .jsonl format. One query per file.
+|   |
+|
+└─── outputs
+|   |
+|   └─── {shard number}
+|       |   # retrieved passages based on query
+|   
+```
+Before running the scripts, create relevant conda environments, which are listed in the ```OpenScholar/environments``` folder.
+
+For ```run_chunk_and_embed.py```:
+
+    ```
+    conda create --name chunking_and_embedding python=3.10.19
+    conda activate chunking_and_embedding
+    pip install -r run_chunk_and_embed.txt
+    ```
+For ```build_indices_and_search.py```:
+
+    ```
+    conda env create -f build_indices_and_search.yml   
+    conda activate build_indices_and_search
+    ```
+
+```run_chunk_and_embed.py``` is responsible for taking a Grobid-processed paper in json format from the ```OpenScholar/papers``` directory, converting it to a jsonl file with formatting that is compatible with the chunking, embedding, and sharding functions of this repository.  This is important because Grobid formats the processed papers with nested json objects, and it needs to be flattened before being passed through the chunking and embedding pipeline.  To run, please run the following command from the root directory, inserting relevant paths and files into the placeholders, as denoted by the ```{}``` braces:
+
+```
+PYTHONPATH=. python retriever/run_chunk_and_embed.py   --input_path /{path to repo}/OpenScholar/papers/{paper_in_json_format}.json   --work_dir /{path to repo}/OpenScholar/processed_papers   --text_key text   --id_key id   --num_shards 1   --chunk_size 256   --min_chunk_size 0   --model_name_or_path akariasai/pes2o_contriever   --passage_maxlength 256   --per_gpu_batch_size 256
+```
+The outputs of running this script will be in the the ```OpenScholar/processed_papers``` directory, which itself includes three subdirectories.  The ```processed_papers/embeddings``` directory contains the chunked passages in .pkl format.  ```processed_papers/normalized_jsonl``` contains the processed papers.  Finally, ```processed_papers/passages``` contains the sharded chunked passages in .pkl format. 
+
+Once the passages are chunked and sharded, you can run ```build_indices_and_search.py``` from the root directory with the following commands, changing the path and file placeholders with your own, as denoted by the ```{}``` braces: 
+
+```
+cd retriever
+
+PYTHONPATH=. python src/build_indices_and_search.py \
+  --config-name default \
+  datastore.domain=workdir \
+  evaluation.domain=queries \
+  tasks.eval.task_name=lm-eval \
+  tasks.eval.search=true \
+  datastore.embedding.num_shards=1 \
+  datastore.embedding.shard_ids=[0] \
+  datastore.index.index_shard_ids=[0] \
+  datastore.embedding.embedding_dir=/{path to repo}/OpenScholar/processed_papers/embeddings \
+  datastore.embedding.passages_dir=/{path to repo}/OpenScholar/processed_papers/passages \
+  evaluation.data.eval_data=/{path to repo}/OpenScholar/queries/{your_query}.jsonl \
+  evaluation.search.n_docs=10 \
+  evaluation.eval_output_dir=/{path to repo}/OpenScholar/outputs \
+  evaluation.results_only_log_file=/{path to repo}/OpenScholar/outputs/retrieval.log
+```
+
+As input, the command takes a file containing the query in .jsonl format from the ```OpenScholar/queries``` directory, where the query should be formatted in the form:
+```
+{"query": "this is my query"}
+```
+
+according to .jsonl formatting.  It should also be given an output directory to store the top-k passages that best match the query.  For our case, these will be in the ```OpenScholar/outputs``` directory.  The script will create subdirectories titled by the shard number (numbers that are zero-indexed), which will contain the top-k passages for the given shard in .jsonl format.  Since we used one shard in the above command, the filetree will look like this:
+
+```
+OpenScholar
+|
+└─── outputs
+|   |
+|   └─── 0
+|       | test_retrieved_results.jsonl
+|       |
+```
+
+Where the ```0``` directory corresponds to the 0 shard.  Likewise the indices created for the will be stored in the ```OpenScholar/embeddings/index``` directories, where each index is also organized into subdirectories based on the shard number, as shown below (example for one shard):
+```
+OpenScholar
+|
+└─── embeddings
+|   |
+|   └─── index
+|       |
+|       └─── 0
+|           |   index_meta.faiss
+|           |   index.faiss
+```
+
+Note that this a work in progress and there are many thing that may be added and modified.  Thus, many of the things here may be subject to change. 
+
 # OpenScholar 
 
 This repository contains the code bases of OpenScholar. 

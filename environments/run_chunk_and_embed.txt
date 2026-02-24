@@ -1,0 +1,13 @@
+tqdm
+spacy
+nltk
+vllm
+FlagEmbedding
+transformers
+openai
+datasets
+torch
+requests
+pandas
+jsonlines
+bs4

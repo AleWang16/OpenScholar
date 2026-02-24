@@ -9,7 +9,7 @@ from src.search import search_topk, post_hoc_merge_topk_multi_domain
 
 @hydra_runner(config_path="../ric/conf", config_name="default")
 def main(cfg)-> None:
-    print("Start buildin index...")
+    print("Start building index...")
     build_index(cfg)
     print("Done building index.  Searching top k...")
     search_topk(cfg)
