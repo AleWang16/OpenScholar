@@ -131,7 +131,7 @@ def add_passages(data, passages, top_passages_and_scores, valid_query_idx, domai
                     "origin_id": docs[c]["origin_id"] if 'origin_id' in docs[c] else None,
                     # "retrieval title": docs[c]["title"],
                     "retrieval text": docs[c]["text"],
-                    "retrieval next text": next_docs[c]["text"],
+                    # "retrieval next text": next_docs[c]["text"], // not necessary to get next text
                     "retrieval score": scores[c],
                 }
                 for c in range(ctxs_num)

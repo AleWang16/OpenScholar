@@ -19,7 +19,7 @@ import json
 import os
 import re
 from typing import Dict, Iterable, List
-
+from pathlib import Path
 
 class AttrDict(dict):
     """Dict with attribute access, compatible with existing retriever helpers."""
@@ -238,8 +238,7 @@ def iter_json_records(path: str) -> Iterable[Dict]:
         return
 
     raise ValueError(f"Unsupported JSON structure in {path}.")
-
-
+    
 def normalize_to_jsonl(
     input_path: str,
     output_dir: str,
@@ -279,7 +278,10 @@ def normalize_to_jsonl(
                 if record_id is None:
                     # Preserve paper identity when generic id is absent.
                     record_id = converted.get("paper_id", auto_id)
-                out.write(json.dumps({"id": record_id, "text": text}, ensure_ascii=False) + "\n")
+                title = converted.get("title")
+                if title is None:
+                    title = "N/A"
+                out.write(json.dumps({"id": record_id, "title": title, "text": text}, ensure_ascii=False) + "\n")
                 written += 1
                 auto_id += 1
 
@@ -345,7 +347,8 @@ def parse_args() -> argparse.Namespace:
         )
     )
 
-    parser.add_argument("--input_path", type=str, required=True, help="Input .json/.jsonl file or directory.")
+    parser.add_argument("--input_path", type=str, required=True, help="Input directory for relevant JSON/JSONL files.")
+    # parser.add_argument("--output_filename", type=str, required=True, help="Name of output file.")
     parser.add_argument("--work_dir", type=str, required=True, help="Working directory for normalized data.")
 
     parser.add_argument("--text_key", type=str, default="text", help="Text field in input JSON records.")
@@ -412,7 +415,7 @@ def main() -> None:
         text_key=args.text_key,
         id_key=args.id_key,
     )
-
+    
     if (
         "sentence-transformers" not in args.model_name_or_path
         and not torch.cuda.is_available()
