@@ -132,6 +132,7 @@ def generate_passage_embeddings(cfg):
         for shard_id in shard_ids:
             embedding_shard_save_path = os.path.join(args.embedding_dir, args.prefix + f"_{shard_id:02d}.pkl")
             
+            # COMMENT OUT FOR NOW: skips embedding if directory has content
             if os.path.exists(embedding_shard_save_path) and args.get("use_saved_if_exists", "true"):
                 print(f"Embeddings exist in {embedding_shard_save_path}")
                 continue

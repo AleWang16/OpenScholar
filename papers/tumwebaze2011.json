@@ -1,0 +1,2095 @@
+{
+    "paper_id": "tumwebaze2011",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2026-02-18T16:06:21.695598Z"
+    },
+    "title": "Soil organic carbon under a linear simultaneous agroforestry system in Uganda",
+    "authors": [
+        {
+            "first": "Susan",
+            "middle": [],
+            "last": "Balaba Tumwebaze",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Eddie",
+            "middle": [],
+            "last": "Bevilacqua",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Russell",
+            "middle": [],
+            "last": "Briggs",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Timothy",
+            "middle": [],
+            "last": "Volk",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "S",
+            "middle": [
+                "B"
+            ],
+            "last": "Tumwebaze",
+            "suffix": "",
+            "affiliation": {},
+            "email": "tumwebaze@forest.mak.ac.ug"
+        },
+        {
+            "first": "\u00c1",
+            "middle": [
+                "E"
+            ],
+            "last": "Bevilacqua",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The objective of this study was to quantify and compare the amount and distribution of soil organic carbon (SOC) under a linear simultaneous agroforestry system with different tree species treatments. Field work was conducted at Kifu National Forestry Resources Research Institute in Mukono District, Central Uganda, in a linear agroforestry system established in 1995 with four different tree species and a crop only control treatment. Soil samples were collected in 2006 at three depths; 0-25, 25-50, and 50-100 cm, before planting and after harvesting a maize crop. The results indicate that an agroforestry system has significant potential to increase SOC as compared to the crop only control. There was no significant difference in the amount of SOC under exotic and indigenous tree species. Among the exotic species, Grevillea robusta had higher SOC than Casuarina equisetifolia across the entire depth sampled. There is significant difference in SOC among the indigenous species, where Maesopsis eminii has more SOC than Markhamia lutea. Distance from the tree row did not significantly influence SOC concentration under any of the tree species. In selecting a tree species to integrate with crops that will sequester reasonable quantities of carbon as well as boost the performance of the crops, a farmer can either plant an exotic species or an indigenous. In this study, the soil under Grevillea robusta and Maesopsis eminii have the highest potential to store organic carbon compared to soil under other tree species.",
+    "pdf_parse": {
+        "paper_id": "tumwebaze2011",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The objective of this study was to quantify and compare the amount and distribution of soil organic carbon (SOC) under a linear simultaneous agroforestry system with different tree species treatments. Field work was conducted at Kifu National Forestry Resources Research Institute in Mukono District, Central Uganda, in a linear agroforestry system established in 1995 with four different tree species and a crop only control treatment. Soil samples were collected in 2006 at three depths; 0-25, 25-50, and 50-100 cm, before planting and after harvesting a maize crop. The results indicate that an agroforestry system has significant potential to increase SOC as compared to the crop only control. There was no significant difference in the amount of SOC under exotic and indigenous tree species. Among the exotic species, Grevillea robusta had higher SOC than Casuarina equisetifolia across the entire depth sampled. There is significant difference in SOC among the indigenous species, where Maesopsis eminii has more SOC than Markhamia lutea. Distance from the tree row did not significantly influence SOC concentration under any of the tree species. In selecting a tree species to integrate with crops that will sequester reasonable quantities of carbon as well as boost the performance of the crops, a farmer can either plant an exotic species or an indigenous. In this study, the soil under Grevillea robusta and Maesopsis eminii have the highest potential to store organic carbon compared to soil under other tree species.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Agroforestry systems are frequently considered to be carbon sinks because the integration of trees in agriculture results in greater CO 2 sequestration from the atmosphere (Albrecht and Kandji 2003) . Agroforestry systems have the potential to sequester between 21 and 240 Mg C ha -1 over one or two decades, depending on tree species and density (Dixon 1995; Montagnini and Nair 2004) . In the humid tropics, the potential of agroforestry (tree-based) systems to sequester C in vegetation has been estimated to range between 25 and 70 Mg C ha -1 in the top 20 cm of soil (Mutuo et al. 2005) . In degraded soils of the subhumid tropics, improved fallow agroforestry practices increased topsoil C stocks up to 1.6 Mg C ha -1 above that of continuous maize cropping (Mutuo et al. 2005) .",
+                "cite_spans": [
+                    {
+                        "start": 172,
+                        "end": 198,
+                        "text": "(Albrecht and Kandji 2003)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 347,
+                        "end": 359,
+                        "text": "(Dixon 1995;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 360,
+                        "end": 385,
+                        "text": "Montagnini and Nair 2004)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 572,
+                        "end": 591,
+                        "text": "(Mutuo et al. 2005)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 764,
+                        "end": 783,
+                        "text": "(Mutuo et al. 2005)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "The efficiency of agroforestry systems to store C in tree biomass and soils depends on species used, management practices, environmental and socio-economic factors. For example, estimates have shown that the combination of woody perennials and annual crops has the potential to store between 29 and 53 Mg above-ground C ha -1 in the humid highlands of Africa, between 39 and 195 Mg C ha -1 in South America, and between 12 and 228 Mg C ha -1 in Southeast Asia (Winjum et al. 1992) .",
+                "cite_spans": [
+                    {
+                        "start": 460,
+                        "end": 480,
+                        "text": "(Winjum et al. 1992)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "Despite studies showing the potential of agroforestry in sequestering C, estimates of amount of C sequestered under specific agroforestry systems are limited due in large part to variability of soil C and time and resource constraints associated with sampling (Albrecht and Kandji 2003; Koskela et al. 2000) . The purpose of this study is to quantify the amount and distribution of soil organic carbon (SOC) in a linear simultaneous agroforestry practice. Our specific objectives are to (1) quantify soil organic carbon (SOC) within 100 cm of the surface, (2) assess impacts of exotic and indigenous tree species on SOC levels, and (3) determine whether SOC varies with distance and direction from the tree row.",
+                "cite_spans": [
+                    {
+                        "start": 260,
+                        "end": 286,
+                        "text": "(Albrecht and Kandji 2003;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 287,
+                        "end": 307,
+                        "text": "Koskela et al. 2000)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "In this study, examining influences of different tree species is important in order to assist landowner in selecting appropriate tree species when implementing agroforestry practices on lands previously employing non-agroforestry practices. Sampling SOC at different distances from tree crop is important to study in order to assist in determining an optimal inter-cropping spacing with respect to C sequestration. Difference between pre-planting and post-harvest C distribution provide information about the interaction effects of different tree species and maize on SOC when maize is used as a cash crop.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "The study was conducted at Kifu National Forestry Resources Research Institute (NaFORRI) (latitude 0\u00b048 0 N, longitude 32\u00b046 0 E, elevation 1,250 m above sea level (asl)) in Mukono District, Central Uganda. Kifu is located approximately 30 km east of Kampala, the capital city of Uganda. Rainfall is distributed bimodally, with long rains starting in March and ending in June while short rains start in August and end in November. Data from the metrological station at the site show that the annual rainfall was 1,266 mm in 1996 and 1,520 mm in 2001 (Okorio 2000; Wajja-Musukwe 2003) . Between 2002 and 2006 , the average annual rainfall was 1,560 mm. The annual minimum and maximum temperatures at Kifu are 20.8 and 25.2\u00b0C, respectively.",
+                "cite_spans": [
+                    {
+                        "start": 550,
+                        "end": 563,
+                        "text": "(Okorio 2000;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 564,
+                        "end": 583,
+                        "text": "Wajja-Musukwe 2003)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 586,
+                        "end": 602,
+                        "text": "Between 2002 and",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 603,
+                        "end": 607,
+                        "text": "2006",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study area",
+                "sec_num": null
+            },
+            {
+                "text": "The vegetation is characterized by elephant grass (Pennisetum purpureum) and remnants of high tropical forest and eucalyptus woodlots (Okorio 2000) . Swamps are covered by papyrus reeds (Cypresus papyrus) and sedges are found in several valley bottoms. Kifu is set in the crystalline basement characterized by metamorphosed granites and soils originating from quaternary alluvial and lacustrine deposits (Water Department 1996) . The FAO/UNE-SCO soil map classifies the soils as mainly Ferralsols, with Gleysols in the swamps and a small area of Intosols. The soils are slightly acidic sandy loams with bulk densities in the range of 1.5-1.7 Mg m -3 (Okorio 2000) .",
+                "cite_spans": [
+                    {
+                        "start": 134,
+                        "end": 147,
+                        "text": "(Okorio 2000)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 404,
+                        "end": 427,
+                        "text": "(Water Department 1996)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 650,
+                        "end": 663,
+                        "text": "(Okorio 2000)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study area",
+                "sec_num": null
+            },
+            {
+                "text": "Four tree species were included in this study. Casuarina equisetifolia L. is an evergreen with a finely branched and open crown that attains heights of 6-35 m tall and dbh (diameter at 1.3 m above ground) up to 100 cm. The altitudinal range where this species grows naturally is from 0 to 1,400 m asl with a mean annual temperature of 10-35\u00b0C and mean annual rainfall of 200-3,500 mm. The species prefers deep well-drained coarse textured soils (MacDicken 1994) . It grows in association with actinorhizal bacteria, through which it fixes atmospheric nitrogen. The tree has proteoid roots and forms association with vesicular arbuscular mycorrhizae. Grevillea robusta A. Cunn. is a deciduous tree, which grows up to 12-25 m tall and 80 cm dbh. The crown is conical and fairly open with moderate competition to crops. The tree trunk is straight and branches up to 15 m. The species grows at an altitudinal range of 0-2,300 m asl, requires a mean annual rainfall of 600-1,700 mm, mean annual temperature of 14-31\u00b0C and prefers medium texture soils, but establishes well in alluvial soils. The species occurs naturally in Australia, and has been introduced into sub-tropical highland regions of the world and is widely planted in Africa (Harwood 1992) .",
+                "cite_spans": [
+                    {
+                        "start": 445,
+                        "end": 461,
+                        "text": "(MacDicken 1994)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1234,
+                        "end": 1248,
+                        "text": "(Harwood 1992)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the tree species",
+                "sec_num": null
+            },
+            {
+                "text": "Maesopsis eminii Engl. is a leafy semi-deciduous tree, which grows up to 10-30 m in height with a clear bole of up to 100 cm dbh. The umbrella-like dense crown competes with annual crops but is compatible with shade tolerant perennials. The species grows at an altitudinal range of 700-1,500 m, requires mean annual rainfall of 1,200-1,300 mm and mean annual temperature of 22-27\u00b0C. It grows best on deep moist fertile sandy loam soils but tolerates a wide range of site conditions. It occurs naturally in Uganda, East, Central and West Africa (Katende et al. 1995) . Because of its dense canopy, it has been used as a shade tree for coffee in Uganda, cocoa in the Democratic Republic of Congo and Cardamom plantations in southern India.",
+                "cite_spans": [
+                    {
+                        "start": 544,
+                        "end": 565,
+                        "text": "(Katende et al. 1995)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the tree species",
+                "sec_num": null
+            },
+            {
+                "text": "Markhamia lutea K. Schum. is an evergreen tree, growing to 15 m in height, with a narrow irregular crown and deep long tap root. Highly competitive to crops, this species is found within an altitudinal range of 900-2,000 m, requiring a mean annual rainfall of 800-2,000 mm and a mean annual temperature of 12-27\u00b0C. It grows best on red loam soils but can tolerate well-drained acidic clay loams. It occurs naturally in lake basins and highlands of East Africa with high rainfall including Uganda (Katende et al. 1995) . Markhamia lutea grows rapidly in forest soils and the tree can attain a height growth rate of 2 m per year. The tree can be pruned and pollarded to reduce shading and can be coppiced at 1.7 m in height.",
+                "cite_spans": [
+                    {
+                        "start": 496,
+                        "end": 517,
+                        "text": "(Katende et al. 1995)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the tree species",
+                "sec_num": null
+            },
+            {
+                "text": "A completely randomized block design consisting of four blocks each containing six treatments was used.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sampling design",
+                "sec_num": null
+            },
+            {
+                "text": "The six treatments consisted of 5 tree species and control plots with no trees. The tree species were: (1) Alnus acuminate, (2) Casuarina equisetifolia, (3) Grevillea robusta, (4) Maesopsis eminii, and (5) Markhamia lutea. All treatments were replicated four times in 24 plots, of which the tree plots measured 25 9 30 m while the control plots were 15 9 30 m wide. Alnus acuminata was not included in the study because of its poor growth in all the blocks. A buffer of 5 m between plots was created to reduce the edge effect between species plots. The agroforestry system was selected according to the types of crop/species commonly preferred by the local community in Uganda.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sampling design",
+                "sec_num": null
+            },
+            {
+                "text": "The trial was established in 1995 as a linear simultaneous agroforestry system (Wajja-Musukwe et al. 2008) , where trees were planted in the field in September 1995 as 4-month seedlings from the nursery. The seedlings were planted in a row down the middle of the plot (25 m by 30 m) along an east-west axis at 1 m spacing, resulting in 24 trees per plot (Wajja-Musukwe 2003) . After 3 years of growth, the trees were thinned by removing every other tree and crown pruning was done to reduce shade by removing one-third of the crown before planting of the crops (Okorio 2000; Wajja-Musukwe 2003) . According to Wajja-Musukwe (2003) , the first root pruning was conducted in 1999, prior to sowing of crops to reduce below ground competition between crops and trees. Root pruning was repeated at 50 and 62 months after planting, the roots were pruned on one side of the tree row in each plot (Wajja-Musukwe et al. 2008) . During Wajja-Musukwe (2003)'s study, the plots were prepared by deep cultivation before onset of the rains, and weeded twice each season. Super phosphate (298 kg ha -1 ) and NPK (25, 5, 5; 149 kg ha -1 ) was applied before maize was sown. Details on average diameter breast height (dbh) and height of the trees at the time of this study can be obtained in (Tumwebaze 2008) . Much of this site had been under fallow since the last agroforestry experiments in 2000. The field site was visited on 5 June 2006 and it was learned that blocks three and four had been intercropped with maize for two seasons (1 year). Blocks one and two were still under fallow and had not been cropped since 2000.",
+                "cite_spans": [
+                    {
+                        "start": 79,
+                        "end": 106,
+                        "text": "(Wajja-Musukwe et al. 2008)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 354,
+                        "end": 374,
+                        "text": "(Wajja-Musukwe 2003)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 561,
+                        "end": 574,
+                        "text": "(Okorio 2000;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 575,
+                        "end": 594,
+                        "text": "Wajja-Musukwe 2003)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 610,
+                        "end": 630,
+                        "text": "Wajja-Musukwe (2003)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 889,
+                        "end": 916,
+                        "text": "(Wajja-Musukwe et al. 2008)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1275,
+                        "end": 1291,
+                        "text": "(Tumwebaze 2008)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sampling design",
+                "sec_num": null
+            },
+            {
+                "text": "A 2.5 9 2.5 m grid was superimposed in each 25 9 30 m tree plot and 15 9 30 m control plot, from which 120 and 72 subplots were obtained, respectively. Each plot was stratified by direction (east and west direction) and distance from the tree row (i.e., 0, 2.5, 5.0, 7.5, 10, and 12.5 m). At each distance, one subplot was randomly selected resulting in six subplots on either side of the row of trees. A total of 240 subplots were investigated, resulting in a sampling intensity of (240/2,208) 9 100 = 10.9%. Soil samples were collected from three depths in each plot for a total of 720 samples each time the soils were sampled.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data collection",
+                "sec_num": null
+            },
+            {
+                "text": "Soil samples were collected using a soil auger (0.083 m diameter) at three depths; 0-25, 25-50, and 50-100 cm for both before planting and after harvesting maize crop. Three soil cores within each subplot were composited by depth. After collection and air drying, soil samples weighing 1.5 kg were transported to the Forest Soils Analytical Laboratory at SUNY ESF, Syracuse, NY for analysis. Samples were processed through a 2 mm sieve to remove stones and root fragments. After mixing, a subsample was withdrawn for analysis of soil organic matter by loss on ignition (LOI) (Bickelhaupt and White 1982) . Organic matter was converted to organic C concentration by using two conversion factors; 1.92 for top soil (0-50 cm) and 2.5 for subsoil (50-100 cm) (Nelson and Sommers 1996) . Twenty-five of the 720 samples were missing due to errors in labeling during sampling and transportation.",
+                "cite_spans": [
+                    {
+                        "start": 575,
+                        "end": 603,
+                        "text": "(Bickelhaupt and White 1982)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 755,
+                        "end": 780,
+                        "text": "(Nelson and Sommers 1996)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data collection",
+                "sec_num": null
+            },
+            {
+                "text": "To determine soil bulk density, an undisturbed soil sample was removed from each subplot by the core sampler at each of the three depths (total of 240 9 3 depths = 720 samples). The samples were oven-dried at a temperature of 105\u00b0C until constant weight was attained. Bulk density was calculated using the dry mass divided by core volume (Oelbermann and Voroney 2007) .",
+                "cite_spans": [
+                    {
+                        "start": 338,
+                        "end": 367,
+                        "text": "(Oelbermann and Voroney 2007)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data collection",
+                "sec_num": null
+            },
+            {
+                "text": "Exploratory data analyses were used to describe and explore trends in the data (i.e., line graphs, bar graphs, and summary statistics). Due to the lack of independence in sample locations within and between fixed effects (through time and space), the data collected before planting (pre-planting) maize and after planting and harvesting maize (post-harvest) were analyzed with a linear mixed model using PROC MIXED in SAS (Littell et al. 1996) . Measurements from a single auger sample separated into various depth classes are expected to be correlated. In the experimental design this is considered as a repeated factor (repeated in space) and sampling at various distance perpendicular to the tree row is a repeated factor in space Schabenberger and Pierce (2002) hence the use of linear mixed model. The fixed effects were assessed at 5% significance level. Both horizontal and vertical variation of soil organic carbon were assessed using mixed models and by specifying an autoregressive covariance structure, since the data were equally spaced (Littell et al. 1996) .",
+                "cite_spans": [
+                    {
+                        "start": 422,
+                        "end": 443,
+                        "text": "(Littell et al. 1996)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1049,
+                        "end": 1070,
+                        "text": "(Littell et al. 1996)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Data for soil bulk density were analyzed using descriptive statistics and mixed model procedure. Autoregressive covariance structure was fitted to the data using the linear mixed model",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "Y ijklm \u00bcl \u00fe b i \u00fe q j \u00fe a k \u00fe qa jk \u00fe c l \u00fe qc jl \u00fe ac kl \u00fe qac jkl \u00fe s m \u00fe sq jm \u00fe sa km \u00fe cs lm \u00fe qas jkm \u00fe qcs jkl \u00fe sqac jklm \u00fe e ij \u00fe e ijk \u00fe e ijkl \u00fe e ijklm",
+                        "eq_num": "\u00f01\u00de"
+                    }
+                ],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "where, l is the overall mean, b i (i = 1-4) is the random effect of the ith block effect, q j (j = 1-5) is the fixed effect of the jth treatment (species plus control), a k (k = 1-2) is the fixed effect of the kth direction of sun rise (direction) and sun set, qa jk is the interaction between treatment and direction, c l (l = 1-6) is the fixed effect of lth distance from the row of trees (distance), qc jl , ac kl are interactions between treatment and distance, interaction between direction and distance, respectively, qac jkl is the interaction between treatment, direction and distance, s m (m = 1-3) is the depth at which all soil samples were obtained in the block i for jth treatment in kth direction and lth distance, sq jm , sa km , sc lm are interactions between depth and treatment, interaction between depth and direction of the sun and interaction between soil depth and distance from row of trees, qas jkm is the interaction between treatment, direction of the sun and depth, qcs jkl is the interaction between treatment, distance from the row of tree and soil depth, sqac jklm is the interaction between treatment, distance from tree row, direction of the sun and soil depth, e ij are the experimental errors assumed to be independent and identically distributed random variables with mean 0 and variance r 2 . e ijk are random variations within plots, taking into account the variation due to different directions and have mean 0 and variance r 2 \u00fe r 2 d , e ijkl are random variations within plots, taking into account the variation due to different directions and distances has mean 0 and variance",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "r 2 \u00fe r 2 d \u00fe r 2",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "p , e ijklm are random variations of soil samples taken at the different depths have mean 0 and variance",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "r 2 \u00fe r 2 d \u00fe r 2 p \u00fe r 2 t :",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Before specifying the autoregressive covariance structure, and to account for the correlation due to repeated measurements in space (distance and depth), different covariance structures [compound symmetry (CS), 1st order autoregressive (AR(1)), and unstructured (UN)], were fitted to both the baseline (before planting) SOC and after harvesting the maize SOC data. Covariance structures were assessed using Akaike's Information Criterion (AIC) and Schwarz Bayesian Information Criterion (BIC).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Although SOC concentrations across all depths and spatial locations were generally higher pre-planting (19.4 \u00b1 4.0 g C kg -1 ) compared to maize postharvest (18.5 \u00b1 3.8 g C kg -1 ), spatial variability was high. Soil bulk density ranged from 0.49 to 2.38 Mg m -3 , with a relatively high average (1.69 Mg m -3 ) over the study site. Bulk density varied significantly (P \\ 0.05) among treatments and increased with depth.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Variation in SOC over distance from tree row and soil depth (pre-planting) SOC data were evaluated within and across the plots by depth and distance. The following factors were considered fixed effects: species, direction of sun, depth and distance, while block and all the factors that were combined with blocks are random effects. The results showed that AR(1) covariance structure had the smallest AIC and BIC values (Table 1 ). Therefore, model 1 was fitted to the data using the AR(1) covariance structure and results are shown in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 427,
+                        "end": 428,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 542,
+                        "end": 543,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "There were significant interactions between depth and direction for SOC, as well as direction and distance (Table 2 ). Soil organic carbon decreases with increasing soil depth, where the highest SOC was registered at 0-25 cm and the least occurred at 50-100 cm for all the tree species and control treatments (Fig. 1a ). Maesopsis eminii had the highest soil organic carbon at 0-25 cm while Grevillea has the highest soil organic carbon at both the 25-50 and 50-100 cm soil depths (Fig. 1a ). The significant treatment effect showed that before planting the maize crop, SOC varied differently among the different tree species and control treatments. Grevillea robusta and Maesopsis eminii species had the highest soil organic carbon at all three soil depths, while control plot with no trees (control) had the least soil organic carbon at all soil depths (Fig. 1a ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 114,
+                        "end": 115,
+                        "text": "2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 315,
+                        "end": 317,
+                        "text": "1a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 487,
+                        "end": 489,
+                        "text": "1a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 861,
+                        "end": 863,
+                        "text": "1a",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "The significant interaction between direction and depth indicated that changes in SOC at increasing soil depth were different between the east and west side of the tree row (Fig. 2 ). There was greater SOC at soil depth of 0-25 and 50-100 cm on the western direction, while slightly higher amounts of SOC were obtained in the east direction at 25-50 cm compared to the west direction (Fig. 2 ). There was slightly more SOC between 2.5 and 7.5 m from the tree row on the eastern side whereas higher SOC was shown in the western direction from 7.5 to 12.5 cm (Fig. 3 ). Results indicated that SOC did not significantly change, on average, as distance increased from the tree row. Similar conclusions were obtained when the vertical distribution of soil organic carbon (correlation due to repeated measurements in depth) was considered (Table 2 ). There was no significant difference (P = 0.317) in SOC between exotic species (Casuarina equisetifolia and Grevillea robusta) as compared to indigenous species (Maesopsis eminii and Markhamia lutea) (Table 3 ). There was a significant (P = 0.018) difference between SOC under control with no trees treatment and the plots with trees. Overall, SOC under the tree species was 0.64 g C/kg higher as compared to the control treatment (Table 3 ). When the SOC under the two exotic species was analyzed, there were significant (P = 0.007) differences in the amount of SOC between the exotic species, where Grevillea robusta had more SOC than Casuarina equisetifolia (Table 3 ). There was significant (P = 0.007) difference in SOC among the indigenous species, where Maesopsis eminii has more SOC than Markhamia lutea.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 179,
+                        "end": 180,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 390,
+                        "end": 391,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 563,
+                        "end": 564,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 840,
+                        "end": 841,
+                        "text": "2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 1051,
+                        "end": 1052,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1282,
+                        "end": 1283,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1512,
+                        "end": 1513,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Horizontal (distance) distribution of SOC after harvesting maize crop (post-harvest)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Similar to the pre-planting data, the AR(1) covariance structure had the smallest AIC and BIC when modeling the variation in SOC (Table 1 ). After planting and harvesting the maize crop, the only fixed factor that was significant was soil depth (Table 4 ). There was more SOC in the 0-25 cm soil depth compared to the 50-100 cm for all the species. Similar results were obtained when the vertical distribution of soil organic carbon (correlation due to repeated measurements in depth) was analyzed (Table 4 ). There was a significant variation in SOC with soil depth following one rotation of planting maize (Table 4 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 136,
+                        "end": 137,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 252,
+                        "end": 253,
+                        "text": "4",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 505,
+                        "end": 506,
+                        "text": "4",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 615,
+                        "end": 616,
+                        "text": "4",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Variation of SOC post-harvest over distance from tree row and soil depth (post-harvesting)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "No particular pattern with distance from the row of trees was observed for all the species, as trend lines in the graph were not parallel to each other. Maesopsis eminii and Grevillea robusta had the highest soil organic carbon at distances 0-5 m from tree row and then declined, while control plots (with no trees) had the least soil organic carbon. Maesopsis eminii had more SOC close to the row of trees while Grevillea robusta had more SOC at 12.5 m away from the tree row. SOC decreased as the soil depth increased after harvesting (Fig. 1b ), this pattern was similar to preplanting (Fig. 1a ). Markhamia lutea had the highest soil organic carbon at 0-25 cm soil depth while Casuarina equisetifolia had the least (Fig. 1 ). Analysis of change in SOC for pre-planting and postharvesting indicated a significant difference in SOC among the depth and a significant treatment and soil depth interaction (Table 5 ). At soil depth 25-50 and 50-100 cm, Grevillea had the highest SOC (Table 6 ). Before planting, Grevillea robusta and Maesopsis eminii had the highest SOC while the control treatment with no trees had the least (Fig. 1a ). After harvesting maize, Markhamia lutea had more soil organic carbon than the rest of the species and Casuarina equisetifolia (Casuarina) had the least soil organic carbon at 0-25 cm soil depth (Fig. 1b ), with an overall reduction of 0.93 g C/kg in soil organic carbon (Table 6 ). After harvesting, the total SOC (averaged over block, side, soil depths and distance) was almost similar for Maesopsis eminii, Grevillea robusta and Markhamia lutea, while crop only and Casuarina equisetifolia had the least total SOC (Table 6 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 543,
+                        "end": 545,
+                        "text": "1b",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 595,
+                        "end": 597,
+                        "text": "1a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 725,
+                        "end": 726,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 912,
+                        "end": 913,
+                        "text": "5",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 989,
+                        "end": 990,
+                        "text": "6",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 1132,
+                        "end": 1134,
+                        "text": "1a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1338,
+                        "end": 1340,
+                        "text": "1b",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1415,
+                        "end": 1416,
+                        "text": "6",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 1661,
+                        "end": 1662,
+                        "text": "6",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Soil organic carbon stocks (Mg C ha -1 ) within 100 cm surface To relate soil C to a Mg C ha -1 basis, bulk density results from soil depth 0 to 25, 25 to 50 cm and 50 to 100 cm were related to the soil organic C results from the corresponding depth (Table 7 ). The soil organic carbon (Mg C ha -1 ) was calculated by multiplying the soil bulk density per depth and the SOC concentrations for both pre-and post planting. SOC stored under M. eminii before planting maize was 317.86 Mg C ha -1 and reduced to 300.58 Mg C ha -1 after planting and harvesting maize. The values of SOC for all the tree species was higher than control plots with no trees (Table 7 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 257,
+                        "end": 258,
+                        "text": "7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 656,
+                        "end": 657,
+                        "text": "7",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "Soil organic carbon varied significantly among treatments and across all depth before planting maize crop but there was non significant difference in SOC between the treatments after planting and harvesting the maize crop. This may be due to loss of SOC through soil and root respiration which occurred after Fig. 2 Interaction plot for depth and direction before planting maize in a linear simultaneous agroforestry system in Mukono District, Central Uganda clearing the site by slashing and tillage (Lal 2004 ). The impact of tree harvesting showed a significant reduction in SOC between before and after harvesting, which was attributed to harvesting disturbance (Oliver et al. 2004 ).",
+                "cite_spans": [
+                    {
+                        "start": 501,
+                        "end": 510,
+                        "text": "(Lal 2004",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 666,
+                        "end": 685,
+                        "text": "(Oliver et al. 2004",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 314,
+                        "end": 315,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The trees in the experimental site were 11 years old, and after this period, the existing SOC in the control plots (with no trees) was significantly (P \\ 0.05) less than the plots with the trees (Table 2 ). Similar results have been previously reported (Thevathasan Fig. 3 Variation in mean soil organic carbon before planting and after harvesting maize over different distances from tree row on the east and west side of the line of trees for a control (bare soil), b Casuarina, c Grevillea, d Maesopsis and e Markhamia, over all soil depths in a linear simultaneous agroforestry system in Mukono District, Central Uganda Gordon 2004; Soto-Pinto et al. 2007) . A study on the tree intercropping systems in north temperate regions found that the C sequestration potential in hybrid-Liriodendron tulipifera intercropping system was four times higher than that of conventional agricultural fields in the region (Thevathasan and Gordon 2004) , while a comparison of corn fields to Taungya, tropical-improved fallow, sub-tropical improved fallow, coffee-tree system and traditional agroforestry systems concluded that agroforestry systems contained more SOC than the corn field (Soto-Pinto et al. 2007) . The higher SOC found in the agroforestry systems compared to maize crop or bareland may be attributed to incorporation of more litter fall from the trees (i.e., leaves, branches and twigs) into soil that adds organic matter and improves soil quality. Below-ground, tree roots penetrate to deeper soil layers than crop roots and bring nutrients to the surface via leaf fall (Schroeder 1993) . The success of the intercropping system depends mainly on the capacity of the system components to maximize resource utilization, while at same time maintaining complementary interactions among them (Thevathasan and Gordon 2004) . It has been noted that perennial woody plants may possess a greater potential to exploit the below-ground environment directly than seasonal plants because, over multiple years, the root systems of woody plants can grow incrementally or parts of the root systems can be replaced in situ from season to season, hence increasing nutrient capture (Huxley 1999) . In addition, multistrata agroforestry practices will contribute litter from a mixture of species, providing a better nutrient balance in the soil as compared to monocropping systems, hence increasing soil organic matter in form of litter and root matter (Ong et al. 1996) . Woody species in agroforestry are capable of having better spatial and temporal utilization of available growth resources than annual species.",
+                "cite_spans": [
+                    {
+                        "start": 253,
+                        "end": 272,
+                        "text": "(Thevathasan Fig. 3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 623,
+                        "end": 635,
+                        "text": "Gordon 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 636,
+                        "end": 659,
+                        "text": "Soto-Pinto et al. 2007)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 909,
+                        "end": 938,
+                        "text": "(Thevathasan and Gordon 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1174,
+                        "end": 1198,
+                        "text": "(Soto-Pinto et al. 2007)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1574,
+                        "end": 1590,
+                        "text": "(Schroeder 1993)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1792,
+                        "end": 1821,
+                        "text": "(Thevathasan and Gordon 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2168,
+                        "end": 2181,
+                        "text": "(Huxley 1999)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 2438,
+                        "end": 2455,
+                        "text": "(Ong et al. 1996)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 202,
+                        "end": 203,
+                        "text": "2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The structural attributes of agroforestry, such as multiple vertical strata, allow the system to occupy space efficiently and provide a range of growing conditions (Schroeder 1993 ). The tree canopy in an agroforestry system provides shade and reduces evaporation from the soil. This shading effect also reduces temperature and provides a more moderate microclimate for crop growth. The tree canopy also provides shelter from wind, protects the soil from the impacts of heavy rain and helps to reduce soil erosion. Leaf litter acts as mulch and reduces evaporation, surface runoff and erosion, hence protecting the topsoil, which has more soil organic carbon and other soil nutrients. Therefore, agroforestry systems have a greater potential to increase soil organic carbon compared to the bareland or crop only practices. These characteristics may make agroforestry systems more resistant to climate change than monocropping systems.",
+                "cite_spans": [
+                    {
+                        "start": 164,
+                        "end": 179,
+                        "text": "(Schroeder 1993",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Distance from the tree row did not significantly influence SOC concentration for the treatments in this study, although it has been found that total soil C within the hybrid (Poplar) Liriodendron tulipifera intercropping site was significantly higher at 1 and 2 m away from the tree row compared to the middle of the alley (Thevathasan 1998) . The results of this study are similar to previously reported research (Oelbermann and Voroney 2007; Peichl et al. 2006; Thevathasan and Gordon 2004) , in which no significant differences in the amount of SOC were found at varying distances from the line of trees. Thevathasan and Gordon (2004) reported that SOC did not change significantly in the three distance zones from crop trees (0-2.5, 3-8, 8-15 m) 6 to 8 years after tree planting. Furthermore, it was observed that 15 years after planting, Liriodendron tulipifera trees were 14 m tall and leaf biomass was evenly distributed across the crop alley to a distance of up to 15 m, which resulted in a slow increase in SOC in the middle of the crop alley (Thevathasan and Gordon 2004) . Oelbermann and Voroney (2007) noted that after 13 years of alley cropping with hybrid Liriodendron tulipifera, the SOC and N pools did not differ significantly with distance from the tree row, although a trend of a large SOC and N pool near the tree row was observed. Peichl et al. (2006) indicated that the non-significant change in SOC as distance increases from the tree row was due to height of the Liriodendron tulipifera tree (i.e., 18 m), where the C input from litterfall is distributed evenly across the width of the crop alleys. This pattern is similar to the trees in the linear simultaneous agroforestry system in the current study, where all the trees were, on average, greater than 18 m in height, except for Markhamia lutea, which is 15 m. Hence no marked trend in SOC was observed with distance from the tree row.",
+                "cite_spans": [
+                    {
+                        "start": 323,
+                        "end": 341,
+                        "text": "(Thevathasan 1998)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 414,
+                        "end": 443,
+                        "text": "(Oelbermann and Voroney 2007;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 444,
+                        "end": 463,
+                        "text": "Peichl et al. 2006;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 464,
+                        "end": 492,
+                        "text": "Thevathasan and Gordon 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 608,
+                        "end": 637,
+                        "text": "Thevathasan and Gordon (2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1052,
+                        "end": 1081,
+                        "text": "(Thevathasan and Gordon 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1084,
+                        "end": 1113,
+                        "text": "Oelbermann and Voroney (2007)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1352,
+                        "end": 1372,
+                        "text": "Peichl et al. (2006)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "There was no significant difference (P [ 0.05) in SOC between exotic species (Casuarina equisetifolia, and Grevillea robusta) and indigenous species (Maesopsis eminii and Markhamia lutea) (Table 6 ). When the SOC under the two exotic species was compared, there were significant (P \\ 0.05) differences in the amount of SOC, with Grevillea robusta having more SOC than Casuarina equisetifolia (Table 6 ). There was a significant (P \\ 0.05) difference in SOC among the indigenous species, with Maesopsis eminii having more SOC than Markhamia lutea. Differences in SOC found between exotic and indigenous species may be due to the varying abilities of trees to capture soil nutrients, varying amounts of litter fall and root distribution, different rates of decomposition and other resources under different environments (Huxley 1999) . In addition, the amount of litterfall and differences in the litter decomposition rates among the different tree species may also influence SOC. The study conducted by Wajja-Musukwe et al. (2008) in Uganda at the same site, indicated that there were differences among the growth rates and form of the these tree species. Wajja-Musukwe et al. (2008) , also showed that there were significant differences between species in the mean number of main roots in the trench, were G. robusta had more main roots per tree than the other species, which could contribute the difference in SOC among the tree species.",
+                "cite_spans": [
+                    {
+                        "start": 818,
+                        "end": 831,
+                        "text": "(Huxley 1999)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1002,
+                        "end": 1029,
+                        "text": "Wajja-Musukwe et al. (2008)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1155,
+                        "end": 1182,
+                        "text": "Wajja-Musukwe et al. (2008)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 195,
+                        "end": 196,
+                        "text": "6",
+                        "ref_id": "TABREF5"
+                    },
+                    {
+                        "start": 399,
+                        "end": 400,
+                        "text": "6",
+                        "ref_id": "TABREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "There was significant variation in SOC with soil depth, where more SOC was observed at 0-25 cm soil depth and the least amount was measured at 50-100 cm. This indicates that SOC decreases with increasing soil depth in the linear simultaneous agroforestry systems. This result may be related to the decrease in root numbers with increasing depth in the soil profile and distance from the tree row (Wajja-Musukwe et al. 2008) . This study also noted that the soil profile under M. eminii showed maximum number of roots at a depth of about 0.45 m, whereas roots of other species (C. equisetifolia, M. lutea, and.G robusta) were most numerous closer to the soil surface. A study on alley cropping with hybrid poplar (Liriodendron tulipifera) found that SOC and N were not evenly distributed throughout the plow layer but the largest C and N pools occurred in top 20 cm of the soil horizon, which was attributed to the recent adoption of conservation tillage and no-till promoting the accumulation of SOC and N (Oelbermann and Voroney 2007) . However, in this study decrease in SOC may be due to the decrease in the rate of activities (biological and physical) as soil depth increases. More still, the spatial pattern of organic carbon stocks has been observed to be controlled by the distribution of root litter and the sorption of dissolved organic carbon (DOC) in the depth increments (Scho \u00a8ning et al. 2006) . Therefore, low spatial variation of SOC at soil depth below 12 cm was attributed to the high small scale variability of pore distribution and distribution of aluminum and iron (Scho \u00a8ning et al. 2006) . When change in SOC between before planting and after harvesting was analyzed, results showed that there was a greater loss in SOC in the top 25 cm compared to the deeper soil depths. Factors known to cause a loss in SOC (such as precipitation, soil temperature, tilling, etc.) affect the top layers of the soil more than at deeper soil depths.",
+                "cite_spans": [
+                    {
+                        "start": 396,
+                        "end": 423,
+                        "text": "(Wajja-Musukwe et al. 2008)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1006,
+                        "end": 1035,
+                        "text": "(Oelbermann and Voroney 2007)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1383,
+                        "end": 1407,
+                        "text": "(Scho \u00a8ning et al. 2006)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1586,
+                        "end": 1610,
+                        "text": "(Scho \u00a8ning et al. 2006)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Soil bulk density ranged from 0.49 to 2.38 Mg m -3 , with the average soil bulk density of the area was 1.69 Mg m -3 and standard deviation of 0.35 Mg m -3 . Soil bulk density varied significantly among the treatments and soil depth. The overall assessment of soil bulk density shows that mean soil bulk density increases with increasing soil depth and inversely with SOC, as has been previously observed (Don et al. 2007) . Although there was no significant direction effect in this study, our results indicate a significant interaction between direction and distance before planting maize. This implied that as the distance from the tree increases, changes in SOC are not the same in the east-west directions. For all the data sets, there was more SOC in the western direction (sunset) than the east (sunrise) for Casuarina equisetifolia, Markhamia lutea, and Grevillea robusta at distances of 7.5-12.5 m away from the tree row, whereas Maesopsis eminii plots had more SOC on the eastern side than the west for distances closer to the tree row (0-7.5 m). This could be due to the differences in orientation and size of the tree crown as well as the varying root architecture among the tree species. Overall SOC within 100 cm surface for all the trees species was higher than the control plot with no trees. This may be due to the presence of trees which contribute more leaves, forage and branch litter as well as the amount of roots that decompose as compared to control plots with trees only. However, the SOC (Mg C ha -1 ) values obtained under a linear agroforestry system in Uganda are relatively higher than those reported by others (e.g., Dixon 1995; Montagnini and Nair 2004; Mutuo et al. 2005; Winjum et al. 1992 ). This may be due to the factors such as species used and tree density (Dixon 1995; Montagnini and Nair 2004 ) that influences the potential of an agroforestry system to sequester carbon. Others factors that may influence the amount of SOC stored include agroforestry management practices, age of the trees and environmental factors.",
+                "cite_spans": [
+                    {
+                        "start": 405,
+                        "end": 422,
+                        "text": "(Don et al. 2007)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1648,
+                        "end": 1659,
+                        "text": "Dixon 1995;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1660,
+                        "end": 1685,
+                        "text": "Montagnini and Nair 2004;",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1686,
+                        "end": 1704,
+                        "text": "Mutuo et al. 2005;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1705,
+                        "end": 1723,
+                        "text": "Winjum et al. 1992",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1796,
+                        "end": 1808,
+                        "text": "(Dixon 1995;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1809,
+                        "end": 1833,
+                        "text": "Montagnini and Nair 2004",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Although this is a baseline study, the results indicate that linear simultaneous agroforestry systems have significant potential to increase soil organic carbon compared to control plots with no trees or crop only. There was no significant difference in the amount of SOC among the exotic and indigenous tree species. Soil bulk density varied significantly among the treatments and with soil depth. Among the exotic species, Grevillea robusta had more SOC than Casuarina equisetifolia. There was a significant difference in SOC among the indigenous species, where Maesopsis eminii had more SOC than Markhamia lutea. There was more SOC in the western direction (sunset) than the east (sunrise) for Casuarina equisetifolia, Markhamia lutea, and Grevillea robusta treatments at distances far from the tree row, whereas Maesopsis eminii plots had more SOC on the eastern side than the west for distances close to the tree row. Distance from the tree row did not significantly influence soil organic carbon concentration for the treatments. In selecting a tree species to integrate with crops as well as sequestrating reasonable quantities of carbon, a farmer can either plant an exotic or an indigenous species. Among the treatments studied, integrating trees and crops have a higher potential to sequester carbon than crop only. In this study, Grevillea robusta and Maesopsis eminii have the highest potential to store organic carbon in the soil compared to other tree species. It is recommended that further studies be conducted to assess the changes in SOC over the long-term.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": null
+            },
+            {
+                "text": "AgroforestSyst (2012) 84:11-23",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Acknowledgments I am grateful to International Foundation for Science (IFS) who gave me the first Research Grant for funding the first phase of data collection. I also thank Carnegie Corporation through Makerere University for funding the second phase of my field data collection. I also thank Dr. John Okorio for allowing me to use Kifu National Forestry Resources Research Institute (NaFORRI) for my field experiment. I would like to thank all the people who participated in the field data collection of soil samples, and special thanks go to Chuck Schirmer for his assistance in the soil lab analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "acknowledgement",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Carbon sequestration in tropical agroforestry systems",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Albrecht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kandji",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Agric Ecosyst Environ",
+                "volume": "99",
+                "issue": "",
+                "pages": "15--27",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Albrecht A, Kandji ST (2003) Carbon sequestration in tropical agroforestry systems. Agric Ecosyst Environ 99:15-27",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Laboratory manual for soil and plant tissue analysis",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Bickelhaupt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "White",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bickelhaupt DH, White EH (1982) Laboratory manual for soil and plant tissue analysis. SUNY College of Environmental Science and Forestry, Syracuse, NY",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Agroforestry systems: sources or sinks of greenhouse gases?",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Dixon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Agrofor Syst",
+                "volume": "31",
+                "issue": "",
+                "pages": "99--116",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dixon RK (1995) Agroforestry systems: sources or sinks of greenhouse gases? Agrofor Syst 31:99-116",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Spatial and vertical variation of soil carbon at two grassland sites-implication for measuring soil carbon stocks",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Don",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Schumacher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Scherer-Lorenzen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Scholten",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Schulze",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Geoderma",
+                "volume": "141",
+                "issue": "",
+                "pages": "272--282",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Don A, Schumacher J, Scherer-Lorenzen M, Scholten T, Schulze T (2007) Spatial and vertical variation of soil carbon at two grassland sites-implication for measuring soil carbon stocks. Geoderma 141:272-282",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Grevillea robusta in agroforestry and forestry",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Harwood",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Proceedings of an International workshop",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Harwood CE (1992) Grevillea robusta in agroforestry and for- estry. Proceedings of an International workshop. ICRAF Publications. English Press, Nairobi",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Tropical agroforestry",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Huxley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Huxley PA (1999) Tropical agroforestry. Blackwell Science, London 371 pp",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Useful trees and shrubs for Uganda: identification, propagation and management for agricultural and pastoral communities",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Katende",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Brinie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Tengnas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Regional Soil Conservation Unit",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Katende AB, Brinie A, Tengnas B (1995) Useful trees and shrubs for Uganda: identification, propagation and man- agement for agricultural and pastoral communities. Regional Soil Conservation Unit, RSCU, SIDA, Kenya",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Implications of the Kyoto Protocol for tropical forest management and land use: prospects and pitfalls",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Koskela",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Nygren",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Berninger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Luukkanen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Tropical Forestry Reports (Finland)",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Koskela J, Nygren P, Berninger F, Luukkanen O (2000) Implications of the Kyoto Protocol for tropical forest management and land use: prospects and pitfalls. In: Tropical Forestry Reports (Finland), no. 22/Helsinki Uni- versity (Finland). Department of Forest Ecology, 103 pp",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Agricultural activities and the global carbon cycle",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Nutr Cycl Agroecosyst",
+                "volume": "70",
+                "issue": "",
+                "pages": "103--116",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal R (2004) Agricultural activities and the global carbon cycle. Nutr Cycl Agroecosyst 70:103-116",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "SAS system for mixed models",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Littell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Milliken",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Stroup",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Wolfinger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Littell RC, Milliken GA, Stroup WW, Wolfinger RD (1996) SAS system for mixed models. SAS Institute Inc, USA",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Selection and management of nitrogenfixing trees",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Macdicken",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "",
+                "volume": "272",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "MacDicken KG (1994) Selection and management of nitrogen- fixing trees. Winrock International, Morrilton 272 pp",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Carbon sequestration: an underexploited environmental benefit of agroforestry systems",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Montagnini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Pkr",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Agrofor Syst",
+                "volume": "61",
+                "issue": "",
+                "pages": "281--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Montagnini F, Nair PKR (2004) Carbon sequestration: an un- derexploited environmental benefit of agroforestry sys- tems. Agrofor Syst 61:281-295",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Potential of agroforestry for carbon sequestration and mitigation of greenhouse gas emissions from soils in the tropics",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Mutuo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Cadisch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Albrecht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Palm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Verchot",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Nutr Cycl Agroecosyst",
+                "volume": "71",
+                "issue": "",
+                "pages": "43--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mutuo PK, Cadisch G, Albrecht A, Palm CA, Verchot L (2005) Potential of agroforestry for carbon sequestration and mitigation of greenhouse gas emissions from soils in the tropics. Nutr Cycl Agroecosyst 71:43-54",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Total carbon, organic carbon, and organic matter",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Nelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Sommers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Method of soil analysis. Part 2",
+                "volume": "",
+                "issue": "",
+                "pages": "984--985",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nelson DW, Sommers LE (1996) Total carbon, organic carbon, and organic matter. In: Page AL, Miller RH, Keeney DR (eds) Method of soil analysis. Part 2, 2nd edn. American Society of Agronomy, Madison, pp 984-985",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Carbon and nitrogen in a temperate agroforestry system: using stable isotopes as a tool to understand soil dynamic",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Oelbermann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Voroney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Ecol Eng",
+                "volume": "29",
+                "issue": "",
+                "pages": "342--349",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Oelbermann M, Voroney RP (2007) Carbon and nitrogen in a temperate agroforestry system: using stable isotopes as a tool to understand soil dynamic. Ecol Eng 29:342-349",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Light interception and water use in boundary planting Agroforestry system",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Okorio",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Okorio J (2000) Light interception and water use in boundary planting Agroforestry system. Ph.D. dissertation, Univer- sity of Reading, UK",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Variation in soil carbon in pine plantations and implications for monitoring soil carbon stocks in relation to land-use change and forest site management in New Zealand",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Oliver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Beets",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Garrett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Pearce",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Kimberly",
+                        "middle": [],
+                        "last": "Mo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Ford-Robertson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Robertson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "For Ecol Manag",
+                "volume": "203",
+                "issue": "",
+                "pages": "83--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Oliver GR, Beets PN, Garrett LG, Pearce SH, Kimberly MO, Ford-Robertson JB, Robertson KA (2004) Variation in soil carbon in pine plantations and implications for monitoring soil carbon stocks in relation to land-use change and forest site management in New Zealand. For Ecol Manag 203:83-295",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Principles of resource capture and utilization of light and water",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Ong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Black",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Marshall",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Corlett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "73--158",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ong CK, Black CR, Marshall FM, Corlett JE (1996) Principles of resource capture and utilization of light and water. In: Ong CK, Huxely PA (eds) Tree-crop interactions: a physiological approach. Wallingford: CAB International in association with the International Centre for Research in Agroforestry, pp 73-158",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Carbon sequestration potentials in temperate treebased intercropping systems, southern Ontario, Canada",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Peichl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Thevathasan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Gordon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Huss",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Abohassan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Agrofor Syst",
+                "volume": "66",
+                "issue": "",
+                "pages": "243--257",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Peichl M, Thevathasan NV, Gordon AM, Huss J, Abohassan RA (2006) Carbon sequestration potentials in temperate tree- based intercropping systems, southern Ontario, Canada. Agrofor Syst 66:243-257",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Contemporary statistical models for the plant and soil sciences",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Schabenberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Pierce",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schabenberger O, Pierce FJ (2002) Contemporary statistical models for the plant and soil sciences. CRC Press, Boco Raton 738 pp",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Small scale spatial variability of organic carbon stocks in litter and solum of a forested Luvisol",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Scho \u00a8ning",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "U"
+                        ],
+                        "last": "Totsche",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Ko \u00a8gel-Knabner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Geoderma",
+                "volume": "136",
+                "issue": "",
+                "pages": "631--642",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Scho \u00a8ning I, Totsche KU, Ko \u00a8gel-Knabner I (2006) Small scale spatial variability of organic carbon stocks in litter and solum of a forested Luvisol. Geoderma 136:631-642",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Agroforestry systems: integrated land use to store and conserve carbon",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Schroeder",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Clim Res",
+                "volume": "3",
+                "issue": "",
+                "pages": "53--60",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schroeder P (1993) Agroforestry systems: integrated land use to store and conserve carbon. Clim Res 3:53-60",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Environmental services from mulitrata agroforestry systems in Chiapas, Mexico",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Soto-Pinto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Aguirre",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Jimenez-Ferrer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Anzueto-Martinez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Delgadillo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Soto-Pinto L, Aguirre CM, Jimenez-Ferrer G, Anzueto-Marti- nez M, Delgadillo M (2007) Environmental services from mulitrata agroforestry systems in Chiapas, Mexico. www. web.catie.ac.cr/cd_multiestrata/Poster/session2/Environ mental.pdf. Accessed 17",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Ecology of tree intercropping systems in the North temperate region: experiences from southern Ontario, Canada",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Thevathasan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Agrofor Syst",
+                "volume": "61",
+                "issue": "",
+                "pages": "257--268",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Thevathasan NV (1998) Nitrogen dynamics and other interac- tions in a tree-cereal intercropping systems in southern Ontario. Ph.D. Thesis, University of Guelph, Guelph Thevathasan NV, Gordon AM (2004) Ecology of tree inter- cropping systems in the North temperate region: experi- ences from southern Ontario, Canada. Agrofor Syst 61: 257-268",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Quantifying the amount and spatial distribution of soil organic carbon under the linear simultaneous agroforestry system",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Tumwebaze",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tumwebaze SB (2008) Quantifying the amount and spatial distribution of soil organic carbon under the linear simul- taneous agroforestry system. Ph.D. dissertation, State University of New York, College of Environmental Sci- ence and Forestry Syracuse, USA",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Management of below-ground competition in simultaneous agroforestry systems",
+                "authors": [
+                    {
+                        "first": "Wajja-Musukwe",
+                        "middle": [],
+                        "last": "Tn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wajja-Musukwe TN (2003) Management of below-ground competition in simultaneous agroforestry systems. Ph.D. dissertation, University of Dundu",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Tree growth and management in Ugandan agroforestry systems: effects of root pruning on tree growth and crop yield",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Wajja-Musukwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Julia",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Sprent",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Ong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Douglas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Okorio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Tree Physiol",
+                "volume": "28",
+                "issue": "2",
+                "pages": "233--242",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wajja-Musukwe T, Julia W, Sprent JI, Ong CK, Douglas JD, Okorio J (2008) Tree growth and management in Ugandan agroforestry systems: effects of root pruning on tree growth and crop yield. Tree Physiol 28(2):233-242",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Ground water resource assessment at Kifu-Kabembe for borehole construction",
+                "authors": [],
+                "year": 1996,
+                "venue": "Light interception and water use in boundary planting agroforestry system",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Water Department (1996) Ground water resource assessment at Kifu-Kabembe for borehole construction. In: Okorio J (ed) (2000) Light interception and water use in boundary planting agroforestry system. Ph.D. dissertation, Univer- sity of Reading, UK",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Estimating the global potential of forest and agroforest management practices to sequester carbon",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Winjum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Dixon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Schroeder",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Water Air Soil Pollut",
+                "volume": "64",
+                "issue": "",
+                "pages": "213--228",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Winjum JK, Dixon RK, Schroeder PE (1992) Estimating the global potential of forest and agroforest management practices to sequester carbon. Water Air Soil Pollut 64: 213-228",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "text": "Fig. 1 Soil organic carbon variation over soil depth (a) pre-planting and (b) post-harvesting maize in a linear simultaneous agroforestry system in Mukono District, Central Uganda",
+                "fig_num": "1",
+                "num": null,
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "text": "Fit statistics for mixed model analysis of baseline (pre-planting and post-harvest) soil organic carbon using three different covariance structures to account for the correlation due to repeated measurements in space (distance): CS compound symmetry, AR(1) 1st order autoregressive, and UN unstructured",
+                "html": null,
+                "content": "<table><tr><td>Fit Statistics</td><td colspan=\"2\">Covariance structures</td><td/><td/><td/><td/></tr><tr><td/><td>Pre-planting data</td><td/><td/><td>Post-harvest data</td><td/><td/></tr><tr><td/><td>CS</td><td>AR(1)</td><td>UN</td><td>CS</td><td>AR(1)</td><td>UN</td></tr><tr><td>-2 Res log likelihood</td><td>-4,420</td><td>-4,422</td><td>-4,425</td><td>-4,415</td><td>-4,416</td><td>-4,422</td></tr><tr><td>AIC</td><td>-4,412</td><td>-4,414</td><td>-4,409</td><td>-4,407</td><td>-4,408</td><td>-4,406</td></tr><tr><td>BIC</td><td>-4,415</td><td>-4,417</td><td>-4,413</td><td>-4,409</td><td>-4,411</td><td>-4,411</td></tr></table>",
+                "num": null,
+                "type_str": "table"
+            },
+            "TABREF1": {
+                "text": "Modeling distribution of soil organic carbon (before planting)",
+                "html": null,
+                "content": "<table><tr><td>Effect</td><td>Num df</td><td>Den df</td><td colspan=\"2\">Treating horizontal distance</td><td colspan=\"2\">Treating vertical depth</td></tr><tr><td/><td/><td/><td colspan=\"2\">from row of trees as a repeated effect</td><td colspan=\"2\">as repeated effect</td></tr><tr><td/><td/><td/><td>F value</td><td>Pr [ F</td><td>F value</td><td>Pr [ F</td></tr><tr><td>Treat</td><td>4</td><td>12</td><td>5.53</td><td>0.009</td><td>5.6</td><td>0.009</td></tr><tr><td>Dir</td><td>1</td><td>15</td><td>2.28</td><td>0.152</td><td>2.1</td><td>0.168</td></tr><tr><td>Treat 9 Dir</td><td>4</td><td>15</td><td>1.45</td><td>0.265</td><td>1.35</td><td>0.296</td></tr><tr><td>DistT</td><td>5</td><td>75</td><td>0.72</td><td>0.607</td><td>0.63</td><td>0.681</td></tr><tr><td>Treat 9 DistT</td><td>20</td><td>75</td><td>0.64</td><td>0.868</td><td>0.58</td><td>0.916</td></tr><tr><td>Depth</td><td>2</td><td>75</td><td>400.15</td><td>\\0.0001</td><td>430.39</td><td>\\0.0001</td></tr><tr><td>Treat 9 Depth</td><td>8</td><td>75</td><td>1.23</td><td>0.296</td><td>1.31</td><td>0.252</td></tr><tr><td>Dir 9 DistT</td><td>5</td><td>487</td><td>2.68</td><td>0.021</td><td>2.43</td><td>0.037</td></tr><tr><td>Dir 9 Depth</td><td>2</td><td>487</td><td>3.77</td><td>0.024</td><td>4.57</td><td>0.011</td></tr><tr><td>DistT 9 Depth</td><td>10</td><td>487</td><td>1.19</td><td>0.293</td><td>1.26</td><td>0.249</td></tr><tr><td>Treat 9 Dir 9 DistT</td><td>20</td><td>487</td><td>0.94</td><td>0.537</td><td>0.81</td><td>0.695</td></tr><tr><td>Dir 9 DistT 9 Depth</td><td>10</td><td>487</td><td>0.82</td><td>0.611</td><td>0.95</td><td>0.487</td></tr><tr><td>Treat 9 Dir 9 DistT 9 Depth</td><td>88</td><td>487</td><td>1.05</td><td>0.367</td><td>1.13</td><td>0.222</td></tr></table>",
+                "num": null,
+                "type_str": "table"
+            },
+            "TABREF2": {
+                "text": "Comparison of soil organic carbon prior to planting maize for the species and control treatment in Mukono District, Central Uganda",
+                "html": null,
+                "content": "<table><tr><td>Label</td><td>Estimated difference (g C kg -1 )</td><td>Standard error (g C kg -1 )</td><td>df</td><td>t value</td><td>Pr [ |t|</td></tr><tr><td>Exotic vs. indigenous</td><td>-0.55</td><td>0.523</td><td>12</td><td>-1.04</td><td>0.3171</td></tr><tr><td>Control vs. tree species</td><td>-0.64</td><td>0.233</td><td>12</td><td>-2.74</td><td>0.0178</td></tr><tr><td>Among exotic species</td><td>1.22</td><td>0.371</td><td>12</td><td>-3.29</td><td>0.0065</td></tr><tr><td>Among indigenous species</td><td>-1.21</td><td>0.372</td><td>12</td><td>-3.24</td><td>0.0071</td></tr></table>",
+                "num": null,
+                "type_str": "table"
+            },
+            "TABREF3": {
+                "text": "Modeling distribution of soil organic carbon (after harvesting) Treat treatment, Dir direction, DistT distance from tree row, Depth soil depth",
+                "html": null,
+                "content": "<table><tr><td>Effect</td><td>Num df</td><td>Den df</td><td colspan=\"2\">Treating horizontal distance from</td><td colspan=\"2\">Treating vertical depth</td></tr><tr><td/><td/><td/><td colspan=\"2\">row of trees as a repeated effect</td><td colspan=\"2\">as repeated effect</td></tr><tr><td/><td/><td/><td>F values</td><td>Pr [ F</td><td>F value</td><td>Pr [ F</td></tr><tr><td>Treat</td><td>4</td><td>12</td><td>1.59</td><td>0.24</td><td>1.72</td><td>0.211</td></tr><tr><td>Dir</td><td>1</td><td>15</td><td>1.47</td><td>0.244</td><td>1.57</td><td>0.229</td></tr><tr><td>Treat 9 Dir</td><td>4</td><td>15</td><td>1.15</td><td>0.37</td><td>1.15</td><td>0.371</td></tr><tr><td>DistT</td><td>5</td><td>75</td><td>1.12</td><td>0.358</td><td>0.88</td><td>0.496</td></tr><tr><td>Treat 9 DistT</td><td>20</td><td>75</td><td>1.26</td><td>0.23</td><td>1.11</td><td>0.358</td></tr><tr><td>Dir 9 DistT</td><td>5</td><td>75</td><td>0.64</td><td>0.671</td><td>0.55</td><td>0.736</td></tr><tr><td>Treat 9 Dir 9 DistT</td><td>20</td><td>75</td><td>0.89</td><td>0.605</td><td>0.75</td><td>0.765</td></tr><tr><td>Depth</td><td>2</td><td>485</td><td>337.58</td><td>\\0.0001</td><td>407.93</td><td>\\0.0001</td></tr><tr><td>Treat 9 Depth</td><td>8</td><td>485</td><td>0.83</td><td>0.577</td><td>1.12</td><td>0.351</td></tr><tr><td>Direction 9 Depth</td><td>2</td><td>485</td><td>0.05</td><td>0.95</td><td>0.05</td><td>0.949</td></tr><tr><td>DistT 9 Depth</td><td>10</td><td>485</td><td>0.43</td><td>0.931</td><td>0.46</td><td>0.913</td></tr><tr><td>Dir 9 DistT 9 Depth</td><td>10</td><td>485</td><td>1.18</td><td>0.304</td><td>1.19</td><td>0.294</td></tr><tr><td>Treat 9 Dir 9 Dist 9 Depth</td><td>88</td><td>485</td><td>0.79</td><td>0.907</td><td>0.84</td><td>0.841</td></tr></table>",
+                "num": null,
+                "type_str": "table"
+            },
+            "TABREF4": {
+                "text": "Modeling distribution in the change in soil organic carbon (before planting minus after harvesting) treating vertical depth as a repeated effect Dir direction, DistT distance from tree row, Depth soil depth, Num df numerator degrees of freedom, Den df denominator degrees of freedom",
+                "html": null,
+                "content": "<table><tr><td>Effect</td><td>Num df</td><td>Den df</td><td>F Value</td><td>Pr [ F</td></tr><tr><td>Treat</td><td>4</td><td>12</td><td>0.77</td><td>0.567</td></tr><tr><td>Dir</td><td>1</td><td>15</td><td>0.12</td><td>0.730</td></tr><tr><td>Treat 9 Dir</td><td>4</td><td>15</td><td>1.07</td><td>0.405</td></tr><tr><td>DistT</td><td>5</td><td>75</td><td>1.05</td><td>0.394</td></tr><tr><td>Treat 9 DistT</td><td>20</td><td>75</td><td>1.12</td><td>0.347</td></tr><tr><td>Dir 9 DistT</td><td>5</td><td>75</td><td>1.16</td><td>0.335</td></tr><tr><td>Treat 9 Dir 9 DistT</td><td>20</td><td>75</td><td>0.50</td><td>0.959</td></tr><tr><td>Depth</td><td>2</td><td>509</td><td>25.21</td><td>\\0.0001</td></tr><tr><td>Treat 9 Depth</td><td>8</td><td>509</td><td>2.02</td><td>0.042</td></tr><tr><td>Dir 9 Depth</td><td>2</td><td>509</td><td>0.13</td><td>0.876</td></tr><tr><td>DistT 9 Depth</td><td>10</td><td>509</td><td>1.37</td><td>0.189</td></tr><tr><td>Dir 9 DistT 9 Depth</td><td>10</td><td>509</td><td>0.82</td><td>0.613</td></tr><tr><td>Treat 9 Dir 9 Dist 9 Depth</td><td>88</td><td>509</td><td>1.00</td><td>0.491</td></tr><tr><td>Treat treatment,</td><td/><td/><td/><td/></tr></table>",
+                "num": null,
+                "type_str": "table"
+            },
+            "TABREF5": {
+                "text": "Mean change (pre-planting-post-harvest) in soil organic carbon in a linear simultaneous agroforestry system in Mukono District, Central Uganda by soil depth and agroforestry treatment",
+                "html": null,
+                "content": "<table><tr><td>Depth</td><td colspan=\"4\">Tree species used in linear agroforestry system</td><td/><td/><td>Overall</td></tr><tr><td>(cm)</td><td>Control</td><td colspan=\"2\">C. equisetifolia</td><td>G. robusta</td><td>M. eminii</td><td>M. lutea</td><td>(g C kg -1 )</td></tr><tr><td/><td>(g C kg -1 )</td><td>(g C kg -1 )</td><td/><td>(g C kg -1 )</td><td>(g C kg -1 )</td><td>(g C kg -1 )</td></tr><tr><td>0-25</td><td>0.38</td><td>1.27</td><td/><td>1.26</td><td>1.45</td><td>0.48</td><td>0.96</td></tr><tr><td>25-50</td><td>0.26</td><td>0.77</td><td/><td>1.97</td><td>0.96</td><td>1.04</td><td>0.97</td></tr><tr><td>50-100</td><td>0.49</td><td>1.38</td><td/><td>1.48</td><td>0.86</td><td>-0.45</td><td>0.73</td></tr><tr><td>Overall</td><td>0.43</td><td>1.13</td><td/><td>1.56</td><td>1.13</td><td>0.38</td><td>0.93</td></tr><tr><td colspan=\"4\">n = 240 for each soil depth, Mean = Least square means</td><td/><td/><td/></tr><tr><td colspan=\"5\">Table 7 Soil organic carbon stocks in a linear simultaneous</td><td/><td/></tr><tr><td colspan=\"4\">agroforestry system in Mukono District, Central Uganda</td><td/><td/><td/></tr><tr><td>Treatment</td><td/><td>SOC (Mg C ha -1 )</td><td/><td/><td/><td/></tr><tr><td/><td/><td>Pre-planting</td><td colspan=\"2\">Post-harvest</td><td/><td/></tr><tr><td colspan=\"2\">Control (no trees)</td><td>153.65</td><td>150.47</td><td/><td/><td/></tr><tr><td colspan=\"2\">Casuarina equisetifolia</td><td>280.30</td><td>263.35</td><td/><td/><td/></tr><tr><td colspan=\"2\">Grevillea robusta</td><td>316.85</td><td>291.84</td><td/><td/><td/></tr><tr><td colspan=\"2\">Maesopsis eminii</td><td>317.86</td><td>300.58</td><td/><td/><td/></tr><tr><td colspan=\"2\">Markhamia lutea</td><td>283.87</td><td>279.03</td><td/><td/><td/></tr></table>",
+                "num": null,
+                "type_str": "table"
+            }
+        }
+    }
+}

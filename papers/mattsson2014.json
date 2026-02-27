@@ -1,0 +1,2974 @@
+{
+    "paper_id": "mattsson2014",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2026-02-18T16:05:38.580380Z"
+    },
+    "title": "Quantification of carbon stock and tree diversity of homegardens in a dry zone area of Moneragala District, Sri Lanka \u2020",
+    "authors": [
+        {
+            "first": "Eskil",
+            "middle": [],
+            "last": "Mattsson",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Division of Physical Resource Theory",
+                "institution": "Chalmers University of Technology",
+                "location": {
+                    "postCode": "412 96",
+                    "settlement": "G\u00f6teborg",
+                    "country": "Sweden"
+                }
+            },
+            "email": "eskil.mattsson@chalmers.se"
+        },
+        {
+            "first": "Madelene",
+            "middle": [],
+            "last": "Ostwald",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Division of Physical Resource Theory",
+                "institution": "Chalmers University of Technology",
+                "location": {
+                    "postCode": "412 96",
+                    "settlement": "G\u00f6teborg",
+                    "country": "Sweden"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "S",
+            "middle": [
+                "P"
+            ],
+            "last": "Nissanka",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Peradeniya",
+                "location": {
+                    "settlement": "Peradeniya",
+                    "country": "Sri Lanka"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "D",
+            "middle": [
+                "K N G"
+            ],
+            "last": "Pushpakumara",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Peradeniya",
+                "location": {
+                    "settlement": "Peradeniya",
+                    "country": "Sri Lanka"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Homegarden agroforestry systems are suggested to hold a large potential for climate change mitigation and adaptation. This is due to their multifunctional role in providing income, food and ecosystem services while decreasing pressure on natural forests and hence saving and storing carbon. In this paper, above-ground biomass carbon and tree species diversity of trees was quantified in homegardens around two villages in the dry south-eastern part of Moneragala district of Sri Lanka. A total of 45 dry zone homegardens were sampled on size, diameter at breast height, tree height and species diversity. Using allometric equations, we find a mean above-ground biomass stock of 13 Mega grams of carbon per hectare (Mg C ha -1 ) with a large range among homegardens (1 to 56 Mg C ha -1 , n=45) due to a variation of tree diversity and composition between individual homegardens. Mean above-ground carbon stock per unit area was higher in small homegardens (0.2 ha, 26 Mg C ha -1 , n=11) and statistically different compared to medium (0.4-0.8 ha, 9 Mg C ha -1 , n=27) and large (1.0-1.2 ha, 8 Mg C ha -1 , n=7) homegardens. In total, 4,278 trees were sampled and 70 tree species identified and recorded. The Shannon Wiener index were used to evaluate diversity per homegarden and ranged from 0.76 to 3.01 with a mean value of 2.05 \uf0b1 0.07 indicating a medium evenly distributed diversity of sampled tree species. The results show a vast heterogeneity in terms of carbon stock and tree diversity within the less studied dry zone homegardens; results that contribute to more knowledge of their expansion potential as well as climate mitigation and adaptation potential. The results are also useful for whether homegardens should be considered to be included as an activity to enhance natural forest cover within Sri Lanka's newly commenced UN-REDD National Programme.",
+    "pdf_parse": {
+        "paper_id": "mattsson2014",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Homegarden agroforestry systems are suggested to hold a large potential for climate change mitigation and adaptation. This is due to their multifunctional role in providing income, food and ecosystem services while decreasing pressure on natural forests and hence saving and storing carbon. In this paper, above-ground biomass carbon and tree species diversity of trees was quantified in homegardens around two villages in the dry south-eastern part of Moneragala district of Sri Lanka. A total of 45 dry zone homegardens were sampled on size, diameter at breast height, tree height and species diversity. Using allometric equations, we find a mean above-ground biomass stock of 13 Mega grams of carbon per hectare (Mg C ha -1 ) with a large range among homegardens (1 to 56 Mg C ha -1 , n=45) due to a variation of tree diversity and composition between individual homegardens. Mean above-ground carbon stock per unit area was higher in small homegardens (0.2 ha, 26 Mg C ha -1 , n=11) and statistically different compared to medium (0.4-0.8 ha, 9 Mg C ha -1 , n=27) and large (1.0-1.2 ha, 8 Mg C ha -1 , n=7) homegardens. In total, 4,278 trees were sampled and 70 tree species identified and recorded. The Shannon Wiener index were used to evaluate diversity per homegarden and ranged from 0.76 to 3.01 with a mean value of 2.05 \uf0b1 0.07 indicating a medium evenly distributed diversity of sampled tree species. The results show a vast heterogeneity in terms of carbon stock and tree diversity within the less studied dry zone homegardens; results that contribute to more knowledge of their expansion potential as well as climate mitigation and adaptation potential. The results are also useful for whether homegardens should be considered to be included as an activity to enhance natural forest cover within Sri Lanka's newly commenced UN-REDD National Programme.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Homegardens are agroforestry systems common throughout the tropics (Nair and Kumar 2006; Mohri et al. 2013) . Homegardens are prime examples of multi-functional landscapes: spaces that combine agriculture, forestry and natural ecosystems and are in Sri Lanka defined as a complex sustainable land-use system that combines multiple farming components, such as annual and perennial crops, livestock and occasionally fish, of the homestead and provides environmental services, household needs, and employment and income generation opportunities to the households (Weerahewa et al. 2012) . Others, such as, Kumar and Nair (2004) and Nair and Kumar (2006) provide a similar definition and suggest that a homegarden includes the concept of intimate plant associations of various trees and crops, sometimes in association with domestic animals, and consequent multi-story canopy configuration around the homestead. Despite the lack of a uniform definition of homegardens they are second to shifting cultivation the oldest land-use systems worldwide that have evolved through centuries of biological and cultural transformation (Nair and Kumar 2006; Pushpakumara et al. 2012) . In recent years, there has been growing interest in agroforestry systems due to their large potential for climate change mitigation and adaptation and their role to mitigate household food security and nutrition from soaring food prices (Minang et al. 2012; Nair 2012; Galhena et al. 2013) .",
+                "cite_spans": [
+                    {
+                        "start": 67,
+                        "end": 88,
+                        "text": "(Nair and Kumar 2006;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 89,
+                        "end": 107,
+                        "text": "Mohri et al. 2013)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 560,
+                        "end": 583,
+                        "text": "(Weerahewa et al. 2012)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 603,
+                        "end": 624,
+                        "text": "Kumar and Nair (2004)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 629,
+                        "end": 650,
+                        "text": "Nair and Kumar (2006)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1120,
+                        "end": 1141,
+                        "text": "(Nair and Kumar 2006;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 1142,
+                        "end": 1167,
+                        "text": "Pushpakumara et al. 2012)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 1407,
+                        "end": 1427,
+                        "text": "(Minang et al. 2012;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1428,
+                        "end": 1438,
+                        "text": "Nair 2012;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1439,
+                        "end": 1459,
+                        "text": "Galhena et al. 2013)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "Homegardens also store higher amounts of carbon than other agriculture systems in the above-and below-ground biomass and soils, but usually inferior to mature forests at the same site (Schroth et al. 2011; Mattsson et al. 2013) . The provisioning role of agroforestry and homegardens to maintain species diversity may also facilitate more stable and longer term stability of carbon stocks as well as diversification of homegarden derived products (Yachi and Loreau 1999; Brookfield et al. 2002; Henry et al. 2009 ).",
+                "cite_spans": [
+                    {
+                        "start": 184,
+                        "end": 205,
+                        "text": "(Schroth et al. 2011;",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 206,
+                        "end": 227,
+                        "text": "Mattsson et al. 2013)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 447,
+                        "end": 470,
+                        "text": "(Yachi and Loreau 1999;",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 471,
+                        "end": 494,
+                        "text": "Brookfield et al. 2002;",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 495,
+                        "end": 512,
+                        "text": "Henry et al. 2009",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "To meet future challenges of land and water scarcity, and to ensure food security as a result to adverse effects of climate change, future mitigation and adaptation strategies that can be used by local land users through effective support by stakeholders and policymakers needs further attention (Murthy et al. 2013) . To identify such strategies, it is relevant to analyze quantitative information and estimates of tropical homegardens' ability to sequester and store carbon. Although, the importance and recognition of homegardens for carbon storage has been highlighted earlier (e.g., Kumar 2006; Nair 2012) there is still a lack of quantitative data on homegardens and their carbon content, especially in dry zone environments in Sri Lanka. Few studies have also related species diversity to ecosystem processes (Pushpakumara et al. 2012) . Since subsistence agriculture is predominantly practiced in the dry zone, the little research focus on dry zone homegardens warrants further investigation on this subject. Therefore, this paper focuses on assessing the amount and pattern of tree diversity and above-ground biomass (AGB) in homegardens around two selected villages in the southern part of Moneragala district in Sri Lanka. The objective is to investigate how the AGB carbon and tree diversity varies depending on parameters such as homegarden size, soil organic carbon (SOC) content, diameter at breast height (DBH) and tree height.",
+                "cite_spans": [
+                    {
+                        "start": 296,
+                        "end": 316,
+                        "text": "(Murthy et al. 2013)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 588,
+                        "end": 599,
+                        "text": "Kumar 2006;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 600,
+                        "end": 610,
+                        "text": "Nair 2012)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 816,
+                        "end": 842,
+                        "text": "(Pushpakumara et al. 2012)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "Based on the mean annual rainfall, Sri Lanka is divided into three climatic zones. They are dry, intermediate, and wet mean annual rainfall of less than 1,750, between 1,750 to 2,500 and over 2,500 mm, respectively (see Fig. 1 ) (MFE 1995) . In Sri Lanka, homegardens cover about 14% of the total land area (FAO 2009) . They are mainly privately owned and are managed through family labor using technologies that rely on rich local knowledge systems (Pushpakumara et al. 2010) . Sri Lankan homegardens provide staple foods, many kinds of fruits, vegetables, spices, fuelwood, fodder, timber, medicinal plants and occasionally livestock products throughout the year. Although being ancient land-use systems, governmental policies have recently encouraged establishment and expansion of homegardens in urban and sub-urban settings as a mechanism to reduce living costs and imports of food products, to enhance food security and maintenance of environmentally friendly-traditional agriculture methods. Examples include the most recent program \"Divi Neguma\" (Livelihood Development) that aim to establish 2.5 million homegardens to achieve self-sufficiency in vegetables and to reduce vegetable prices by providing free seeds, fertilizer and technical advice (Kumari et al. 2009; Government of Sri Lanka 2011) . So far homegarden research in Sri Lanka has predominantly included various assessments of Kandyan homegardens located in the mid-country wet zone (Pushpakumara et al. 2010) .",
+                "cite_spans": [
+                    {
+                        "start": 229,
+                        "end": 239,
+                        "text": "(MFE 1995)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 307,
+                        "end": 317,
+                        "text": "(FAO 2009)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 450,
+                        "end": 476,
+                        "text": "(Pushpakumara et al. 2010)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 1255,
+                        "end": 1275,
+                        "text": "(Kumari et al. 2009;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1276,
+                        "end": 1305,
+                        "text": "Government of Sri Lanka 2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1454,
+                        "end": 1480,
+                        "text": "(Pushpakumara et al. 2010)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 225,
+                        "end": 226,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Carbon stocks and tree diversity in Sri Lankan homegarden systems",
+                "sec_num": null
+            },
+            {
+                "text": "Few comparative analyses exists both in terms of tree diversity and AGB carbon stocks for dry zone environments in Sri Lanka. However, Mattsson et al (2013) estimated the carbon stock for dry zone Sri Lankan homegardens (Hambantota and Anuradnapura district) is ranging from 10 to 55 Mega grams of carbon per hectare (Mg C ha -1 ) (mean 35 Mg C ha -1 ). For comparison, Kandyan homegardens in the wet zone had carbon stocks ranging between 48 to 145 Mg C ha -1 with a mean value of 87 Mg C ha -1 (ibid.) Homegarden diversity is by large controlled by ecological and socio-economic factors such as altitude, homegarden size, age of gardens, and personal preferences by the gardeners, market access and production intensity (Karyono 1990; Abdoellah et al. 2006; Nair and Kumar 2006; Peyre et al. 2006; Torquebiau and Penot 2006; Wiersum 2006; Pandey et al. 2007; Kehlenbeck and Maas 2008) . Ariyadasa (2002) estimated more than 400 different woody species in Sri Lankan homegardens. In 20 districts a total of 153,493 million trees have been recorded of which wet, intermediate and dry zone homegardens consists of 49, 37, and 14% of trees, respectively. The average density of trees in homegardens of Sri Lanka is varying from 20 to 475 trees ha -1 . The wet zone homegardens are considerably smaller in extent than dry zone homegardens but the total number of trees recorded within the wet zone is much higher due to the higher tree density (average of 260 trees ha -1 ) than those in the dry zone (average 125 trees ha -1 ). Higher species density has also been found in small homegardens than large homegardens (McConnell and Dharmapala 1973; McConnell 2003; Pushpakumara et al. 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 135,
+                        "end": 156,
+                        "text": "Mattsson et al (2013)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 722,
+                        "end": 736,
+                        "text": "(Karyono 1990;",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 737,
+                        "end": 759,
+                        "text": "Abdoellah et al. 2006;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 760,
+                        "end": 780,
+                        "text": "Nair and Kumar 2006;",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 781,
+                        "end": 799,
+                        "text": "Peyre et al. 2006;",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 800,
+                        "end": 826,
+                        "text": "Torquebiau and Penot 2006;",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 827,
+                        "end": 840,
+                        "text": "Wiersum 2006;",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 841,
+                        "end": 860,
+                        "text": "Pandey et al. 2007;",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 861,
+                        "end": 886,
+                        "text": "Kehlenbeck and Maas 2008)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 889,
+                        "end": 905,
+                        "text": "Ariyadasa (2002)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 1613,
+                        "end": 1644,
+                        "text": "(McConnell and Dharmapala 1973;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1645,
+                        "end": 1660,
+                        "text": "McConnell 2003;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1661,
+                        "end": 1686,
+                        "text": "Pushpakumara et al. 2012)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Carbon stocks and tree diversity in Sri Lankan homegarden systems",
+                "sec_num": null
+            },
+            {
+                "text": "The study was conducted in the neighboring villages of Padikapuhela (6\u00b021'30' N-6\u00b022'30'N and 81\u00b014'30' E-81\u00b015'10' E) and Pilimihela (6\u00b021'00' N-6\u00b021'60' N and 81\u00b015'20' E-81\u00b015'60' E), located in Thanamalwila Division in the most southern part of Moneragala district in the south-eastern part of Sri Lanka (Fig. 1 ). The topography is undulating lying between 50-70 meters above sea level. Together with three small villages of same size, Padikapuhela and Pilimihela belong administratively to Beralihela which had a population of 1,793 in 2001. The villages are located within the driest agroecological zone (DL1) in the country where the soils are predominately alfisols (Panagos et al. 2011 ). The mean annual temperature is 27 \u00b0C and the mean annual rainfall is 1,050 mm (Department of Census and Statistics 2010). Most rain falls during the north-east monsoon (Maha season) from October to January while the south-west monsoon (Yala season) lasts from May to August and bring less rain (Seo et al. 2005) . Subsistence agriculture from paddy rice, banana, homegardens and shifting cultivation is the main income sources for the villagers (Withanage, pers. comm.). The village was established during the Kirindi Oya Irrigation and Settlement Project (KOISP) in 1979 -1986 (Nijman 1992) ) where the government established new irrigated land within the Kirindi Oya River drainage basin to increase of food production, employment and providing arable land (IIMI 1995) . Hence, natural water flows are scarce in the area but diversion of irrigated water from Lunugamvehera reservoir provides water sufficiently for crop cultivation of paddy and banana during both monsoonal seasons. The area is also located close to the Lunugamvehera National Park, and thus the area is prone to wildlife interaction with negative effects on yields. Recently, intensive infrastructure development including an international airport and road developments has taken place close to the study area through state and foreign aided funds with increased prices of property as a result. A tank renovation project has also lately been established in the village through a Global Environmental Facility (GEF) Small Grants community based adaptation project and is expected to increase the water table and provide enough water for agricultural practices in homegardens and shifting cultivation lands for the villagers in the dry seasons. ",
+                "cite_spans": [
+                    {
+                        "start": 675,
+                        "end": 695,
+                        "text": "(Panagos et al. 2011",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 993,
+                        "end": 1010,
+                        "text": "(Seo et al. 2005)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1266,
+                        "end": 1270,
+                        "text": "1979",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1271,
+                        "end": 1276,
+                        "text": "-1986",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1277,
+                        "end": 1292,
+                        "text": "(Nijman 1992) )",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 1458,
+                        "end": 1469,
+                        "text": "(IIMI 1995)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 314,
+                        "end": 315,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Study site",
+                "sec_num": null
+            },
+            {
+                "text": "The selected villages of Padikapuhela and Pilimihela were chosen, partly because the villages were included in a larger study in a Global Environmental Facility (GEF) Small Grants community based adaptation project \"Developing community-led strategies and infrastructure to ensure adaptation to drought conditions\". The objective of the programme was to ensure sustainable agricultural practices for rainfed farming families through village tank development, training programmes, marketing mechanism for agricultural products and introduction of alternate livelihoods (AUSAid 2012).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mapping and data analysis of homegardens",
+                "sec_num": null
+            },
+            {
+                "text": "Forty-five homegardens were randomly sampled in March 2013. To cover the AGB carbon variation and species diversity of the individual homegardens in the village, the total area of all homegardens were sampled which resulted in a total sample area of 30 hectares. The homegardens were randomly selected in order to capture a representative mixture of size of homegardens, diversity and composition of tree species, as well as socio-economic status of householders although an analysis of the latter is not assessed in this paper. All sampled homegardens were between 20-30 years old and the size of homegardens ranged from 0.2-1.2 ha where a majority of homegardens were rectangular in shape.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mapping and data analysis of homegardens",
+                "sec_num": null
+            },
+            {
+                "text": "Data on SOC collected from the same homegardens in March 2013 (n=40; Granberg et al. submitted) was used for data analysis to explore the correlation of SOC and AGB carbon. Data collected were subjected to analysis with SPSS version 21 using descriptive statistics, correlation analysis and stepwise multiple regression analysis (OLS).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Mapping and data analysis of homegardens",
+                "sec_num": null
+            },
+            {
+                "text": "All perennial trees and plants with a diameter at breast height (DBH) of \u2265 3 cm were measured. The DBH and tree height were measured using a DBH tape and a clinometer, respectively. Species information was collected for each tree in each homegarden. For comparison reasons, the homegardens were categorized into three size groups, namely small (0.2 ha), medium (0.4-0.8 ha) and large homegardens (1.0-1.2 ha). Given the lack of a standard approach and available allometric equations to estimate AGB for homegarden agroforestry systems in Sri Lanka, pan-tropical allometric equations developed for tropical natural forests were used. The allometric equation developed by Chave et al (2005) for dry zone forests (rainfall under 1,500 mm yr -1 ) was applied for individual trees using measured DBH and tree height as well as literature derived species-specific wood density of all sampled species (varying from 0.26-1.06 g cm 3 ) following Reyes et al (1992) and the Wood Density Database by Chave et al (2009) as input variables. In those cases wood densities were not found, a default value of 0.57 g cm -3 for the Asian region was used (Reyes et al. 1992) . For bananas and palms (primarily for Cocos nucifera) we used the equations developed by Arafin (2001) (cited in Hairiah et al. 2010) and Brown (1997) , respectively (Table 1 ).",
+                "cite_spans": [
+                    {
+                        "start": 670,
+                        "end": 688,
+                        "text": "Chave et al (2005)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 937,
+                        "end": 955,
+                        "text": "Reyes et al (1992)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 989,
+                        "end": 1007,
+                        "text": "Chave et al (2009)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1136,
+                        "end": 1155,
+                        "text": "(Reyes et al. 1992)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 1270,
+                        "end": 1290,
+                        "text": "Hairiah et al. 2010)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1295,
+                        "end": 1307,
+                        "text": "Brown (1997)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1330,
+                        "end": 1331,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Above-ground biomass carbon",
+                "sec_num": null
+            },
+            {
+                "text": "Table 1 Allometric equations used to estimate above-ground biomass for individual trees, bananas and palms in the dry zone homegardens Type of above-ground biomass Allometric equation R 2 Source Individual trees Y = exp (-2.187+ 0.916 \u00d7 ln (D 2 \u00d7H\u00d7S)) 0.99 Chave et al. 2005 Bananas Y = 0.030 D 2.13 0.99 Hairiah et al. 2010 Palms Y = exp (-2.134 + 2.530 x ln(D)} 0.97 Brown 1997",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Above-ground biomass carbon",
+                "sec_num": null
+            },
+            {
+                "text": "Y = above-ground biomass density (Mg ha -1 ), D = diameter in cm, H = height in m, S = species-specific wood density in g cm -3 .",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Above-ground biomass carbon",
+                "sec_num": null
+            },
+            {
+                "text": "Tree biomass was converted to carbon assuming that carbon accounted for 50% of the biomass (Brown 1997 ). The AGB carbon stock was calculated for each tree and was aggregated to calculate total AGB carbon stock for each homegarden. For comparisons on unit area basis the values were extrapolated to hectare size.",
+                "cite_spans": [
+                    {
+                        "start": 91,
+                        "end": 102,
+                        "text": "(Brown 1997",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Above-ground biomass carbon",
+                "sec_num": null
+            },
+            {
+                "text": "Tree species diversity was assessed within the fixed boundaries of the sampled homegardens acquiring common names that subsequently was translated into botanical names. An index was set up based on the number of species and their frequency in the homegardens. For this study we chose to use the Shannon Wiener index (SWI) due to its suitability for evaluating diversity in carbon sequestration projects (Ponce-Hernandez 2004). The Shannon-Weiner diversity characterizes the proportion of species abundance in the population, being at maximum when all species are equally abundant and the lowest when the sample contains one species. Shannon Diversity Index values usually range between 1.5 and 3.5 and seldom more than 4.5 (ibid). The proportion of species (i) relative to the total number of species ( ) was calculated and then multiplied by the natural logarithm of the same proportion (Ln",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree diversity",
+                "sec_num": null
+            },
+            {
+                "text": "). The resulting product is summed across species, and multiplied by -1 (equation 1).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree diversity",
+                "sec_num": null
+            },
+            {
+                "text": "ln( )",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree diversity",
+                "sec_num": null
+            },
+            {
+                "text": "The above-ground biomass (AGB) carbon stock for the 45 sampled homegardens ranged from 1.0 to 56.7 Mg C ha -1 with a mean value of 12.7 Mg C ha -1 . Per unit area basis, mean AGB carbon stock was higher in small homegardens (0.2 ha, 26 Mg C ha -1 , n=11) and statistical different (p< 0.05) compared to medium (0.4-0.8 ha, 9 Mg C ha -1 , n=27) and large (1.0-1.2 ha, 8 Mg C ha -1 , n=7) homegardens (Fig. 2 ). By comparing the AGB carbon stock with number of tree species (Fig. 3 ) it is shown that that there is positive trend (not statistically significant) in relationship for small homegardens, a less positive relationship for medium size homegardens and a small negative relationship for large homegardens.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 405,
+                        "end": 406,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 478,
+                        "end": 479,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Above-ground biomass carbon",
+                "sec_num": null
+            },
+            {
+                "text": "Fig. 2 Above ground biomass (AGB) carbon stock of small (0.2 ha), medium (0.4-0.8 ha) and large (1.0-1.2 ha) dry zone homegardens in Moneragala district of Sri Lanka. Error bars show standard error. Small homegardens are statistically different compared to medium and large sized homegardens whereas no significant differences are found between medium and large size homegardens.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 5,
+                        "end": 6,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Above-ground biomass carbon",
+                "sec_num": null
+            },
+            {
+                "text": "Fig. 3 The relationship between above ground biomass (AGB) carbon stock per unit area and the diversity of trees of small (0.2 ha), medium (0.4-0.8 ha) and large (1.0-1.2 ha) dry zone homegardens in Moneragala district of Sri Lanka.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 5,
+                        "end": 6,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Above-ground biomass carbon",
+                "sec_num": null
+            },
+            {
+                "text": "In total, 70 different tree and plant species were identified from 55 genera and 30 families and in total 4,278 trees were measured (see Online Resource 1). Fourteen species were unidentified. The most common species found was Neem (Azadirechta indica A. Juss., n=1014) accounting for 24% of all trees measured followed by Cashew (Anacardium occidentale L., n=509, 12%) and Coconut (Cocos nucifera L., n=362, 8%). Tree diversity described by the SWI showed a variation between 0.76-3.01 with a mean value of 2.05 \uf0b10.07 where small sized homegardens had the highest mean diversity of trees, followed by medium and large homegardens (Table 2 ). Mean number of tree species ha -1 were 80, 23 and 15, respectively for small, medium and large sized homegardens. Species area curve for the selected villages showed that covering of 90% of tree species require roughly 15 ha of cumulative land area or 50% of sampled area. The maximum diversity of an individual garden was recorded in a medium size garden and the minimum diversity was found in a small homegarden (Table 2 ). As the size of homegardens increased, species richness on total homegarden area basis showed a very small increase. However, species richness ha -1 was much greater in small sized homegardens and secondly, medium sized homegardens than the large homegardens (Fig. 4 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 638,
+                        "end": 639,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1064,
+                        "end": 1065,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1333,
+                        "end": 1334,
+                        "text": "4",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Tree diversity",
+                "sec_num": null
+            },
+            {
+                "text": "No statistical significant difference was found between size-groups in terms of total species using twotailed exact Mann-Whitney U test even though the trend showed that the small and medium sized groups were more homogenous while the large size group showed a greater difference. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree diversity",
+                "sec_num": null
+            },
+            {
+                "text": "A correlation analysis (a non-parametric Spearman test) was conducted by using soil organic carbon (SOC) measures from 40 of the same homegardens in a companion study (Granberg et al. submitted) where carbon content at 0-15 cm and 15-30 cm depth were assessed. No significant correlation between the SOC components and the terrestrial carbon components was found in our assessment (i.e., AGB, trees ha -1 , species ha -1 , size of homegardens, DBH or tree height). Hence, the SOC data was removed for further analyses. The remaining terrestrial carbon component did show significant correlation in several cases (Table 3 ). Since some of the parameters are directly correlated, such as size and trees or species ha -1 , it is worth noting that AGB correlate positively and significantly with trees and species ha -1 and height, while DBH shows no correlation. Further, the significant negative correlation between AGB and homegarden size suggests that the larger the homegarden the less carbon does the homegarden contain per unit area. ",
+                "cite_spans": [
+                    {
+                        "start": 167,
+                        "end": 194,
+                        "text": "(Granberg et al. submitted)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 619,
+                        "end": 620,
+                        "text": "3",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Correlation between carbon and tree diversity",
+                "sec_num": null
+            },
+            {
+                "text": "Firstly, the large variability of AGB carbon among homegardens are primarily a result of tree density which is highest in small homegardens (small: 80 trees ha -1 ), followed by medium (23 trees ha -1 ) and larger units (15 trees ha -1 ). This is consistent with earlier findings (e.g. Kumar 2011 , Pushpakumara et al. 2012 ) although tree density is lower than those dry zone homegardens assessed in the study by Ariyadasa (2002) . Secondly, differences in carbon stock is a result of differences in tree diversity, management practices, homegarden age, site characteristics and composition differences (Montagnini and Nair 2004; Henry et al. 2009) . For example, in the large homegardens investigated in this study, farmers often use shifting cultivation practices to prepare and burn certain plots within the gardens for cash crop cultivation in the wet season with less tree densities as a result. Excessive shading from trees is also thought to have a detrimental effect on cash crop yields according to the homegarden owners.",
+                "cite_spans": [
+                    {
+                        "start": 286,
+                        "end": 296,
+                        "text": "Kumar 2011",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 297,
+                        "end": 323,
+                        "text": ", Pushpakumara et al. 2012",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 414,
+                        "end": 430,
+                        "text": "Ariyadasa (2002)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 604,
+                        "end": 630,
+                        "text": "(Montagnini and Nair 2004;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 631,
+                        "end": 649,
+                        "text": "Henry et al. 2009)",
+                        "ref_id": "BIBREF19"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "As stressed earlier, few comparative analyses exists both in terms of tree diversity and AGB carbon stocks for homegardens in dry zone environments in Sri Lanka. However, the mean AGB carbon (13 Mg C ha -1 ) is lower and the large range (1 to 56 Mg C ha -1 ) between individual homegardens is higher than values shown earlier from Mattsson et al (2013) . Dissanayake et al (2009) estimated the AGB carbon stock in homegardens in Kandy (90 Mg C ha -1 ) and Matale (104 Mg C ha -1 ) districts and Premakantha et al (submitted) reported that homegardens in Nuwara Eliya district contain 77 Mg C ha - 1 . All the latter estimates are located within the wet zone and intermediate zone, and as expected, these values are higher due to a higher level of plant diversity and a denser canopy structure than dry zone homegardens. Outside Sri Lanka, Kumar (2011) found that Kerala homegardens in India had AGB carbon stocks ranging from 16 to 36 Mg ha -1 . Estimates from Javanese and Sumatran homegardens (35 to 59 Mg C ha -1 ; Jensen 1993; Roshetko et al. 2002) as well as mature (>35-year old) agroforests (101 Mg C ha -1 ) are higher than our estimates, but similar to 9-year old Sumatran agroforests (14 Mg C ha -1 ; Roshetko et al. 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 331,
+                        "end": 352,
+                        "text": "Mattsson et al (2013)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 355,
+                        "end": 379,
+                        "text": "Dissanayake et al (2009)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 839,
+                        "end": 851,
+                        "text": "Kumar (2011)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1031,
+                        "end": 1052,
+                        "text": "Roshetko et al. 2002)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1211,
+                        "end": 1232,
+                        "text": "Roshetko et al. 2002)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "For tree diversity, the mean Shannon Wiener Index (SWI) of 2.05 is lower than the SWI found by APN (2012) in the homegardens of the Keeriyagaswewa village (SWI: 2.13; n=59) located in the Sri Lankan dry zone but higher than in Siwalakulama village (SWI: 1.77; n=30; intermediate zone) and Pethiyagoda village (SWI: 1.99; n=59, wet zone) (ibid.) and in the Meegahakiula area (SWI: 1.55 to 1.77; intermediate zone; Senanayake et al. 2009) . The estimated SWI is also higher than the mean SWI found in homegardens from two villages in West Bengal, India and six villages in Dhaka Division, Bangladesh (APN, 2012) , but lower than in Kerala homegardens in India (Saha et al. 2009) . Mean Shannon-Wiener diversity indices in tropical homegardens have been reported to vary broadly from 0.93 in rural Zambia (Drescher 1998) to almost 3.0 in West Java, Indonesia (Karyono 1990 ).",
+                "cite_spans": [
+                    {
+                        "start": 95,
+                        "end": 105,
+                        "text": "APN (2012)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 413,
+                        "end": 436,
+                        "text": "Senanayake et al. 2009)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 598,
+                        "end": 609,
+                        "text": "(APN, 2012)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 658,
+                        "end": 676,
+                        "text": "(Saha et al. 2009)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 802,
+                        "end": 817,
+                        "text": "(Drescher 1998)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 856,
+                        "end": 869,
+                        "text": "(Karyono 1990",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Thus, the Shannon index is in keeping with prior studies of homegardens studied in other regions of Sri Lanka, indicating a medium evenly distributed diversity. This study also only considers trees, and the overall SWI would have been higher if all plants were included. The negative relationship between tree species richness and large homegardens is in keeping with Kumar (2011) although e.g. Abdoellah et al (2006) and Mendez et al (2001) found low correlation whereas Abebe (2005) , Kabir and Webb (2009) and Bardhan et al (2012) , found a positive relationship. Our negative relationship between tree species richness and large homegardens is probably a result of specific needs and preferences by the owner along with socio-economic factors. For example, in larger homegardens there are often distinct spatial arrangements between trees and crops, where most trees are planted around the house and low tree density areas are found towards the borders where cash crops such as bananas or leguminous crops are grown for imminent needs and local markets, hence lower tree diversity and tree density. In small homegardens on the other hand, homegarden owners often adopt more intensive management and denser planting in multiple layers, thus, higher tree species richness.",
+                "cite_spans": [
+                    {
+                        "start": 368,
+                        "end": 380,
+                        "text": "Kumar (2011)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 395,
+                        "end": 417,
+                        "text": "Abdoellah et al (2006)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 422,
+                        "end": 441,
+                        "text": "Mendez et al (2001)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 472,
+                        "end": 484,
+                        "text": "Abebe (2005)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 487,
+                        "end": 508,
+                        "text": "Kabir and Webb (2009)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 513,
+                        "end": 533,
+                        "text": "Bardhan et al (2012)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "No relationship was found between measured parameters and soil organic carbon (SOC) in homegardens measured concurrently (Granberg et al. submitted) in a companion study. This is not consistent with the findings of Saha et al (2009) who found that species richness could provide greater stability of the SOC. The positive relationship between the SWI index and AGB carbon stock for small-sized gardens in relation to the slightly negative relationship for large homegardens and AGB carbon suggests that small-sized homegardens hold higher carbon stock and species diversity, in line with Kumar (2011) and Pushpakumara et al (2012) . Therefore, expanding homegardens into degraded and low-productive lands (such as shifting cultivation lands) for increased ecosystem services and carbon stocks as suggested by Mattsson et al (2013) would thus be more beneficial through the provision of small homegarden units rather than larger units. Also, the traditional use of homegardens has been around homesteads inherently meaning close to where people live. For sustained and enhanced ecosystem services such as carbon storage through expansion, would require new management strategies, for example that homegarden systems integrate more commercial oriented example plantation of perennials through a combination of exotic and/or indigenous species.",
+                "cite_spans": [
+                    {
+                        "start": 215,
+                        "end": 232,
+                        "text": "Saha et al (2009)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 588,
+                        "end": 600,
+                        "text": "Kumar (2011)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 605,
+                        "end": 630,
+                        "text": "Pushpakumara et al (2012)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 809,
+                        "end": 830,
+                        "text": "Mattsson et al (2013)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "For the study area per se, recent large-scale infrastructure developments and investments in the area could in coming years have an effect on land prices, leading to a higher population density and increased demand for arable land. The village tank development under the auspices of the GEF Small Grants community based adaptation project are upon finish expected to provide water for both cultivation seasons (Maha and Yala) in the villages. Along with an increasing population, more homegardens are likely to be established while water accessibility would allow farmers and homegarden owners to opt for more perennial plants of different varieties and species which overall can enhance the carbon density and tree diversity which could favor higher productivity and ultimately sustained or improved food security.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The results of this study show that the investigated homegardens have good capacity for carbon storage and sequestration capacity which provides useful information for the national process of whether homegardens should be considered to be included as an activity within Sri Lanka's commenced National Programme on REDD+. This implies that developed countries provide incentives and financial compensation to developing countries for climate change mitigation benefits from maintaining and enhancing forest biomass. Homegardens could in this context be considered to be included within an existing or new forest definition to lower greenhouse gas emissions directly (Minang et al. 2014) . Another option could be to further promote homegarden establishment by intensification or extensification on marginal lands and serve as important buffers for the remaining natural forests in areas that are experiencing pressure from increasing populations. Consequences at the household level for such programmes needs to be explored further to investigate possible tradeoffs between for example biodiversity, economic, nutritional and financial benefits. For best outcomes at the local level, schemes such as REDD+ could be linked to existing or emerging developing programs highlighting food security and market integration since associated finance coming out of emissions based implementation is unlikely to be of main concern for local farmers (Bernard et al. 2013) .",
+                "cite_spans": [
+                    {
+                        "start": 665,
+                        "end": 685,
+                        "text": "(Minang et al. 2014)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1437,
+                        "end": 1458,
+                        "text": "(Bernard et al. 2013)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Our results suggests that the investigated homegardens in the southern part of the dry zone of Moneragala district of Sri Lanka hold a wide range of carbon between 1 to 56 Mg ha -1 and a mean above-ground biomass stock of 13 Mg carbon ha -1 , which is lower than other reported carbon estimates for homegardens in different ecological zones. The carbon estimates found here are reflecting the differences in tree density, tree diversity and management practices between individual homegardens. Furthermore, no correlation is found between soil carbon parameters and AGB carbon or diversity of trees. Smaller homegardens hold a higher carbon content and tree diversity than medium and large homegardens. Hence, based on the result here the expansion potential into degraded lands or larger units is not straight forward if carbon stock and tree diversity should be kept.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "This research was funded by the Swedish Energy Agency and the Gothenburg Centre for Global Development (GCGD). The authors would like thank Janaka Withanage and Thusitha Madurande Geeganage for logistical assistance and the farmers in Beralihela who participated in the project.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgements",
+                "sec_num": null
+            },
+            {
+                "text": "Supplementary material 1 List of measured tree and plant species in homegardens and their frequency of occurrence ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "annex",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Diversity in Homegarden Agroforestry Systems of Southern Ethiopia",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Abebe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Tropical Resource Management Paper",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Abebe T. (2005) Diversity in Homegarden Agroforestry Systems of Southern Ethiopia. Wageningen University, the Netherlands, Tropical Resource Management Paper No.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Commercialization of homegardens in an Indonesian village: vegetation composition and functional changes",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abdoellah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Hadikusumah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Takeuchi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Okubo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Parikesit",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Agroforest Syst",
+                "volume": "18",
+                "issue": "",
+                "pages": "1--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Abdoellah OS, Hadikusumah HY, Takeuchi K, Okubo S, Parikesit (2006) Commercialization of homegardens in an Indonesian village: vegetation composition and functional changes. Agroforest Syst 18:1-13.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Vulnerability of Home Garden Systems to Climate Change and its Impacts on Food Security in South Asia",
+                "authors": [],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "APN (Asia-Pacific Network for Global Change Research) (2012) Vulnerability of Home Garden Systems to Climate Change and its Impacts on Food Security in South Asia. Retrieved from http://www.apn-gcr.org/resources/items/show/1566",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Assessment of tree resources in the homegardens of Sri Lanka. Bangkok, ECFAO Partnership Programme on Information and Analysis for Sustainable Forest Management",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Ariyadasa",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ariyadasa KP (2002) Assessment of tree resources in the homegardens of Sri Lanka. Bangkok, ECFAO Partnership Programme on Information and Analysis for Sustainable Forest Management (FAO, 2005).",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "AusAID Community Based Adaptation",
+                "authors": [],
+                "year": 2012,
+                "venue": "CBA) Project CPMT Consolidated Report",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "AUSAID (2012) AusAID Community Based Adaptation (CBA) Project CPMT Consolidated Report. 39 p. https://sgp.undp.org/index.php?option=com_sgpprojects&view=projectdetail&id=16559&Itemid=205. Accessed 2013-12-19.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Homegarden agroforestry systems: an intermediary for biodiversity conservation in Bangladesh",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Bardhan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Jose",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Biswas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kabir",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Rogers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Agroforest Syst",
+                "volume": "85",
+                "issue": "",
+                "pages": "29--34",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bardhan S, Jose S, Biswas S, Kabir, K, Rogers, W (2012) Homegarden agroforestry systems: an intermediary for biodiversity conservation in Bangladesh. Agroforest Syst 85:29-34.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Towards a landscape approach for reducing emissions: A substantive report of Reducing Emissions from All Land Uses (REALU) project",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Bernard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Minang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bernard F, Minang PA, van Noordwijk M, Freeman OE, Duguma LA. (Eds) (2013) Towards a landscape approach for reducing emissions: A substantive report of Reducing Emissions from All Land Uses (REALU) project. Nairobi, Kenya. World Agroforestry Centre -ICRAF. 119 p.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Guidelines on agrodiversity assessment",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Brookfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Stocking",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Brookfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Cultivating Biodiversity: Understanding, Analysing and Using Agricultural Diversity",
+                "volume": "",
+                "issue": "",
+                "pages": "41--56",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brookfield H, Stocking M, Brookfield M (2002) Guidelines on agrodiversity assessment. In: Brookfield, H., Padoch, C., Parsons, H., Stocking, M. (Eds.), Cultivating Biodiversity: Understanding, Analysing and Using Agricultural Diversity. ITDG Publishing, London, UK, pp. 41-56.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Estimating biomass and biomass change of tropical forests: a primer",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Forestry Paper",
+                "volume": "134",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brown S (1997) Estimating biomass and biomass change of tropical forests: a primer. In: Forestry Paper 134-publication FRA, Rome, FAO.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Tree allometry and improved estimation of carbon stocks and balance in tropical forests",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Chave",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Andalo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Cairns",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Q"
+                        ],
+                        "last": "Chambers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Eamus",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Folster",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Fromard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Oecologia",
+                "volume": "145",
+                "issue": "",
+                "pages": "87--89",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chave J, Andalo C, Brown S, Cairns MA, Chambers JQ, Eamus D, Folster H, Fromard, F et al (2005) Tree allometry and improved estimation of carbon stocks and balance in tropical forests. Oecologia 145:87-89.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Towards a worldwide wood economics spectrum",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Chave",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Coomes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Jansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Lewis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Swenson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Zanne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Ecol Lett",
+                "volume": "12",
+                "issue": "4",
+                "pages": "351--366",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chave J, Coomes DA, Jansen S, Lewis SL, Swenson NG, Zanne AE. (2009) Towards a worldwide wood economics spectrum. Ecol Lett 12(4): 351-366.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Statistical abstract 2010, Chapter 1 -Area and Climate",
+                "authors": [],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Department of Census and Statistics. (2010) Statistical abstract 2010, Chapter 1 -Area and Climate. http://www.statistics.gov.lk/abstract2010/Pages/chap1.htm. Accessed 2013-10-23.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Estimation of carbon stock in Kandyan Homegardens located in Kandy and Matale",
+                "authors": [
+                    {
+                        "first": "Wass",
+                        "middle": [],
+                        "last": "Dissanayake",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Dmshk",
+                        "middle": [],
+                        "last": "Ranasinghe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wahala",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Proceedings of the 14 th International Forestry and Environment Symposium",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dissanayake WASS, Ranasinghe, DMSHK, Wahala S (2009) Estimation of carbon stock in Kandyan Homegardens located in Kandy and Matale. In Proceedings of the 14 th International Forestry and Environment Symposium, Department of Forestry and Environmental Science, University of Sri Jayewardenepura.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Hausg\u00e4rten in afrikanischen R\u00e4umen: Bewirtschaftung nachhaltiger Produktionssysteme und Strategien der Ern\u00e4hrungssicherung in Sambia und Zimbabwe",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Drescher",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Drescher AW (1998) Hausg\u00e4rten in afrikanischen R\u00e4umen: Bewirtschaftung nachhaltiger Produktionssysteme und Strategien der Ern\u00e4hrungssicherung in Sambia und Zimbabwe. Centaurus- Verlagsgesellschaft, Pfaffenweiler, Germany, 275 pp.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Asia Pacific Forestry Outlook Sector Outlook Study II",
+                "authors": [],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "FAO (2009) Sri Lanka Forestry Outlook Study. Asia Pacific Forestry Outlook Sector Outlook Study II, Working Paper No. APFSOS II/WP/2009/29, Bangkok, FAO Regional Office for Asia and the Pacific.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Home gardens: a promising approach to enhance household food security and wellbeing",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Galhena",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Freed",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Maredia",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Agriculture & Food Security",
+                "volume": "2",
+                "issue": "8",
+                "pages": "48--62",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Galhena DH, Freed R, Maredia, KM (2013) Home gardens: a promising approach to enhance household food security and wellbeing. Agriculture & Food Security, 2013; 2(8):48-62.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "E. Eye alt 5.61 km. Digital Globe",
+                "authors": [],
+                "year": 2013,
+                "venue": "Beralihela, Sri Lanka",
+                "volume": "7",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Google Earth, V 7.1.1.1888. 24 February (2013) Beralihela, Sri Lanka. 6\u00b021'36.91''N 81\u00b015'13.42''E. Eye alt 5.61 km. Digital Globe 2013. http://www.earth.google.com [Nov 1, 2013].",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Improving family nutrition, a main objective of Divi Neguma Programme",
+                "authors": [],
+                "year": 2011,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Government of Sri Lanka (2011) Improving family nutrition, a main objective of Divi Neguma Programme. Retrieved October 11, 2011, from http://www.priu.gov.lk/news_update/Current_Affairs/ca201107/20110713improving_family_nutrition .htm.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Measuring Carbon Stocks Across Land Use Systems: A Manual",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hairiah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Dewi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Agus",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Velarde",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Ekadinata",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Rahayu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Van Noordwijk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hairiah K, Dewi S, Agus F, Velarde S, Ekadinata A, Rahayu S, van Noordwijk M (2010) Measuring Carbon Stocks Across Land Use Systems: A Manual. Bogor, Indonesia. World Agroforestry Centre (ICRAF), SEA Regional Office, 155 p.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Biodiversity, carbon stocks and sequestration potential in aboveground biomassin smallholder farming systems of western Kenya",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Henry",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Tittonell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Manlay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bernoux",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Albrecht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Agr Ecosyst Environ",
+                "volume": "129",
+                "issue": "1",
+                "pages": "238--252",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Henry M, Tittonell P, Manlay RJ, Bernoux M, Albrecht A, Vanlauwe B (2009) Biodiversity, carbon stocks and sequestration potential in aboveground biomassin smallholder farming systems of western Kenya. Agr Ecosyst Environ 129 (1): 238-252.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Kirindi Oya Irrigation Settlement Project",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kirindi Oya Irrigation Settlement Project. Project Impact Evaluation Study. Colombo: IIMI (IIMI report 1995:02).",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Soil conditions, vegetation structure and biomass of a Javanese homegarden",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jensen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Agroforest Syst",
+                "volume": "24",
+                "issue": "",
+                "pages": "171--186",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jensen M (1993) Soil conditions, vegetation structure and biomass of a Javanese homegarden. Agroforest Syst 24:171-186.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Household and homegarden characteristics in southwestern Bangladesh",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Kabir",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Webb",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Agrofor Syst",
+                "volume": "75",
+                "issue": "",
+                "pages": "129--145",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kabir ME, Webb EL (2009) Household and homegarden characteristics in southwestern Bangladesh. Agrofor Syst 75:129-145.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Home Gardens in Java. Their Structure and Function",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Karyono",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Tropical Home Gardens",
+                "volume": "",
+                "issue": "",
+                "pages": "138--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Karyono (1990) Home Gardens in Java. Their Structure and Function. In: Landauer K. and Brazil M. (eds). Tropical Home Gardens. The United Nations University, Tokyo, Japan, pp. 138-146.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Crop diversity and classification of homegardens in Central Sulawesi, Indonesia",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kehlenbeck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Maass",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Agroforest Syst",
+                "volume": "63",
+                "issue": "",
+                "pages": "53--62",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kehlenbeck K, Maass BL (2004) Crop diversity and classification of homegardens in Central Sulawesi, Indonesia. Agroforest Syst 63:53-62.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Carbon sequestration potential of tropical homegardens",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kumar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Tropical homegardens: A time-tested example of sustainable agroforestry",
+                "volume": "",
+                "issue": "",
+                "pages": "185--204",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kumar BM (2006) Carbon sequestration potential of tropical homegardens. In Tropical homegardens: A time-tested example of sustainable agroforestry, ed. BM Kumar, and PKR. Nair, 185-204. Dordrecht: Springer.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Species richness and aboveground carbon stocks in the homegardens of central Kerala, India",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kumar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Agr Ecosyst Environ",
+                "volume": "140",
+                "issue": "",
+                "pages": "430--440",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kumar BM (2011) Species richness and aboveground carbon stocks in the homegardens of central Kerala, India. Agr Ecosyst Environ 140:430-440.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "The enigma of tropical homegardens",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kumar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Pkr",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Agroforest Syst",
+                "volume": "61",
+                "issue": "",
+                "pages": "135--152",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kumar BM, Nair PKR (2004) The enigma of tropical homegardens. Agroforest Syst 61:135-152.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Plant diversity in home gardens and its contribution to household economy in suburban areas in Sri Lanka",
+                "authors": [
+                    {
+                        "first": "Mas",
+                        "middle": [],
+                        "last": "Kumari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kansuntisukmongkol",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Brockelman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Environment and Natural Resources Journal",
+                "volume": "7",
+                "issue": "",
+                "pages": "12--30",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kumari MAS, Kansuntisukmongkol K, Brockelman WY (2009) Plant diversity in home gardens and its contribution to household economy in suburban areas in Sri Lanka. Environment and Natural Resources Journal 7:12-30.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Homegardens as a multi-functional land use strategy in Sri Lanka with focus on carbon sequestration",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Mattsson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ostwald",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Nissanka",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Marambe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "AMBIO",
+                "volume": "42",
+                "issue": "",
+                "pages": "892--902",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mattsson E, Ostwald M, Nissanka SP, Marambe B (2013) Homegardens as a multi-functional land use strategy in Sri Lanka with focus on carbon sequestration. AMBIO 42:892-902.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "The forest farms of Kandy and other gardens of complete design",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mcconnell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Ashgate Studies in Environmental Policy and practice",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McConnell DJ (2003) The forest farms of Kandy and other gardens of complete design. Ashgate Studies in Environmental Policy and practice. Ashgate Publishing Limited, England. 370 pp.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "The economic structure of Kandyan forest garden farms. Small forest garden farms in the Kandy district of Sri Lanka",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mcconnell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Kae",
+                        "middle": [],
+                        "last": "Dharmapala",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McConnell DJ, Dharmapala KAE (1973) The economic structure of Kandyan forest garden farms. Small forest garden farms in the Kandy district of Sri Lanka. Farm Management Diversification Report No. 7. UNDP/SF/FAO Diversification Project, Peradeniya, Sri Lanka.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Interdisciplinary analysis of homegardens in Nicaragua: micro-zonation, plant use and socioeconomic importance",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Mendez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lok",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Somarriba",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Agrofor Syst",
+                "volume": "51",
+                "issue": "",
+                "pages": "85--96",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mendez VE, Lok R, Somarriba E (2001) Interdisciplinary analysis of homegardens in Nicaragua: micro-zonation, plant use and socioeconomic importance. Agrofor Syst 51:85-96.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "High-Carbon-Stock Rural Development Pathways in Asia and Africa: Improved Land Management for Climate Change Mitigation",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Minang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Van Noordwijk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Swallow",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Agroforestry: The Future of Global Land Use",
+                "volume": "",
+                "issue": "",
+                "pages": "127--143",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Minang PA, van Noordwijk M, Swallow BM (2012) High-Carbon-Stock Rural Development Pathways in Asia and Africa: Improved Land Management for Climate Change Mitigation. In: Agroforestry: The Future of Global Land Use. Nair PKR and Garrity DP (eds.), Springer, The Netherlands pp 127-143.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Prospects for agroforestry in REDD+ landscapes in Africa",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Minang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Duguma",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Bernard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Mertz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Van Noordwijk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Curr Opin Environ Sustain",
+                "volume": "6",
+                "issue": "",
+                "pages": "78--82",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Minang PA, Duguma LA, Bernard FO, Mertz O, van Noordwijk M (2014) Prospects for agroforestry in REDD+ landscapes in Africa. Curr Opin Environ Sustain 6:78-82.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Assessment of ecosystem services in homegarden systems in Indonesia, Sri Lanka, and Vietnam",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Mohri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lahoti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Saito",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Mahalingam",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Gunatilleke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Thang",
+                        "middle": [],
+                        "last": "Van",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Hoang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Hitinayake",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Takeuchi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Herath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Ecosystem Services",
+                "volume": "5",
+                "issue": "",
+                "pages": "124--136",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mohri H, Lahoti S, Saito O, Mahalingam A, Gunatilleke N, Van Thang Hoang I, Hitinayake G, Takeuchi K, Herath S (2013) Assessment of ecosystem services in homegarden systems in Indonesia, Sri Lanka, and Vietnam. Ecosystem Services 5:124-136.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Carbon sequestration: An underexploited environmental benefit of agroforestry systems",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Montagnini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Pkr",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Agroforest Syst",
+                "volume": "61",
+                "issue": "",
+                "pages": "281--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Montagnini F, Nair PKR (2004) Carbon sequestration: An underexploited environmental benefit of agroforestry systems. Agroforest Syst 61:281-295.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Carbon Sequestration Potential of Agroforestry Systems in India",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Murthy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gupta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Tomar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Munsi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Tiwari",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "J Earth Sci Climate Change",
+                "volume": "4",
+                "issue": "1",
+                "pages": "1--7",
+                "other_ids": {
+                    "DOI": [
+                        "10.4172/2157-7617.1000131"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Murthy IK, Gupta M, Tomar S, Munsi M, Tiwari R et al (2013) Carbon Sequestration Potential of Agroforestry Systems in India. J Earth Sci Climate Change 4(1):1-7. doi:10.4172/2157-7617.1000131",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Introduction. In Tropical homegardens: A time-tested example of sustainable agroforestry",
+                "authors": [
+                    {
+                        "first": "Pkr",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kumar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "1--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nair PKR, Kumar BM (2006) Introduction. In Tropical homegardens: A time-tested example of sustainable agroforestry, ed. B.M. Kumar, and P.K.R. Nair, 1-10. Dordrecht: Springer.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Climate change mitigation: a low-hanging fruit of agroforestry",
+                "authors": [
+                    {
+                        "first": "Pkr",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Agroforestrythe Future of Global Land Use",
+                "volume": "",
+                "issue": "",
+                "pages": "31--67",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nair PKR (2012) Climate change mitigation: a low-hanging fruit of agroforestry, in Agroforestry -the Future of Global Land Use, ed. by Nair PKR and Garrity D. Springer, Dordrecht, pp. 31-67.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Irrigation Decision-Making Processes and Conditions -A Case Study of Sri Lanka\u00b4s Kirindi Oya Irrigation and Settlement Project",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Nijman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nijman C (1992) Irrigation Decision-Making Processes and Conditions -A Case Study of Sri Lanka\u00b4s Kirindi Oya Irrigation and Settlement Project. Colombo: International Irrigation Management Institute (IIMI) (IIMI Report, 1992:09).",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "European digital archive on soil maps (EuDASM): Preserving important soil data for public free access",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Panagos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Bosco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Senthil",
+                        "middle": [],
+                        "last": "Kumar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "International Journal of Digital Earth",
+                "volume": "4",
+                "issue": "5",
+                "pages": "434--443",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Panagos P, Jones A, Bosco C, Senthil Kumar PS (2011) European digital archive on soil maps (EuDASM): Preserving important soil data for public free access. International Journal of Digital Earth, 4 (5), pp. 434-443.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Home gardens of Andaman and Nicobar, India",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Pandey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Singh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Singh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Agr Syst",
+                "volume": "92",
+                "issue": "1-3",
+                "pages": "1--22",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pandey CB, Rai RB, Singh L, Singh AK (2007) Home gardens of Andaman and Nicobar, India. Agr Syst 92(1-3):1-22.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Homegarden dynamics in Kerala, India. In: Tropical Homegardens: A Time-tested Example of Sustainable Agroforestry",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Peyre",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Guidal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wiersum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Bonger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "102--108",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Peyre A, Guidal A, Wiersum KF, Bonger F (2006) Homegarden dynamics in Kerala, India. In: Tropical Homegardens: A Time-tested Example of Sustainable Agroforestry. Eds. C. Belair, K. Ichikawa, B.Y.L. Wong and K.J. Mulongoy. pp 102-108. Springer Science, Dordrecht.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Assessing Carbon Stocks and Modelling Win-win Scenarios of Carbon Sequestration through Land-use Changes. Food and Agriculture Organization of the United Nations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ponce-Hernandez",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ponce-Hernandez, R (2004) Assessing Carbon Stocks and Modelling Win-win Scenarios of Carbon Sequestration through Land-use Changes. Food and Agriculture Organization of the United Nations, Rome, Italy.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Kandyan homegardens: a promising land management system in Sri Lanka. In Sustainable use of biological diversity in socio-ecological production landscapes",
+                "authors": [
+                    {
+                        "first": "Dkng",
+                        "middle": [],
+                        "last": "Pushpakumara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Wijesekara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Dg ;",
+                        "middle": [],
+                        "last": "Hunter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Belair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Ichikawa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "Y L"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mulongoy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Secretariat of the Convention on Biological Diversity",
+                "volume": "",
+                "issue": "",
+                "pages": "102--108",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pushpakumara DKNG, Wijesekara A, Hunter DG (2010) Kandyan homegardens: a promising land management system in Sri Lanka. In Sustainable use of biological diversity in socio-ecological production landscapes, Ed. Belair, C., K. Ichikawa, B.Y.L. and K.J. Mulongoy. Background to the 'Satoyama Initiative for the benefit of biodiversity and human well-being. Secretariat of the Convention on Biological Diversity (2010), Montreal. Canada, pp 102-108.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "A review of research on homegardens in Sri Lanka. The status, importance and future perspective",
+                "authors": [
+                    {
+                        "first": "Dkng",
+                        "middle": [],
+                        "last": "Pushpakumara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Marambe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Gllp",
+                        "middle": [],
+                        "last": "Silva",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Weerahewa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Bvr",
+                        "middle": [],
+                        "last": "Punyawardena",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Tropical Agriculturist",
+                "volume": "160",
+                "issue": "",
+                "pages": "55--125",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Pushpakumara DKNG, Marambe B, Silva GLLP, Weerahewa J, Punyawardena BVR (2012) A review of research on homegardens in Sri Lanka. The status, importance and future perspective. Tropical Agriculturist 160:55-125.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Wood Densities of Tropical Tree Species",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Reyes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Chapman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lugo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Reyes G, Brown S, Chapman J, Lugo AE (1992) Wood Densities of Tropical Tree Species. General Technical Report SO-88. USDA Forest Service, Southern Forest Experiment Station, New Orleans, Louisiana, USA.",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Carbon stocks in Indonesian homegarden systems: Can smallholder systems be targeted for increased carbon storage?",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Roshetko",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Delaney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hairiah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Purnomosidhi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Am J Alternative Agr",
+                "volume": "17",
+                "issue": "",
+                "pages": "125--137",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roshetko M, Delaney M, Hairiah K, Purnomosidhi P (2002) Carbon stocks in Indonesian homegarden systems: Can smallholder systems be targeted for increased carbon storage? Am J Alternative Agr 17:125-137.",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Soil carbon stock in relation to plant diversity of homegardens in Kerala, India",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Saha",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Pkr",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kumar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Agroforest Syst",
+                "volume": "76",
+                "issue": "",
+                "pages": "53--65",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Saha S, Nair PKR, Nair VD, Kumar BM (2009) Soil carbon stock in relation to plant diversity of homegardens in Kerala, India. Agroforest Syst 76:53-65.",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Linking carbon, biodiversity and livelihoods near forest margins: the role of agroforestry",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Schroth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Mss",
+                        "middle": [],
+                        "last": "Da Mota",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Hills",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Soto-Pinto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Wijayanto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Arief",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Zepeda",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Carbon sequestration potential of agroforestry systems: opportunities and challenges",
+                "volume": "",
+                "issue": "",
+                "pages": "179--200",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schroth G, da Mota MSS, Hills T, Soto-Pinto L, Wijayanto I, Arief CW, Zepeda Y (2011) Linking carbon, biodiversity and livelihoods near forest margins: the role of agroforestry. In: Kumar BM, Nair PKR (eds.) Carbon sequestration potential of agroforestry systems: opportunities and challenges. Springer, Dordrecht, pp 179-200.",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Vegetation composition and ecological benefits of home gardens in the Meegahakiula region of Sri Lanka",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Senanayake",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Sangakkara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "K N G"
+                        ],
+                        "last": "Pushpakumara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Stamp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Tropical Agricultural Research",
+                "volume": "21",
+                "issue": "",
+                "pages": "1--9",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Senanayake, R. L., Sangakkara, U. R., Pushpakumara, D. K. N. G. & Stamp, P. (2009). Vegetation composition and ecological benefits of home gardens in the Meegahakiula region of Sri Lanka. Tropical Agricultural Research, 21:1-9.",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Climate change and agriculture in Sri Lanka: A Ricardian valuation",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Seo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Mendelsohn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Munasinghe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Environmental Development Economics",
+                "volume": "10",
+                "issue": "",
+                "pages": "581--596",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Seo S, Mendelsohn NR, Munasinghe M (2005) Climate change and agriculture in Sri Lanka: A Ricardian valuation. Environmental Development Economics 10:581-596.",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Ecology versus economics in tropical multi-strata agroforests. Tropical Homegardens: A Time-tested Example of Sustainable Agroforestry",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Torquebiau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Penot",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "269--282",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Torquebiau E, Penot E (2006) Ecology versus economics in tropical multi-strata agroforests. Tropical Homegardens: A Time-tested Example of Sustainable Agroforestry. Eds. B.M. Kumar and P.K.R. Nair. pp 269-282. Springer Science, Dordrecht.",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Are Homegarden Ecosystems Resilient to Climate Change? An Analysis of The Adaptation Strategies of Homegardeners in Sri Lanka",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Weerahewa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Pushpakumara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Silva",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Daulagala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Punyawardena",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Premalal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Miah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Roy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "APN Science Bulletin",
+                "volume": "2",
+                "issue": "",
+                "pages": "22--27",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Weerahewa J, Pushpakumara G, Silva P, Daulagala C, Punyawardena R, Premalal S, Miah G, Roy J et al (2012) Are Homegarden Ecosystems Resilient to Climate Change? An Analysis of The Adaptation Strategies of Homegardeners in Sri Lanka. APN Science Bulletin 2:22-27.",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Diversity and change in homegarden cultivation in Indonesia",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wiersum",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Tropical Homegardens: A Time Tested Example of Sustainable Agroforestry",
+                "volume": "",
+                "issue": "",
+                "pages": "13--24",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wiersum KF (2006) Diversity and change in homegarden cultivation in Indonesia. In: Tropical Homegardens: A Time Tested Example of Sustainable Agroforestry. Eds. B.M. Kumar and P.K.R. Nair. pp. 13-24. Springer, the Netherlands.",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Biodiversity and ecosystem productivity in a fluctuating environment: the insurance hypothesis",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Yachi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Loreau",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Ecology",
+                "volume": "96",
+                "issue": "",
+                "pages": "1463--1468",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yachi S, Loreau M (1999) Biodiversity and ecosystem productivity in a fluctuating environment: the insurance hypothesis. Ecology 96:1463-1468.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "type_str": "figure",
+                "fig_num": "1",
+                "text": "Fig.1 The study area and its location in the dry zone of the most southern part of Moneragala district as highlighted in red on the left image and green as sampling locations of homegardens on the right image. Note: 1, 2 and 3 of the left image represent the dry, intermediate and wet zones. Source: Modified from Google Earth, V 7.1.1.1888. 24 February (2013).",
+                "uris": null,
+                "num": null
+            },
+            "FIGREF1": {
+                "type_str": "figure",
+                "fig_num": "4",
+                "text": "Figure 4 Tree species richness and tree species richness per hectare (ha) in relation to homegarden size for each sampled homegardens. Each homegarden is represented by a blue and a red symbol (2x40 homegardens = 80 symbols). Linear and exponential regression lines with equations and rsquared values are shown for species richness and for species richness per ha, respectively.",
+                "uris": null,
+                "num": null
+            },
+            "TABREF2": {
+                "type_str": "table",
+                "text": "Tree diversity characteristics in different categories of homegardens of southern dry zone areas of Moneragala district in Sri Lanka.",
+                "num": null,
+                "content": "<table><tr><td/><td>Species</td><td/><td>Shannon Wiener index</td><td>Mean number</td></tr><tr><td/><td colspan=\"2\">recorded per</td><td>(SWI)</td><td>of species ha -1</td></tr><tr><td>Homegarden size</td><td colspan=\"2\">homegarden</td><td/><td/></tr><tr><td/><td>Total</td><td colspan=\"2\">Mean Mean \uf0b1 SE Range</td><td/></tr><tr><td>Small (0.2 ha)</td><td>43</td><td>14.91</td><td>2.08 \uf0b1 0.15 0.76 -</td><td>80 \uf0b1 10.03</td></tr><tr><td>n=11</td><td/><td/><td>2.66</td><td/></tr><tr><td>Medium (0.2-0.8 ha)</td><td>58</td><td>15.52</td><td>2.07 \uf0b1 0.09 1.08 -</td><td>23 \uf0b1 2.13</td></tr><tr><td>n=27</td><td/><td/><td>3.01</td><td/></tr><tr><td>Large (1.0-1.2 ha)</td><td>37</td><td>15.57</td><td>1.94 \uf0b1 0.16 1.52 -</td><td>15 \uf0b1 1.78</td></tr><tr><td>n=7</td><td/><td/><td>2.60</td><td/></tr><tr><td>All categories</td><td>73</td><td>15.38</td><td>2.05 \uf0b1 0.07 0.76 -</td><td>36 \uf0b1 4.65</td></tr><tr><td/><td/><td/><td>3.01</td><td/></tr><tr><td>SE \uf0b1 standard error</td><td/><td/><td/><td/></tr></table>",
+                "html": null
+            },
+            "TABREF3": {
+                "type_str": "table",
+                "text": "Non-parametric correlation (Spearman's Rho) n=45",
+                "num": null,
+                "content": "<table><tr><td colspan=\"2\">Spearman's Rho AGB</td><td colspan=\"3\">Trees ha -1 Species ha -1 Size</td><td>DBH</td></tr><tr><td>Trees ha -1</td><td>0.748**</td><td/><td/><td/></tr><tr><td>Species ha -1</td><td colspan=\"2\">0.718** 0.814**</td><td/><td/></tr><tr><td>Size</td><td colspan=\"3\">-0.57** -0.601** -0.741**</td><td/></tr><tr><td>DBH</td><td>0.224</td><td>-0.302*</td><td>-0.209</td><td>0.253</td></tr><tr><td>Height</td><td colspan=\"2\">0.436** 0.271</td><td>0.346</td><td colspan=\"2\">-0.221 0.211</td></tr><tr><td colspan=\"4\">** correlation is significant at the 0.01 level (2-tailed);</td><td/></tr><tr><td colspan=\"4\">* correlation is significant at the 0.05 level (2-tailed)</td><td/></tr></table>",
+                "html": null
+            }
+        }
+    }
+}

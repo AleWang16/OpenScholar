@@ -1,0 +1,2238 @@
+{
+    "paper_id": "matthews1992",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2026-02-18T16:05:16.612902Z"
+    },
+    "title": "The potential of alley cropping in improvement of cultivation systems in the high rainfall areas of Zambia I. Chitemene and Fundikila",
+    "authors": [
+        {
+            "first": "R",
+            "middle": [
+                "B"
+            ],
+            "last": "Matthews",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "S",
+            "middle": [
+                "T"
+            ],
+            "last": "Holden",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "J",
+            "middle": [],
+            "last": "Volk",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "S",
+            "middle": [],
+            "last": "Lungu",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Three trials investigating the potential of alley cropping to improve the traditional systems of cultivation, chitemene and fundikila, in the Northern Province of Zambia are described. Flemingia congesta, Tephrosia vogelii, and Sesbania sesban, were grown in association with finger millet, groundnut, cowpea, and maize in various traditional cropping sequences. The indigenous species Tephrosia vogelii and Sesbania sesban were not able to withstand repeated pruning and the long following dry season, and were replaced with Calliandra calothyrsus, and Cassia spectabilis.\nOver a four year period, there was no benefit by alley cropping with any of the tree species on crop yields, and yields in alley crop treatments even dropped significantly below the control treatments in the fourth year, casting doubt on the potential of alley cropping for sustainable production. There was also no consistent effect on soil chemical characteristics in any of the trials. It was suggested that this lack of beneficial response to alley cropping was due to low tree biomass production, low quality of prunings, and an inappropriate cropping sequence. There was no evidence that alley cropping contributed to enhanced nutrient recycling, despite substantial locaiised pools of soil nutrients, particularly in the chitemene, with which recycling could potentially occur.",
+    "pdf_parse": {
+        "paper_id": "matthews1992",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Three trials investigating the potential of alley cropping to improve the traditional systems of cultivation, chitemene and fundikila, in the Northern Province of Zambia are described. Flemingia congesta, Tephrosia vogelii, and Sesbania sesban, were grown in association with finger millet, groundnut, cowpea, and maize in various traditional cropping sequences. The indigenous species Tephrosia vogelii and Sesbania sesban were not able to withstand repeated pruning and the long following dry season, and were replaced with Calliandra calothyrsus, and Cassia spectabilis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "Over a four year period, there was no benefit by alley cropping with any of the tree species on crop yields, and yields in alley crop treatments even dropped significantly below the control treatments in the fourth year, casting doubt on the potential of alley cropping for sustainable production. There was also no consistent effect on soil chemical characteristics in any of the trials. It was suggested that this lack of beneficial response to alley cropping was due to low tree biomass production, low quality of prunings, and an inappropriate cropping sequence. There was no evidence that alley cropping contributed to enhanced nutrient recycling, despite substantial locaiised pools of soil nutrients, particularly in the chitemene, with which recycling could potentially occur.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The high rainfall areas of Zambia are defined as those with an annual rainfall greater than 1000 ram, and cover Northern, Luapula, Copperbelt, and parts of North-Western Provinces. The greater part of the region is covered by miombo woodland, dominated by two tree genera, Brachystegia and Julbernardia, forming a 15-20 m high, single-story, light but closed canopy over a forest floor consisting mainly of Hyparrhenia and Digitaria grass species. The soils are generally acidic and low in inherent fertility, providing little support for permanent agriculture; local cultivators have, therefore, evolved forms of shifting cultivation characterised by short cropping periods and long fallows, known as chitemene and fundikila.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "Chitemene has been well described by several authors [eg. Peters, 1950; Trapnell, 1953; Stromgaard, 1989] . It is a form of 'slash-and-burn' cultivation, but unique in that the lopped area is much larger than the cropped area. There is some evidence that the system is indigenous to the Zaire-Zambezi watershed, and that it was brought from that area during migrations in the 17th century [Stromgaard, 1989] . Although there are variations described by Stromgaard [1989] , the basic (or 'large-circle') form of chitemene is as follows. Branches are lopped from trees within the selected area between July and September, laid out to dry, and before the beginning of the rains in November, are gathered into a heap in the centre of the cut area. In general, the area of the heap is around 0.4 ha [Trapnell, 1953] , while the size of the cut area depends on the quantity of woody biomass in that area; where the regeneration period is long (30 years), it may be around 4 ha, but for shorter fallow periods may be as high as 11 ha [Peters, 1950] . The heap is burnt just before the first rains, with finger millet (Eleusine coracana (L.) Gaertn.) usually being the first crop sown in the ash plot. The subsequent cropping sequence varies, but typically is groundnut (Arachis hypogaea (L.)), millet, and beans (Phaseolus vulgaris (L.)) [see Trapnell, 1953] . Often cassava (Manihot esculenta Crantz) is planted as an intercrop with the millet in the first year and harvested gradually from the third year onwards. When the field is exhausted after 4-5 years, it is abandoned and traditionally left fallow for 20-30 years [Mansfield, 1973] , and another field opened. Mansfield et al. (1975) estimated that the chitemene system could support between 2 and 4 persons per knl 2 depending on the amount of suitable land available.",
+                "cite_spans": [
+                    {
+                        "start": 58,
+                        "end": 71,
+                        "text": "Peters, 1950;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 72,
+                        "end": 87,
+                        "text": "Trapnell, 1953;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 88,
+                        "end": 105,
+                        "text": "Stromgaard, 1989]",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 389,
+                        "end": 407,
+                        "text": "[Stromgaard, 1989]",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 453,
+                        "end": 470,
+                        "text": "Stromgaard [1989]",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 794,
+                        "end": 810,
+                        "text": "[Trapnell, 1953]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1027,
+                        "end": 1041,
+                        "text": "[Peters, 1950]",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1331,
+                        "end": 1351,
+                        "text": "[see Trapnell, 1953]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1616,
+                        "end": 1633,
+                        "text": "[Mansfield, 1973]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1662,
+                        "end": 1685,
+                        "text": "Mansfield et al. (1975)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "Nearly 90% of farmers in the high rainfall region practise chitemene.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "In the north-eastern part of the region, where the population is higher and there are fewer trees, the Mambwe people have developed the fundikila or 'grass-mound' system of cultivation. Detailed descriptions of the fundikila process are given by Stromgaard [1988] . It has been suggested that the system is a culmination of the breakdown of the chitemene system as the area became deforested by an increasing population [Stromgaard, 1989] . Briefly, the process involves the formation towards the end of the rainy season of mounds of grass (predominantly Hyparrhenia filipendula and Pennisetum purpureum) covered by earth on a previously fallowed site. The grass rots within the mound during the dry season, and at the start of the next rains the mounds are levelled, and finger millet planted. This may be followed in the second season by a variety of crops including maize (Zea mays (L.)), beans, sorghum (Sorghum bicolor (L.) Moench), and groundnuts.",
+                "cite_spans": [
+                    {
+                        "start": 246,
+                        "end": 263,
+                        "text": "Stromgaard [1988]",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 420,
+                        "end": 438,
+                        "text": "[Stromgaard, 1989]",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "Millet is usually planted again in the third year, followed by a legume. In some cases, the field may be mounded every second year, and the crop planted on the mounds. This combination of green-manuring and alternating cereal crops with legumes helps to slow exhaustion of soil fertility. There is some evidence that the system is sustainable [Stromgaard, 1990] , but in practice the cropping period is 3-5 years, and the fallow period is traditionally up to 20 years [Mansfield, 1973] . It has been estimated that the fundikila system is able to support 20-40 persons/kin 2 [Mansfield et al., 1975] , considerably more than the chitemene system.",
+                "cite_spans": [
+                    {
+                        "start": 343,
+                        "end": 361,
+                        "text": "[Stromgaard, 1990]",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 468,
+                        "end": 485,
+                        "text": "[Mansfield, 1973]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 575,
+                        "end": 599,
+                        "text": "[Mansfield et al., 1975]",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "An increase in population is causing mounting pressure on these traditional cultivation systems, particularly chitemene, resulting in longer cropping periods and shorter fallow periods. Because the soils are not given time to regenerate their fertility, there is a general decline in crop yields. This has had the effect of increasing the cleared area relative to the cropping area, a reduction in length of fallow periods required for regeneration (25 down to 12 yrs), and changes in the frequency of opening up new gardens (previously 1 yr, now 2 yrs) [Chidumayo, 1987] . The improvement of chitemene and fundikila has been neglected due to the concentration on the hybrid-maize/ fertiliser based economy (see Part II), but with the increasing cost of imported fertiliser forcing many farmers to return to these traditional systems, it is clear that there is an urgent need to improve their productivity and sustainability.",
+                "cite_spans": [
+                    {
+                        "start": 554,
+                        "end": 571,
+                        "text": "[Chidumayo, 1987]",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "Following diagnostic and design exercises in the region [Huxley et al., 1986; AFRENA, 1989; Mattsson, 1989] , alley cropping was recommended as a potential agroforestry intervention for both the chitemene and fundikila systems. It was hoped that the use of fast growing leguminous trees to supply nitrogen and organic matter, and to mobilise nutrients from deeper soil layers, would help to maintain soil fertility for longer in an extended cropping period, and to ensure faster regeneration of fertility in a shortened fallow period.",
+                "cite_spans": [
+                    {
+                        "start": 56,
+                        "end": 77,
+                        "text": "[Huxley et al., 1986;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 78,
+                        "end": 91,
+                        "text": "AFRENA, 1989;",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 92,
+                        "end": 107,
+                        "text": "Mattsson, 1989]",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "This paper describes three trials at Misamfu Regional Research Station, Kasama, investigating the potential of alley cropping to maintain or improve crop production in the chitemene and fundikila systems. A second paper in the series [Matthews et al., 1992] considers its impact in fertilised maize cultivation systems in the region.",
+                "cite_spans": [
+                    {
+                        "start": 234,
+                        "end": 257,
+                        "text": "[Matthews et al., 1992]",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "The three trials (referred to as Dll, D21 and D22 respectively a) were located at Misamfu Regional Research Station, in Northern Province (10\u00b010'S 31\u00b012'E). Figure 1 summarises monthly means of the climatic variables recorded at the station from 1978 to 1989. The mean annual rainfall is 1360 mm, and the mean monthly temperature ranges from 18 \u00b0C to 23 \u00b0C. The rainy season starts in November and ends in April, followed by a cool dry season from May to July, and a hot dry season from August to October. 'Pan evaporation' (IEt) is around 5 mm d -1 in the rainy and cool dry seasons, rising to 8 nun d -1 in the hot dry season. The dominant soils, classified as Orthic Ferralsols (FAO classification), are derived from non- basic rocks, and are strongly leached. Soil pedological, physical and chemical characteristics have been described by Mansfield et al. [1975] .",
+                "cite_spans": [
+                    {
+                        "start": 843,
+                        "end": 866,
+                        "text": "Mansfield et al. [1975]",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 164,
+                        "end": 165,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Location, climate and soils",
+                "sec_num": null
+            },
+            {
+                "text": "All three trials were initiated in 1986 with the purpose of evaluating the potential of alley-cropping to lengthen the cropping period and decrease the fallow period in each cultivation system. D ll began as a traditional chitemene, and D21 and D22 as traditional fundikila. Further details of each trial are as follows.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental management",
+                "sec_num": null
+            },
+            {
+                "text": "Trial Dll (Chitemene)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental management",
+                "sec_num": null
+            },
+            {
+                "text": "The trial was a Randomised Block Design with three replicates and five treatments. Treatments were as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental management",
+                "sec_num": null
+            },
+            {
+                "text": "1. 4 years cropping + 3 years fallow 2. 6 years cropping + 1 year fallow 3. 4 years cropping + 3 years fallow + Flemingia congesta 2 hedgerows 4. 6 years cropping + 1 year fallow + Flemingia congesta hedgerows 5. 4 years cropping + 3 years cover crop (Cajanus cajan)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental management",
+                "sec_num": null
+            },
+            {
+                "text": "The results presented in this paper are those of the first four years; treatments 1, 2 and 5 (no trees), and treatments 3 and 4 (trees) are therefore pooled. The effects of all five treatments will be reported in a subsequent paper.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental management",
+                "sec_num": null
+            },
+            {
+                "text": "During the dry season of 1986, an area of undisturbed miombo woodland on a Mufulira clay loam soil series was selected, and the trees lopped and piled in a 15 m wide and 120 m long strip. Based on a 5 m X 5 m sample, the amount of dry matter collected was 17.3 t ha -1. The chitemene was burnt on October 22, 1986, resulting in 8.5 t ha -1 of ash, measured using metal trays placed under the wood. Nutrient analysis of the ash was not made. No inorganic fertilisers were applied to the trial at any time.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental management",
+                "sec_num": null
+            },
+            {
+                "text": "Flemingia congesta was chosen as the hedgerow species due to its high biomass production recorded elsewhere [Budelman, 1988b] , and its success in alley cropping systems in Nigeria [Yamoah et al., 1986b] . Seeds were germinated in a sand seedbed in the nursery, and transplanted to plastic pots one month later. Seedlings were transplanted from the nursery into the trial on November 12, 1986, in double hedgerows 3.8 m apart. The spacing was 0.6 m between the two rows of a given double hedgerow with 0.25 m within a row, giving around 21,000 trees ha -1 in total. Plot size was 8 X 15 m. The seeds were not inoculated with rhizobia, but were found to form considerable numbers of nodules with local rhizobia in the soil. The trees were not pruned in the first year (1986/87) because of their small size, and only once in the second year. Thereafter, however, they were pruned twice per year to a height of 50 cm [Budelman, 1988b] .",
+                "cite_spans": [
+                    {
+                        "start": 108,
+                        "end": 125,
+                        "text": "[Budelman, 1988b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 181,
+                        "end": 203,
+                        "text": "[Yamoah et al., 1986b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 914,
+                        "end": 931,
+                        "text": "[Budelman, 1988b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental management",
+                "sec_num": null
+            },
+            {
+                "text": "In the first year (1986/87 season), finger millet was sown, followed in the next three years by groundnuts, maize, and finger millet respectively. Millet was broadcast at 12 kg ha -1, groundnut was planted in rows 0.75 m apart, 0.10 m within rows (133,000 plants ha-l), and maize in rows 0.9 m apart, 0.25 m within rows (53,000 plants ha-l). Varieties used, and dates of sowing and harvest are shown in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 409,
+                        "end": 410,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Experimental management",
+                "sec_num": null
+            },
+            {
+                "text": "This trial was located on a Misamfu Red soil series which had been fallow for more than 10 years. In April 1986, trees were stumped and removed, and the grass slashed and incorporated into traditional fundikila mounds.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trial D21 (Fundikila A)",
+                "sec_num": null
+            },
+            {
+                "text": "These were levelled at the beginning of December, 1986. The same design and treatments as in Dll were used; the only difference, therefore, between these two trials was that one originated as chitemene and the other as fundikila. As in Dll, results reported are for the first four years only with treatments 1, 2 and 5 (no trees), and treatments 3 and 4 (trees) pooled respectively.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trial D21 (Fundikila A)",
+                "sec_num": null
+            },
+            {
+                "text": "Bareroot seedlings of Flemingia congesta were transplanted from the nursery into the field in double hedgerows 0.5 m apart with 3 m spacing between the double hedgerows. The within row spacing was 0.25 m, giving around 23,000 plants ha -a. Plot size was 9 \u00d7 5 m. Due to their small size, the trees were not pruned in the first year, and only once in the second year, but thereafter were pruned twice per year. Dates of pruning are shown in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 446,
+                        "end": 447,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Trial D21 (Fundikila A)",
+                "sec_num": null
+            },
+            {
+                "text": "Finger millet was sown in the first year, followed by cowpeas (Vigna unguiculata (L.) Walp), then millet again for the next two years. Cowpea was sown in ridges 0.6 m apart, 0.1 m within rows (166,667 plants ha-a), and millet broadcast at the same rate as in Dll. Dates of sowing and of harvest of each crop are shown in Table 1 . No fertiliser was applied to the trial.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 327,
+                        "end": 328,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Trial D21 (Fundikila A)",
+                "sec_num": null
+            },
+            {
+                "text": "Rogor was used to control black aphids and bean beetle (Ootheca mutabilis), and DM45 to control early blight, both of which attacked the cowpea.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trial D21 (Fundikila A)",
+                "sec_num": null
+            },
+            {
+                "text": "This trial was located adjacent to D21 on the same soil series, with the same site history. A splitplot design with six replications was used with four tree treatments (control, Flemingia congesta, Tephrosia vogelii, and Sesbania sesban) as the main plots, and the following treatments as subplots:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trial D22 (Fundikila B)",
+                "sec_num": null
+            },
+            {
+                "text": "1. Control 2. 200 kg ha -1 single superphosphate 3 (SSP)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trial D22 (Fundikila B)",
+                "sec_num": null
+            },
+            {
+                "text": "3. Planted fallow (Cajanus cajan) 4. 200 kg ha -a SSP + planted fallow (Cajanus cajan)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trial D22 (Fundikila B)",
+                "sec_num": null
+            },
+            {
+                "text": "These treatments were included to evaluate the effect of P fertiliser application on the nutrient cycling capability of alley cropping in otherwise low P soils. The planted fallow treatments were to begin after four years of cropping, using pigeonpea (Cajanus cajan). Thus the results presented in this paper are those from the first four years only; subplot treatments 1 and 3 (no P), and treatments 2 and 4 (P), are identical and are therefore pooled.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trial D22 (Fundikila B)",
+                "sec_num": null
+            },
+            {
+                "text": "In early December 1986, the mounds and ridges were levelled and the trees planted. Flemingia congesta was transplanted from the nursery, and Sesbania sesban and Tephrosia vogelli were sown directly.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Trial D22 (Fundikila B)",
+                "sec_num": null
+            },
+            {
+                "text": "Trees were sown in single rows, 2.8 m apart and 0.25 m within rows, giving 13,333 trees ha-L Plot size was 5 \u00d7 6 m. Flemingia and Tephrosia established well. Sesbania germinated well, but after germination was badly attacked by bean beetle which killed most of the plants. In December 1987, Calliandra calothyrsus was planted to replace Sesbania. Tephrosia failed to survive the 1988 dry season, and was replaced by Cassia spectabilis in January 1989. As in the previous trials, there was no pruning in the first year, only one in the second, and two in subsequent years. Dates of pruning are shown in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 608,
+                        "end": 609,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Trial D22 (Fundikila B)",
+                "sec_num": null
+            },
+            {
+                "text": "In the first season (1986/87) finger millet was sown, followed in subsequent years by cowpea, groundnut, and maize, all sown at the same rates as described for trials Dll and D21. Varieties used, dates of sowing and of harvesting of each crop are shown in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 262,
+                        "end": 263,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Trial D22 (Fundikila B)",
+                "sec_num": null
+            },
+            {
+                "text": "The dry weight of the prunings was obtained by weighing the flesh weight of the prunings immediately after cutting, weighing the flesh weight of a subsample of these, and drying the subsample at 105 \u00b0C for 24 h and obtaining its dry weight. Dry weight (t ha -1) of the whole plot was then calculated as dry wt(plot) --fresh wt(sample) x plot area dry wt(sub-sample) flesh wt(sub-sample)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree pruning biomass production",
+                "sec_num": null
+            },
+            {
+                "text": "After measurement, prunings were incorporated into the crop ridges for all crops except millet; as the crop was broadcast, prunings were scattered as mulch between the plants. Flemingia congesta prunings were left to dry for 4-5 days before incorporation to avoid sprouting.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree pruning biomass production",
+                "sec_num": null
+            },
+            {
+                "text": "All crops were harvested from an area with borders 0.5 m from the edge of the plot, and the seed allowed to dry in the sun. A sub-sample of around 100 g was taken for dry matter determination; these were weighed, dried in an oven at 105 \u00b0C for 24 h, weighed again, and the original sample corrected to 12% moisture content. Yield data (t ha -1) are based on the whole plot harvested area rather than cropped area.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Crop yields",
+                "sec_num": null
+            },
+            {
+                "text": "Soil samples were collected from the depth ranges 0-20 cm and 20-40 cm in each plot of each trial using a standard 10 cm soil corer. Dates of sampling are shown in Table 1 . In trial D11 (chitemene), samples were taken in March 1986 preceding lopping, and again three months after the burn in October of that year. The samples were air dried in the field, put into polythene bags and taken to Mt Makulu Central Research Station, Lusaka, for analysis. Available Ca, Mg, K were extracted by 0.1 N ammonium acetate at pH 7, [Tucker, 1960] ; Ca, Mg were determined on a Perkin Elmer atomic absorption spectrophotometer and K on a flame photometer. Available P was determined with HC1 and NH4F as extractants [John, 1979] . Soil pH was determined in 0.01 M CaCI2 solution [Davies, 1971] , total N by Kjeldahl digestion [Kirk, 1960] , and organic C by oxidisation to CO 2 and use of the Leco automatic carbon analyser [Tabatabai, 1971] . The effective cation exchange capacity (ECEC) was found by adding exchangeable bases to acid cations extracted by 1 M KC1 solution [McLean, 1965] .",
+                "cite_spans": [
+                    {
+                        "start": 521,
+                        "end": 535,
+                        "text": "[Tucker, 1960]",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 704,
+                        "end": 716,
+                        "text": "[John, 1979]",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 767,
+                        "end": 781,
+                        "text": "[Davies, 1971]",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 814,
+                        "end": 826,
+                        "text": "[Kirk, 1960]",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 912,
+                        "end": 929,
+                        "text": "[Tabatabai, 1971]",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 1063,
+                        "end": 1077,
+                        "text": "[McLean, 1965]",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 170,
+                        "end": 171,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Leaf samples were taken at random from each of the tree species mid-way through the growing season. Samples were air-dried before sending to Mount Makulu Central Research Station, Lusaka, for nutrient analysis. The mineral nutrients were extracted from the leaf material in 1 N HNO 3. Concentrations of N, P, K, Ca and Mg were determined in a similar way as that described above for the soil samples.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Leaf nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Tree pruning biomass production within each trial is shown in Table 2 . The production of Flemingia congesta was highly variable, ranging from 0.3 t ha -1 in the first year of trial D21 to almost 3 t ha -1 in the fourth year of trial Dll.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 68,
+                        "end": 69,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Tree pruning biomass",
+                "sec_num": null
+            },
+            {
+                "text": "Tephrosia vogelii produced more than 2 t ha -1 in the first year of trial D22, but did not survive further. Sesbania sesban did not survive long enough to produce any prunings. The pnmings biomass production of both Calliandra ealothyrsus and Cassia spectabilis was low due to recent establishment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree pruning biomass",
+                "sec_num": null
+            },
+            {
+                "text": "There was no significant effect of adding SSP on tree biomass production in any year in the same trial.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree pruning biomass",
+                "sec_num": null
+            },
+            {
+                "text": "Table 2a. Mean biomass production per tree (g tree -1) in the three trials. In trial D22, Cassia spectabilis replaced Tephrosia vogelii in 1989, and Calliandra calothyrsus replaced Sesbania sesban in 1988. All trees were planted in November/December 1986. Figures in parentheses represent standard errors. 1988 1989 1990 D 11: Chitemene Flemingia 66.5 (18.8) 116.3 (40.5) 138.2 (35.4) D 2 i: Fundikila A Flemingia 13.5 (7.2) 105.4 (31.7) 51.7 (10,3) D22: Fundikila B 1. Flemingia 79.6 (20.1) 141.9 (45.9) 105.9 (16.1) 2. Tephrosia 164.4 (103.0) 24.7 (23.0) --Cassia ----42.2 (18.6) 3. Sesbania ------Calliandra --48.3 (28.6) 112.9 (34.6)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree pruning biomass",
+                "sec_num": null
+            },
+            {
+                "text": "Table 2b. Mean biomass production (t ha -1) in the three trials. Trials Dll and D21 were double hedgerows, whereas D22 was a single hedgerow arrangement. 1988 1989 1990 D 11: Chitemene Flemingia 1.40 (0.39) 2.45 (0.85) 2.91 (0.75) D21: Fundikila A Flemingia 0.28 (0.16) 2.22 (0.72) 1.09 (0.24) D22: Fundikila B 1. Flemingia 1.06 (0.27) 1.89 (0.61) 1.41 (0.21) 2. Tephrosia 2.19 (1.37) 0.33 (0.31) --Cassia ----0.56 (0.1 O) 3. Sesbania ------Calliandra --0.64 (0.39) 1.51 (0.46)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Tree pruning biomass",
+                "sec_num": null
+            },
+            {
+                "text": "Chitemene (D11). The yields of finger millet in the first year of the chitemene (Fig. 2a ) were high (mean: 2.3 t ha -1) in comparison with the fundikila trials (Figs. 2b and 2c ; mean: 0.5-0.6 t ha-l). By the fourth year, however, millet yields had dropped to around 0.4 t ha -1 in the chitemene while fundikila millet yields had actually risen to about 0.7 t ha -1. Although the growth of groundnuts in the Flemingia treatments appeared more vigorous in the second year, there was no significant difference in final crop yields between the treatments with trees and those without in the first three years. In the",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 86,
+                        "end": 88,
+                        "text": "2a",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 168,
+                        "end": 170,
+                        "text": "2b",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 175,
+                        "end": 177,
+                        "text": "2c",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Crop yields",
+                "sec_num": null
+            },
+            {
+                "text": "E3I .6 r,n I I E3I n~ ,k (i._eq |1 l~a!~ doJ~ ~E w///////////////~ ~ ~ , , i I ~ ~ k~\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\~ ~ = ,3 ' L~ ' A (L-Rq 4) ple! x doJ3 \"~ \u00a2~ ~l~ o ~o",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Crop yields",
+                "sec_num": null
+            },
+            {
+                "text": "fourth year however, treatments with Flemingia had significantly lower yields of millet than those without. There was considerable encroachment by weeds into all treatments in the fourth year, a factor probably responsible for the low overall yields.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Crop yields",
+                "sec_num": null
+            },
+            {
+                "text": "Fundikila A (D21). Yields of millet were low in the first year of this trial, but following the leguminous cowpea crop, increased to around 1 t ha -1 in the third year falling again to around 0.6 t ha -1 in the fourth year (Fig. 2b ). Again, there were no significant differences between 'no-tree' and 'tree' treatments for the first three years, but in the fourth year, yields were significantly lower in the treatments with trees.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 229,
+                        "end": 231,
+                        "text": "2b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Crop yields",
+                "sec_num": null
+            },
+            {
+                "text": "Fundikila B (D22). As different crops were sown in all four years in this trial, it is difficult to compare yield trends over that period. However, following two leguminous crops in the second and third years, mean maize yields in the fourth year were relatively high at 3.5 t ha -1 (Fig. 2c ). There were no differences in the first two years between 'no trees' and pooled 'trees' treatments, but in the third year there was a tendency for groundnut yields to be lower in the latter (although not significantly). However, by the fourth year, maize yields were significantly lower in the treatment containing trees (P = 0.01). There was no effect on crop yields of adding 200 kg ha -1 SSP in the subplot treatments until the fourth year, when there was a highly significant increase in the maize yield in all three tree species and the control treatment (P < 0.01).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 289,
+                        "end": 291,
+                        "text": "2c",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Crop yields",
+                "sec_num": null
+            },
+            {
+                "text": "Chitemene (Dll). Figure 3 shows the changes in soil chemical characteristics over the period 1986-1990 for the chitemene trial. As a result of the burn, there was a considerable increase in the 0-20 cm layer in the levels of Ca, Mg, K, A1, ECEC, P and of the pH. Organic carbon also increased slightly.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 24,
+                        "end": 25,
+                        "text": "3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "After four years of cropping, by 1990, there was a significant decline in the level of K and P, but the other nutrients remained at much the same level. Similar trends were evident in the 20-40 cm layer, although were not so marked. In both soil layers the treatment with trees showed a tendency to be slightly lower than those without trees in Ca, Mg, K, ECEC, organic C, P and pH, although these differences were not significant.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Fundikila A (D21). Changes in soil chemical characteristics for this trial are shown in Fig. 4 . In the 0-20 cm layer, there was little or no change for most nutrients over the period 1986-1990, although for Ca, A1, ECEC, and organic C, there was a slight increase. The situation was similar for the 20-40 cm layer, except that organic C declined. There was a tendency for the plots with trees to have slightly higher levels of most nutrients in both layers Table 1 for sampling dates. Units are Ca, Mg, K, Na, A1, ECEC: me (100 g)-l; Organic C: % w/w, Available P: ppm; pH in pH units. Note that available P values use fight hand axis. Vertical bars represent LSD0.05.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 93,
+                        "end": 94,
+                        "text": "4",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "at the end of the four-year period than those without, although these differences were not significant.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Fundikila B (D22). There were no significant differences between any of the tree species for any of the soil characteristics, so results are pooled across the three species and compared with the 'no trees' treatment (Fig. 5 ). In the main plot treatments of this trial, there was little change in any of the soil chemical characteristics within either layer, with the exception of organic carbon which increased in both, and available P which decreased in the upper layer and increased considerably in the lower layer, suggesting migration. The level of Ca also increased in the 20-40 cm layer. There were no significant differences between 'no tree' and 'tree' treatments in the fourth year. In the subplot treatments receiving SSP, available P was significantly lower in the 0-20 cm layer, but significantly higher in the 20-40 cm layer, again suggesting some migration.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 222,
+                        "end": 223,
+                        "text": "5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Leaf nutrient concentrations for each species are shown in Table 3 . Nitrogen levels ranged from 3.7% in Tephrosia vogelii to 6.3% in Sesbania sesban. The mean values of P, K, Ca and Mg were 0.081%, 0.728%, 0.458% and 0.123% respectively. Based on the mean of the rankings for each nutrient, Sesbania sesban and Gliricidia sepium had the overall highest level of nutrients, and Flemingia congesta the lowest.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 65,
+                        "end": 66,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Leaf nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "1 i J ! i i i t i i i i ,,o I__. I v, i i ! ,~t",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Leaf nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Using these figures and the prunings biomass data from Table 2 , the contribution of nutrients made to the soil by each species was calculated (Table 4 ). For comparison, rates of fertiliser application recommended by the Zambian Department of Agriculture for small scale farmers are also shown.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 61,
+                        "end": 62,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 150,
+                        "end": 151,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Leaf nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Because of its relatively higher biomass production, Flemingia congesta in trial Dll contributed around 65 kg ha -x y-1 of nitrogen, although the average across all the species was only 40 kg ha -1 y-a N. The mean contribution of P was small in comparison to the recommended rates, although the amount of K contributed was around 40% of that recommended for maize, groundnut, and cowpea, and 80% of that recommended for finger millet.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Leaf nutrient analysis",
+                "sec_num": null
+            },
+            {
+                "text": "The results from all three trials show that in both chitemene and fundikila trials alley cropping had no effect, either beneficial or detrimental, on crop Table 4 . Dry matter and nutrient contributions (kg ha -1 y-l) from the prunings of the hedgerows averaged over the 4 year period. Recommended almuai applications [LIMA, 1991] are shown for comparison. DM N P K Ca Mg D 11: Chitemene Flemingia 1689 64.5 1.3 11.0 D21: Fnndikila A Flemingia 897 34.0 0.7 5.8 D22: Fundikila B 1. Flemingia 1091 41.8 0.9 7.1 2. Tephrosia/ 771 31.5 0.8 5.3 Cassia 3. Sesbania/ 537 27.5 0.28 2.3 Calliandra Means 997 39.9 0.78 6.3 'LIMA' recommendations maize 112 18 16 finger millet 40 8 8 groundnut 20 18 16 cowpea 20 18 16 4.4 0.6 2.3 0.3 2.8 0.4 3.5 1.3 2.3 0.9 3.1 0.7 m",
+                "cite_spans": [
+                    {
+                        "start": 318,
+                        "end": 330,
+                        "text": "[LIMA, 1991]",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 161,
+                        "end": 162,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "yields in the first three years, but that by the fourth year, it caused a significant depression in yield, regardless of whether the crop was millet or maize. A number of other studies have reported similar results; Lal [1989b] found in alley cropping trials in Nigeria that whereas there was a general decline in maize and cowpea yields over a 6 year period, maize yields were lower in alley cropped treatments than in the control. Singh et al. [1986] reviewing results for a number of alley cropping trials in semi-arid areas of Southern India found that alley cropping decreased overall yields of various crops. Work on acid soils at Yurimaguas, Peru, also showed lower yields of maize, cowpeas and rice in alley cropping treatments compared to the control [Szott, 1987] . On the other hand, some successes have been recorded, mainly with the tree species Leucaena leucocephala [eg. O'Sullivan, 1985; Watson and Lagnihon, 1985; Kang et al., 1985] . Similarly, Yamoah et al. [1986b] reported significant increases in crop yield with Flemingia congesta in Nigeria. These are discussed in more detail in Part II of this series. It is noteworthy that in all of these studies and in the present work, the yields of leguminous crops such as cowpea and groundnut were depressed by alley cropping, suggesting these crops were fixing adequate quantities of nitrogen by themselves, and that the presence of the trees only represented unnecessary competition.",
+                "cite_spans": [
+                    {
+                        "start": 216,
+                        "end": 227,
+                        "text": "Lal [1989b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 433,
+                        "end": 452,
+                        "text": "Singh et al. [1986]",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 760,
+                        "end": 773,
+                        "text": "[Szott, 1987]",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 886,
+                        "end": 903,
+                        "text": "O'Sullivan, 1985;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 904,
+                        "end": 930,
+                        "text": "Watson and Lagnihon, 1985;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 931,
+                        "end": 949,
+                        "text": "Kang et al., 1985]",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 963,
+                        "end": 984,
+                        "text": "Yamoah et al. [1986b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In the chitemene trial (D11), the levels of most soil nutrients were slightly lower in the 'tree' treatments than those without, suggesting that there may be competition between trees and crop. In trial D21 there was slight evidence that alley cropping may have enhanced nutrient levels, but in trial D22, there was no difference in nutrient levels between alley cropping treatments and the control. However, as none of these differences were significant, it is not possible to draw clear conclusions. Results from other studies are also not consistent. Szott [1987] observed that there was less P, K, and Ca + Mg in the surface soil of the alley cropping treatment than in the control treatments in the Yurimaguas trials, and concluded that one of the reasons for lower yields in the alley crops was due to root competition for nutrients. Lal [1989a[ in alley cropping trials in Nigeria found that while soil organic matter, total N, pH, and exchangeable bases declined and total acidity and A13+ increased significantly in all treatments, these trends were least marked in the Leuceana leucocephala alley crop. Both Yamoah et al. [1986c] and Kang and Wilson [1987] , however, found a significant improvement in soil chemical properties under alley cropping in Nigeria. Lal [1989b] points out that the 'nutrient recycling' attributed to alley cropping is unlikely if the subsoil is extremely low in nutrients and there is little to recycle. Various authors have stressed the need for addition of fertiliser to low fertility alley cropping systems leg. Sanchez and Benites, 1987; Yamoah and Burleigh, 1990] . However, although the soils in Northern Zambia are of low fertility, both the chitemene and fundikila systems result in considerable localised enrichment of soil fertility. For example, measurements by Stromgaard [1984] indicate that the chitemene burn was equivalent to the addition of 176 kg ha -1 N, 346 kg ha -1 P, 433 kg ha -1 K and 308 kg ha -1 Ca to the soil. In the present work there was a substantial increase in the level of most soil nutrients after burning (Fig. 3 ). Similarly in fundikila, Stromgaard [1990] found that after one year, the mounds had significantly higher content of available cations than the surrounding flat-cultivated area, and after four years of a legume/cereal rotation on mounds alternating with flat cultivation, more nutrients had accumulated in the mound than were present before in the fallow. There are therefore considerable quantities of nutrients for alley crop trees to potentially recycle, particularly the highly mobile K which is leached back to pre-burn levels in the chitemene after one year [Stromgaard, 1984] . Losses of both P and K were evident in the present work, and were even slightly larger in the treatments with trees than those without (Fig. 3 ). In both fundikila trials, there was no difference in levels of P and K between the control and the alley crop treatments; there was also no statistical interaction between tree treatments and the addition of P fertiliser in trial D22. These seems to be little evidence, therefore, that nutrient recycling of any significance was occurring.",
+                "cite_spans": [
+                    {
+                        "start": 554,
+                        "end": 566,
+                        "text": "Szott [1987]",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 840,
+                        "end": 860,
+                        "text": "Lal [1989a[ in alley",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1118,
+                        "end": 1139,
+                        "text": "Yamoah et al. [1986c]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1144,
+                        "end": 1166,
+                        "text": "Kang and Wilson [1987]",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1271,
+                        "end": 1282,
+                        "text": "Lal [1989b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1553,
+                        "end": 1579,
+                        "text": "Sanchez and Benites, 1987;",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1580,
+                        "end": 1606,
+                        "text": "Yamoah and Burleigh, 1990]",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1811,
+                        "end": 1828,
+                        "text": "Stromgaard [1984]",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 2114,
+                        "end": 2131,
+                        "text": "Stromgaard [1990]",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 2653,
+                        "end": 2671,
+                        "text": "[Stromgaard, 1984]",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 2085,
+                        "end": 2086,
+                        "text": "3",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 2815,
+                        "end": 2816,
+                        "text": "3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "For alley cropping to be successful, the quantity, quality, and timing of prunings application are important [Swift, 1984[. In the studies where alley cropping has been shown to benefit crop yields, tree biomass production has been in the order of 6-8 t ha -1 y-1 using Leucaena leucocephala [Kang et al., 1985] . For Flerningia congesta, Budelman [1988b] recorded an annual dry matter production of 12.4 t ha y-~ in the Ivory Coast, while Yamoah et al. [1986b] measured 16.9 t DM ha -1 for Flemingia congesta in Nigeria. In the present work, however, although Flemingia congesta produced a maximum of 3 t ha -~ y-a in trial Dll, the mean annual production of all the species was only 1.3 t ha -1 y-i. Tree biomass production in Northern Zambia, therefore, appears to be considerably lower than elsewhere, a factor which may have been partly responsible for the lack of effect on crop yields.",
+                "cite_spans": [
+                    {
+                        "start": 109,
+                        "end": 123,
+                        "text": "[Swift, 1984[.",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 292,
+                        "end": 311,
+                        "text": "[Kang et al., 1985]",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 339,
+                        "end": 355,
+                        "text": "Budelman [1988b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 440,
+                        "end": 461,
+                        "text": "Yamoah et al. [1986b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In relation to the quality of prunings, Budelman [1988a] found slower decay, lower leaf nutrient content and a high C/N ratio of 21 in the prunings of Flerningia congesta compared to Leucaena leucocephala and Gliricidia sepium. As a C/N ratio of less than 10 is generally regarded as necessary to prevent the immobilisation of N by the incorporation of organic matter into the soil [Budelman, 1988a] , addition of Flemingia prunings may actually reduce rather than increase the level of N available to the crop. Flerningia also had the lowest overall level of nutrients (Table 3 ). Thus, the low quality of Flemingia prunings may have also been responsible for the lack of effect on crop yields. In the work of Yamoah et al. [1986b] , there was no difference in alley cropped maize yields whether Flemingia prunings were added or not.",
+                "cite_spans": [
+                    {
+                        "start": 40,
+                        "end": 56,
+                        "text": "Budelman [1988a]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 382,
+                        "end": 399,
+                        "text": "[Budelman, 1988a]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 711,
+                        "end": 732,
+                        "text": "Yamoah et al. [1986b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 577,
+                        "end": 578,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Biomass quantity and quality together determine the contribution of nutrients made to the soil by the prunings. However, the net benefit to the system must take into account the fact that most of these nutrients have come from the system itself. The average amount of nitrogen added through the prunings was 40 kg ha -1 y--1 N (Table 4 ). If it is assumed that about 35% of this was fixed biologically [Sanginga et al., 1989] , then this represents about 14 kg ha -1 y-1 N being added to the system, only 13% and 35% of the recommended N addition for maize and finger millet respectively [LIMA, 1991] . A significant proportion of K was added by the prunings, but P, Ca and Mg were present in the prunings in such low levels that their contribution to crop requirements was small. A proportion of each nutrient may have been brought from lower layers the crop could not reach, but further work is required to determine the importance of this source. However, the observations of Kessler and Breman ]1991 ] that many trees have very low fine-root densities below the crop rooting zone would suggest that the contribution from lower layers is small. Thus, the only benefit of alley cropping we can be reasonably sure of is the fixation of a relatively small amount of nitrogen, even less of which will be available to the crop due to losses from volatilisation, leaching, and manufacture of microbial protein. It would appear that the effective contribution of alley cropping to meeting crop nutrient requirements is comparatively small. Synchronisation of nutrient release with plant growth demands is also important. With most crops, the greatest nutrient demands are in the first five weeks of growth [see Yamoah et al., 1986a] , and demand lessens after this. The first pruning of the trees in the present work was at the onset of the rains after a long dry season in which there has been little growth, and there is a high wood and low leaf content. Decomposition is therefore slow, and the crop probably does not receive all the released nutrients when it needs them. In the second and third prunings, when there is substantial growth of readily decomposable leaf tissue, crop demands have lessened. Loss of these nutrients through leaching by the heavy rainfall at this time is highly likely. A potential improvement in the timing of pruning may be to shift the first pruning to the end of the previous season near the harvest. A variation of the fundikila technique could be employed in which tree prunings are incorporated in mounds or ridges at the end of the rainy season, allowed to decompose over the dry season, and levelled at the beginning of the next rainy season in preparation for the crop. In this way, high quality tree biomass is incorporated into the soil in the previous season, and as leaching losses are minimal over the dry season, would be available when crop demand is highest.",
+                "cite_spans": [
+                    {
+                        "start": 402,
+                        "end": 425,
+                        "text": "[Sanginga et al., 1989]",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 588,
+                        "end": 600,
+                        "text": "[LIMA, 1991]",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 979,
+                        "end": 1003,
+                        "text": "Kessler and Breman ]1991",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1707,
+                        "end": 1728,
+                        "text": "Yamoah et al., 1986a]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 334,
+                        "end": 335,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "It may also have been that the traditional sequence of crops is not optimal for an alley cropping system. In the first year, the trees are still too small to have any benefit to the millet crop, although, of course, fertility is relatively high from the burn in the chitemene or the levelled mounds in the fundikila.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In the second year, as fertility begins to decline, cowpeas or groundnuts are grown, their own nitrogen fixation neutralising any potential benefit the prunings may offer. In the third year, alley cropping might be expected to benefit the maize or millet crop. In the fourth and fifth years when beans are normally grown, even if the trees are well estabfished they are unlikely to have any effect on yields of another legume. Thus, in a five year cropping period, there is only one year in which alley cropping might be expected to have any effect on crop yields. Farmers may be unwilling to invest capital and labour in planting and maintaining trees for such a small return. Of course, if alley cropping had shown some potential in maintaining soil fertility, it may have been possible to include extra cereal crops in the sequence.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Thus, it appears from these results that the potential of alley cropping to improve the yields or the sustainability of the traditional cultivation systems in the Northern Province of Zambia is limited, at least with the tree species being used at present. In all trials, after four years of alley cropping, there was a significant decline in crop yields compared to the control. It was felt that this was probably due to the low biomass production of the trees, poor litter quality, particularly of Flemingia congesta, and possibly unsynchronised nutrient release. It is suggested that future research should address these problems by focusing on the screening of new tree species for greater biomass production under the prevailing conditions, and on exploring ways of improving alley cropping management techniques.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "The authors are grateful to the Norwegian Centre for International Agricultural Development (NORAGRIC) of the Agricultural University of Norway for financial support of this work. Special thanks must also be extended to all the staff of the Agroforestry Section of the Soil Productivity Research Programme, particularly Mr Shadreck Bwembya and Ms Pamela Mubiana for their untiring supervision of the field work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgements",
+                "sec_num": null
+            },
+            {
+                "text": "1. Trial numbers refer to SPRP in-house trial numbers.2. Synonyms: Flemingia macrophylla, Moghania macrophylla.3. Single superphosphate composition: 0:8:0:24 N:P:K:S (LIMA, 1991).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Notes",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Agroforestry Potential in the Unimodal Upland Plateau of Zambia",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Afrena",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "AFRENA (1989) In: Kwesiga F and Kamau IN, eds, Agroforestry Potential in the Unimodal Upland Plateau of Zambia. Agroforestry Research Network for Africa (AFRENA), Report No.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The decomposition of the leaf mulches of Leucaena leucocephala, Gliricidia sepium and Flemingia macrophylla under humid tropical conditions",
+                "authors": [
+                    {
+                        "first": "Nairobi",
+                        "middle": [],
+                        "last": "Icraf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Budelman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Agroforestry Systems",
+                "volume": "7",
+                "issue": "",
+                "pages": "33--45",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "ICRAF, Nairobi Budelman A (1988a) The decomposition of the leaf mulches of Leucaena leucocephala, Gliricidia sepium and Flemingia macrophylla under humid tropical conditions. Agrofores- try Systems 7:33-45",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Leaf dry matter productivity of three selected perennial leguminous species in humid tropical Ivory Coast",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Budelman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Agroforestry Systems",
+                "volume": "7",
+                "issue": "",
+                "pages": "47--62",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Budelman A (1988b) Leaf dry matter productivity of three selected perennial leguminous species in humid tropical Ivory Coast. Agroforestry Systems 7:47-62",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "A shifting cultivation land use system under population pressure in Zambia",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Chidumayo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Agroforestry Systems",
+                "volume": "5",
+                "issue": "",
+                "pages": "15--25",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chidumayo EN (1987) A shifting cultivation land use system under population pressure in Zambia. Agroforestry Systems 5:15-25",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "A statistical comparison of pH values of some English soils after measurement in both water and 0.01 M CaC12",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Davies",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1971,
+                "venue": "Proc Soil Sci Soc Am",
+                "volume": "35",
+                "issue": "",
+                "pages": "551--552",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Davies BE (1971) A statistical comparison of pH values of some English soils after measure- ment in both water and 0.01 M CaC12. Proc Soil Sci Soc Am 35:551-552",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Farm systems and agroforestry research in north Zambia: Phase I report --Diagnosis of land-use problems and research indications",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Huxley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Rocheleau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Wood",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Huxley PA, Rocheleau DE and Wood P (1986) Farm systems and agroforestry research in north Zambia: Phase I report --Diagnosis of land-use problems and research indications. ICRAF, Nairobi, Kenya",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Colorimetric determination of phosphorus in soil and plant materials with ascorbic acid",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "John",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "Soil Sci",
+                "volume": "109",
+                "issue": "",
+                "pages": "214--220",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "John MK (1979) Colorimetric determination of phosphorus in soil and plant materials with ascorbic acid. Soil Sci 109:214-220",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Alley cropping sequentially cropped maize and cowpea with Leucaena on a sandy soil in southern Nigeria",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Grimme",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Lawson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Plant and Soil",
+                "volume": "85",
+                "issue": "",
+                "pages": "267--276",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kang BT, Grimme H and Lawson TL (1985) Alley cropping sequentially cropped maize and cowpea with Leucaena on a sandy soil in southern Nigeria. Plant and Soil 85:267-276",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "The development of alley cropping as a promising agroforestry technology",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Agroforestry --A Decade of Development",
+                "volume": "",
+                "issue": "",
+                "pages": "227--243",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kang BT and Wilson GF (1987) The development of alley cropping as a promising agrofores- try technology. In: Steppler HA and Nair PKR, eds, Agroforestry --A Decade of Develop- ment. ICRAF, pp 227-243",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "The potential of agroforestry to increase primary production in the Sahelian and Sudanian zones of West Africa",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Kessler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Breman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Agroforestry Systems",
+                "volume": "13",
+                "issue": "",
+                "pages": "41--62",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kessler JJ and Breman H (1991) The potential of agroforestry to increase primary production in the Sahelian and Sudanian zones of West Africa. Agroforestry Systems 13:41-62",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Kjeldahl method for total nitrogen",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Kirk",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1960,
+                "venue": "Annals of Chemistry",
+                "volume": "22",
+                "issue": "",
+                "pages": "354--358",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kirk PL (1960) Kjeldahl method for total nitrogen. Annals of Chemistry 22:354-358",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Agroforestry systems and soil surface management of a tropical alfisol. HI. Changes in soil chemical properties",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Agroforestry Systems",
+                "volume": "8",
+                "issue": "",
+                "pages": "113--132",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal R (1989a) Agroforestry systems and soil surface management of a tropical alfisol. HI. Changes in soil chemical properties. Agroforestry Systems 8:113-132",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Potential of agroforestry as a sustainable alternative to shifting cultivation: concluding remarks",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Agroforestry Systems",
+                "volume": "8",
+                "issue": "",
+                "pages": "239--242",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal R (1989b) Potential of agroforestry as a sustainable alternative to shifting cultivation: concluding remarks. Agroforestry Systems 8:239-242",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Lima crop recommendations, Northern Province: small scale farmer recommendations",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Lima",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "LIMA (1991) Lima crop recommendations, Northern Province: small scale farmer recom- mendations (ed. Uprichard T). Ministry of Agriculture, Zambia Mansfield JE (1973) Summary of agronomic research findings in Northern Province, Zambia. Supplementary Report 7, Land Resources Division, Ministry of Overseas Development, England",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Land resources of Northern and Luapula Provinces, Zambia",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Mansfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Bennet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "King",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Lang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Lawton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1975,
+                "venue": "Land Resource Study",
+                "volume": "19",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mansfield JE, Bennet JO, King RB, Lang DM and Lawton RM (1975) Land resources of Northern and Luapula Provinces, Zambia. In: Land Resource Study 19, Land Resources Division, Ministry of Overseas Development, England",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "The potential of alley cropping in improvement of cultivation systems in the high rainfall areas of Zambia",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Matthews",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lungu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Volk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Holden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Solberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Agroforestry Systems",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Matthews RB, Lungu S, Volk J, Holden ST and Solberg K (1992) The potential of alley cropping in improvement of cultivation systems in the high rainfall areas of Zambia. II. Maize production. Agroforestry Systems (this issue)",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Agroforestry diagnosis in Mambwe area Northern Province of Zambia: assessment of constraints and potentials to agriculture production systems in Nsokolo watershed with targets for agroforestry research and development",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Mattsson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mattsson LE (1989) Agroforestry diagnosis in Mambwe area Northern Province of Zambia: assessment of constraints and potentials to agriculture production systems in Nsokolo watershed with targets for agroforestry research and development. Ph.D. Thesis, Agricul- tural University of Norway, As, Norway",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Methods of Soil Analysis",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Mclean",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1965,
+                "venue": "the Series Agronomy",
+                "volume": "",
+                "issue": "",
+                "pages": "986--994",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "McLean EO (1965) Aluminium. In: Black CA, ed, Methods of Soil Analysis. No. 9 in the Series Agronomy. American Society of Agronomy and Soil Science, America. Madison, Wisconsin, pp 986-994",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Farming systems and soil management: the Phiilipines/Australian Development Assistance Program experience",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "O'sullivan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Soil Erosion Management",
+                "volume": "6",
+                "issue": "",
+                "pages": "77--81",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "O'Sullivan TE (1985) Farming systems and soil management: the Phiilipines/Australian Deve- lopment Assistance Program experience. In: Crasswell ET, Remenyi JV, Nallana LG, eds, Soil Erosion Management. ACIAR Proc series 6:77-81",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Land usage in Serenje District",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Peters",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1950,
+                "venue": "",
+                "volume": "19",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Peters DV (1950) Land usage in Serenje District. Rhodes-Livingstone Paper no. 19. The Institute for African Studies, University of Zambia. Manchester University Press",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Low input cropping for acid soils of the humid tropics",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Sanchez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Benites",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Science",
+                "volume": "238",
+                "issue": "",
+                "pages": "1521--1527",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sanchez PA and Benites JR (1987) Low input cropping for acid soils of the humid tropics. Science 238:1521-1527",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Nitrogen fixation of field-inoculated Leucaena leucocephala (Lain.) de Wit estimated by the 15N and the difference methods",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mulongoy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Ayanaba",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Plant and Soil",
+                "volume": "117",
+                "issue": "",
+                "pages": "269--274",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sanginga N, Mulongoy K, Ayanaba A (1989) Nitrogen fixation of field-inoculated Leucaena leucocephala (Lain.) de Wit estimated by the 15N and the difference methods. Plant and Soil 117:269-274",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Alley cropping in the semi arid areas of India",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Singh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Van Den Beldt Ill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Hocking",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Korwar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Proc. 'Workshop on Alley Fanning for Humid and Sub-humid Regions of Tropical Africa",
+                "volume": "",
+                "issue": "",
+                "pages": "10--14",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Singh RP, Van den Beldt ILl, Hocking D and Korwar GR (1986) Alley cropping in the semi arid areas of India. Proc. 'Workshop on Alley Fanning for Humid and Sub-humid Regions of Tropical Africa', 10-14 March 1986, IITA, Ibadan, Nigeria",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "The immediate effect of burning and ash-fertilisation",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Stromgaard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Plant and Soil",
+                "volume": "80",
+                "issue": "",
+                "pages": "307--320",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stromgaard P (1984) The immediate effect of burning and ash-fertilisation. Plant and Soil 80: 307-320",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "The grassland mound system of the Aisa-Mambwe of Zambia",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Stromgaard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Tools and Tillage",
+                "volume": "6",
+                "issue": "",
+                "pages": "33--46",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stromgaard P (1988) The grassland mound system of the Aisa-Mambwe of Zambia. Tools and Tillage 6:33-46",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Adaptive strategies in the breakdown of shifting cultivation: the case of the Mambwe, Lamba, and Lala of Northern Zambia",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Stromgaard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Human Ecology",
+                "volume": "17",
+                "issue": "",
+                "pages": "427--444",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stromgaard P (1989) Adaptive strategies in the breakdown of shifting cultivation: the case of the Mambwe, Lamba, and Lala of Northern Zambia. Human Ecology 17:427-444",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Effects of mound cultivation on concentration of nutrients in a Zambian miombo woodland soil",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Stromgaard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Agriculture, Ecosystems and Environment",
+                "volume": "32",
+                "issue": "",
+                "pages": "295--313",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stromgaard P (1990) Effects of mound cultivation on concentration of nutrients in a Zambian miombo woodland soil. Agriculture, Ecosystems and Environment 32:295-313",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Soil biological processes and tropical soil fertility: a proposal for a collaborative program of research",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Swift",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Biology International Special Issue",
+                "volume": "5",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Swift MJ (1984) Soil biological processes and tropical soil fertility: a proposal for a collabora- tive program of research. Biology International Special Issue 5: International Union of Biological Sciences, Paris",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Improving the production of shifting cultivation in the Amazon Basin of Peru through the use of leguminous vegetation",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Szott",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Szott LT (1987) Improving the production of shifting cultivation in the Amazon Basin of Peru through the use of leguminous vegetation. PhD dissertation, North Carolina State Uni- versity, Raleigh, North Carolina, 168 pp",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Use of the Leco automatic carbon analyser for total carbon analysis of soils",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Tabatabai",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1971,
+                "venue": "Proc. Soil Sci. Soc. Am",
+                "volume": "34",
+                "issue": "",
+                "pages": "608--610",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tabatabai M (1971) Use of the Leco automatic carbon analyser for total carbon analysis of soils. Proc. Soil Sci. Soc. Am. 34:608-610",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "The soils, vegetation and agriculture of North-Eastern Rhodesia",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Trapnelt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1953,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Trapnelt CS (1953) The soils, vegetation and agriculture of North-Eastern Rhodesia. Report of the Ecological Survey. Government Printer, Lusaka, Zambia",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "The measurement of ion-exchange properties of soils",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Tucker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1960,
+                "venue": "Soil Publication",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Tucker, BM (1960) The measurement of ion-exchange properties of soils. Soil Publication No.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Sloping agricultural land technology (SALT) as developed by the Mindanao Baptist Rural Life Centre",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Watson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lagnihon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Workshop Proc. 'Protection and Amelioration Roles of Agroforestry'",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Watson HR and Lagnihon A (1985) Sloping agricultural land technology (SALT) as developed by the Mindanao Baptist Rural Life Centre. Workshop Proc. 'Protection and Amelioration Roles of Agroforestry', 4-11 September, 1985. Institute of Forest Conserva- tion, 4PLB, Los Banos, Phillipines",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Decomposition, nitrogen release and weed control by prunings of selected alley cropping shrubs",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Yamoah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Agboola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mulongoy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Agroforestry Systems",
+                "volume": "4",
+                "issue": "",
+                "pages": "239--246",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yamoah CF, Agboola AA, Mulongoy K (1986a) Decomposition, nitrogen release and weed control by prunings of selected alley cropping shrubs. Agroforestry Systems 4:239-246",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Nutrient contribution and maize performance in alley cropping systems",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Yamoah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Agboola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Agroforestry Systems",
+                "volume": "4",
+                "issue": "",
+                "pages": "247--254",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yamoah CF, Agboola AA and Wilson GF (1986b) Nutrient contribution and maize perform- ance in alley cropping systems. Agroforestry Systems 4:247-254",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Soil properties as affected by the use of leguminous shrubs for alley cropping with maize",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Yamoah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Agboola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mulongoy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Agriculture, Ecosystems and Environment",
+                "volume": "18",
+                "issue": "",
+                "pages": "167--177",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yamoah CF, Agboola AA, Wilson GF and Mulongoy K (1986c) Soil properties as affected by the use of leguminous shrubs for alley cropping with maize. Agriculture, Ecosystems and Environment 18:167-77",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Alley cropping Sesbania sesban (L) MefiU with food crops in the highland region of Rwanda",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Yamoah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Burleigh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Agroforestry Systems",
+                "volume": "10",
+                "issue": "",
+                "pages": "169--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yamoah CF, Burleigh JR (1990) Alley cropping Sesbania sesban (L) MefiU with food crops in the highland region of Rwanda. Agroforestry Systems 10:169-181",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "fig_num": "1",
+                "num": null,
+                "uris": null,
+                "text": "Fig. 1. Climatic variables recorded at Misamfu Regional Research Station 1979-1990.",
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "fig_num": "3",
+                "num": null,
+                "uris": null,
+                "text": "Fig. 3. Soil analysis data for chitemene trial Dll. (a) 0--20 cm (b) 20--40 cm. [] pre-burn sample, \u2022 post burn sample, [] 1990 no trees, [] 1990 trees. SeeTable 1 for sampling dates.",
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "fig_num": "4",
+                "num": null,
+                "uris": null,
+                "text": "Fig. 4. Soil analysis data for fundikila A trial D21. (a) 0-20 cm (b) 20-40 cm. [] pre-mound sample, \u2022 1990 no trees, [] 1990 trees. Units as in Fig. 3. Vertical bars represent LSD0.05.",
+                "type_str": "figure"
+            },
+            "FIGREF4": {
+                "fig_num": "1",
+                "num": null,
+                "uris": null,
+                "text": "~.~.~ ~:~",
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Season</td><td>Pruning</td><td/><td>Crop</td><td>Variety</td><td>Sowing</td><td>Harvest</td><td>Soil</td></tr><tr><td/><td>1st</td><td>2nd</td><td/><td/><td>date</td><td>date</td><td>sampling</td></tr><tr><td colspan=\"2\">Trial D11: Chitemene</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">1986/87 --</td><td>--</td><td>millet</td><td>Steadfast</td><td>26.12.86</td><td colspan=\"2\">5.05.87 *</td></tr><tr><td colspan=\"3\">1987/88 28.12.87 --</td><td colspan=\"2\">groundnut MakuluRed</td><td colspan=\"2\">1.12.87 21.04.88</td><td>5.05.88</td></tr><tr><td colspan=\"2\">1988/89 10.11.88</td><td colspan=\"2\">1.01.89 maize</td><td>MM752</td><td>11.11.88</td><td colspan=\"2\">5.05.89 --</td></tr><tr><td colspan=\"4\">1989/90 21.11.89 29.01.90 millet</td><td>Steadfast</td><td colspan=\"3\">22.11.89 11.05.90 22.06.90</td></tr><tr><td colspan=\"2\">Trial D2 I: Fundikila A</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">1986/87 --</td><td>--</td><td>millet</td><td>Steadfast</td><td colspan=\"2\">9.12.86 29.05.87</td><td>7.03.86</td></tr><tr><td colspan=\"3\">1987/88 11.01.88 --</td><td>eowpea</td><td>Shipepo</td><td colspan=\"3\">19.01.88 10.05.88 17.05.88</td></tr><tr><td colspan=\"4\">1988/89 23.11.88 15.02.89 millet</td><td>Steadfast</td><td colspan=\"3\">24.11.88 30.05.89 --</td></tr><tr><td>1989/90</td><td>8.12.89</td><td colspan=\"2\">2.02.90 millet</td><td>Steadfast</td><td>22.11.89</td><td colspan=\"2\">5.05.90 21.06.90</td></tr><tr><td colspan=\"2\">Trial D22: Fundikila B</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">1986/87 --</td><td>--</td><td>millet</td><td>L197</td><td colspan=\"3\">20.12.86 18.05.87 17.03.86</td></tr><tr><td colspan=\"3\">1987/88 15.01.88 --</td><td>cowpea</td><td>Shipepo</td><td colspan=\"3\">16.01.88 11.05.88 19.05.88</td></tr><tr><td colspan=\"6\">1988/89 25.11.88 13.02.89 groundnut Chalimbana 27.11.88</td><td colspan=\"2\">6.06.89 --</td></tr><tr><td colspan=\"4\">1989/90 15.11.89 24.01.90 maize</td><td>MM604</td><td>18.11.89</td><td colspan=\"2\">9.05.90 26.06.90</td></tr></table>",
+                "text": "Experimental management of the three trials.",
+                "type_str": "table"
+            }
+        }
+    }
+}

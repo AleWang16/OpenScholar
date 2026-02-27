@@ -28,6 +28,8 @@ def fast_load_jsonl_shard(args, shard_index):
 
     passage_shard_save_path = os.path.join(args.passages_dir, f'raw_passages-{shard_index}-of-{num_shards}.pkl')
     
+    # COMMENT OUT FOR NOW: if the directory exists, it will skip the sharding process.  
+
     if os.path.exists(passage_shard_save_path) or os.path.exists(passage_shard_save_path.replace('.pkl', '.jsonl')):
         if '.pkl' in passage_shard_save_path:
             logging.info(f'Loading from {passage_shard_save_path}...')

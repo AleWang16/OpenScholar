@@ -223,6 +223,7 @@ def search_dense_topk(cfg):
         output_path = get_search_output_path(cfg, index_shard_ids)
         all_exist = all_exist and os.path.exists(output_path)
     
+    # COMMENT OUT FOR NOW: skips index generation if already exists
     if all_exist and not eval_args.search.overwrite:
         logging.info(f'All search results for {index_args.index_shard_ids} exist, skipping searching.')
     

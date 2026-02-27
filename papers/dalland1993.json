@@ -1,0 +1,1703 @@
+{
+    "paper_id": "dalland1993",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2026-02-18T16:03:55.941896Z"
+    },
+    "title": "The potential of alley cropping in improvement of cultivation systems in the high rainfall areas of Zambia. III. Effects on soil chemical and physical properties",
+    "authors": [
+        {
+            "first": "A",
+            "middle": [],
+            "last": "Dalland",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "P",
+            "middle": [
+                "I"
+            ],
+            "last": "Vaje",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "R",
+            "middle": [
+                "B"
+            ],
+            "last": "Matthews",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "B",
+            "middle": [
+                "R"
+            ],
+            "last": "Singh",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "A detailed study of the soil chemical and physical properties in seven-year-old alley cropping trial containing Leucaena leucocephala and Flemingia congesta in Northern Zambia is described. There was a strong correlation between the maize yield and the total amount of nitrogen applied, both from prunings and fertiliser, suggesting that a major reason for the observed benefit from alley cropping, particularly with Leucaena, was due to an improvement in nitrogen supply. Leucaena produced significantly more biomass, and its leaves had higher concentrations of nitrogen, phosphorous and potassium and lower C/N and C/P ratios than did those of Flemingia. There was also evidence that the trees had a beneficial effect on other soil chemical properties; under the hedgerows, particularly those of Leucaena, there were higher levels of organic carbon, Mg, K and ECEC, and pH values were also highest.\nIt is suggested that higher levels of organic carbon in the alley crop treatments were responsible for the improvements observed in soil physical properties. Lower bulk density, lower penetration resistance, and a higher infiltration rate and pore volume fraction were measured in the alley crops, although there was no significant change in the soil water release parameters.\nA deteriorating effect of constant applications of nitrogen fertiliser on soil fertility was observed; as the level of urea application increased, there were significant decreases in Mg, K and pH, increases in A1 and soil acidity, and higher penetrometer resistance. These results highlight the urgent need for further research on biological methods of maintaining soil fertility.",
+    "pdf_parse": {
+        "paper_id": "dalland1993",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "A detailed study of the soil chemical and physical properties in seven-year-old alley cropping trial containing Leucaena leucocephala and Flemingia congesta in Northern Zambia is described. There was a strong correlation between the maize yield and the total amount of nitrogen applied, both from prunings and fertiliser, suggesting that a major reason for the observed benefit from alley cropping, particularly with Leucaena, was due to an improvement in nitrogen supply. Leucaena produced significantly more biomass, and its leaves had higher concentrations of nitrogen, phosphorous and potassium and lower C/N and C/P ratios than did those of Flemingia. There was also evidence that the trees had a beneficial effect on other soil chemical properties; under the hedgerows, particularly those of Leucaena, there were higher levels of organic carbon, Mg, K and ECEC, and pH values were also highest.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "It is suggested that higher levels of organic carbon in the alley crop treatments were responsible for the improvements observed in soil physical properties. Lower bulk density, lower penetration resistance, and a higher infiltration rate and pore volume fraction were measured in the alley crops, although there was no significant change in the soil water release parameters.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "A deteriorating effect of constant applications of nitrogen fertiliser on soil fertility was observed; as the level of urea application increased, there were significant decreases in Mg, K and pH, increases in A1 and soil acidity, and higher penetrometer resistance. These results highlight the urgent need for further research on biological methods of maintaining soil fertility.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "In Northern Zambia, government policy in the last decade has promoted maize production by the small-scale farming sector through the use of hybrid varieties and imported fertiliser, both heavily subsidised by donors [Stromgaard, 1984] . However, reduction of these subsidies in 1990 caused many small-scale farmers, unable to afford inputs, to return to the traditional chitemene and fundikila systems of cultivation. Evidence is also emerging that maize yields are declining despite increased rates of fertiliser application. A possible explanation suggested for this is soil acidification by the fertiliser [Bolt and Holdsworth, 1987] . For these reasons, if maize production is to be sustained in the region, alternative methods of maintaining soil fertility other than the sole use of fertiliser need to be developed. Alley cropping was suggested as one possible solution to the problem, and research began in 1984 at Misamfu Regional Research Station, Kasama, to assess its potential. Previous papers in this series have described the results from a number of trials evaluating the potential of alley cropping to maintain soil fertility in both maize production systems as well as the traditional chitemene and fundikila systems that may include maize during their cropping cycle [Matthews et al., 1991 [Matthews et al., , 1992a [Matthews et al., , 1992b]] . Results so far have not been encouraging; most trials showed a decline in crop yields in the alley cropping treatments after four years. It was suggested that this was a result of low tree biomass production, poor litter quality resulting in slow decomposition and nutrient release, and an inappropriate cropping sequence. However, in one trial lasting six years, it was found that Leucaena leucocephala, and to some extent Flemingia congesta, 1 consistently increased maize yields above the control treatment after initial amelioration of soil pH by liming [Matthews et al., 1992b] However, no significant changes in major soil chemical properties after six years of alley cropping could be measured, raising the question of how these yield increases were obtained.",
+                "cite_spans": [
+                    {
+                        "start": 216,
+                        "end": 234,
+                        "text": "[Stromgaard, 1984]",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 609,
+                        "end": 636,
+                        "text": "[Bolt and Holdsworth, 1987]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1285,
+                        "end": 1307,
+                        "text": "[Matthews et al., 1991",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1308,
+                        "end": 1333,
+                        "text": "[Matthews et al., , 1992a",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1334,
+                        "end": 1361,
+                        "text": "[Matthews et al., , 1992b]]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1922,
+                        "end": 1946,
+                        "text": "[Matthews et al., 1992b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "This paper describes the results of a detailed study of the soil chemical and physical properties of the trial in its seventh year, with the aim of identifying factors contributing to the maize yield improvements by Leucaena leucocephala and Flemingia congesta.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "The trial (trial D31 in Matthews et al. [1992b] ) was located at Misamfu Regional Research Station, Northern Province, Zambia (10~ 31~ 1536 m above sea level). The mean annual rainfall is 1360 mm, falling between November and April, with mean monthly temperatures ranging from 18 ~ to 23 ~ Pan evaporation varies from 5 mm d -1 to 8 mm d -1. The soil, classified as an Orthic Ferralsol, is strongly leached and of low inherent fertility. Fuller details of climate and soil are given in Matthews et al.",
+                "cite_spans": [
+                    {
+                        "start": 24,
+                        "end": 47,
+                        "text": "Matthews et al. [1992b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Materials and methods",
+                "sec_num": null
+            },
+            {
+                "text": "The trial was established in 1984 as a split-plot design with four replicates. There were four main plot treatments (crop only, Leucaena leucocephala + crop, Sesbania sesban + crop, and Gliricidia sepium -tcrop) and three subplot treatments (0, 60 and 120 kg ha -1 N). Flemingia congesta replaced Sesbania in the second year due to the inability of the latter to withstand repeated pruning. Sub-plot size was 8 x 12 m, each containing four hedge-rows. Further details of the experimental design and management in the first six years (1984/85--1989/90 ) are given in Matthews et al. [1992b] . The current study was conducted during the 1990/91 growing season, and measurements were confined to the 'no trees', Leucaena, and Flemingia treatments, and replications I, III and IV. Although soybean was also planted in the trial, only the data for maize are presented.",
+                "cite_spans": [
+                    {
+                        "start": 533,
+                        "end": 550,
+                        "text": "(1984/85--1989/90",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 566,
+                        "end": 589,
+                        "text": "Matthews et al. [1992b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental design and management",
+                "sec_num": null
+            },
+            {
+                "text": "On December 17, 1990, the trees were pruned to 40 cm height and the prunings incorporated into ridges at a spacing of 1 m. Maize (var. MM604) was sown into the ridges on December 19. Single superphosphate (SSP) and KC1 were appfied on January 21 at rates of 200 kg ha -1 and 40 kg ha -1 (17 and 20 kg ha -1 P and K, respectively) as a band along one side of the tree and crop rows and covered with soil afterwards. Nitrogen, as the sub-plot treatment, was applied in the form of urea only to the maize in two split doses, the first on January 21 and the second three weeks later. The urea was also applied by banding but on both sides of each maize row. A second pruning was made on January 30.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental design and management",
+                "sec_num": null
+            },
+            {
+                "text": "Biomass production at each pruning was measured in the same way as that described in Matthews et al. [1992@ The maize was harvested on May 13, the cobs were allowed to dry in the sun, and shelled. A sub-sample of around 100 g was taken for dry matter determination; these were weighed, dried in an oven at 105 ~ for 24 h, weighed again, and the original sample corrected to 12% moisture content.",
+                "cite_spans": [
+                    {
+                        "start": 85,
+                        "end": 107,
+                        "text": "Matthews et al. [1992@",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Experimental design and management",
+                "sec_num": null
+            },
+            {
+                "text": "Leaf samples were taken from the maize, Leucaena, and Flemingia at all levels of N fertilization twice during the growing season. Samples from the trees were collected at the time of the two prunings. Four trees were selected at positions, 3, 9, 15, and 21 from one end of each of the four rows in each plot, and the last fully-developed leaves from the two highest shoots were taken. Thus, the composite sample from each plot contained 32 leaves from 16 trees.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Leaf tissue analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Maize leaves were sampled on January 29 and March 15. Leaves were taken from four plants in each of the outer rows, with the same spacing as for the tree samples, and from eight plants in each of the two middle rows in each plot, again giving 16 leaves in each composite sample. In the 'no trees' plots, one representative sample was made of leaves from all six rows in each plot. At the first sampling, the uppermost fully-developed leaf below the whorl was collected, while for the second sampling (at the tasselling stage), the leaf immediately below the lowest cobs was taken. If no cobs had developed, leaves were taken from the sixth leaf from the bottom. This was only the case in the 'no fertiliser/no trees' treatment. Leaves were taken from different plants at each sampling.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Leaf tissue analysis",
+                "sec_num": null
+            },
+            {
+                "text": "All leaf samples were analysed at the chemical analytical laboratory at the Agricultural University of Norway. The nitrogen level was determined by Kjeldahl digestion, and P and K in the digested solution were measured by ICP. For C/N ratios, C and N contents were measured by infrared detection and thermal conductivity at 950 ~ for six composite samples from the",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Leaf tissue analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Leucaena and Flemingia at the three N levels.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Leaf tissue analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Soil samples for chemical analysis were collected four times during the growing season (December 11, January 29, March 3, and May 24) using a standard 10 cm soil corer. Samples were collected from the furrows on either side of the middle maize row (defined as the 'M' position) at the 0--20 cm depth, and from the furrows between the hedgerows and the closest maize row (defined as the 'H' position) at 0--20 cm and 20--40 cm depths. Composite samples were made out of soil from two to three core holes for each position of the samples taken in December. In January, March and May, each sample consisted of soil from eight core holes. The holes were made at 1 and 5 m from the end at one side of the row, and with the same distance from the other end on the corresponding side. Samples were taken at least 30 cm from the core holes of the previous sampling to avoid interference of increased water and particle transport through the holes. A total of 63 composite samples were collected at each sampling date. With the exception of the December sampling, subsamples were taken from each fresh sample, placed in polythene bags, frozen, and sent for analysis of NO;-and NH + to Mt Makulu Central Research Station, Lusaka. The remainders of each sample were air dried, sieved through a 2 mm sieve, and placed in polythene bags prior to analysis at Misamfu. Methods of analysis of available Ca, Mg, K, P, soil pH, total N, organic C, and the effective cation exchange capacity (ECEC) are described in Matthews et al. [1992@ Soil mineral N was extracted with KC1; the NO3 content was analysed by reduction to nitrite by cadmium, and NH4 + by gas diffusion through a membrane into an indicator stream. The resulting color changes were measured by spectrophotometer.",
+                "cite_spans": [
+                    {
+                        "start": 1497,
+                        "end": 1519,
+                        "text": "Matthews et al. [1992@",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil chemical analysis",
+                "sec_num": null
+            },
+            {
+                "text": "In January, penetrometer measurements were made in the 'no trees' and Leucaena plots in the 0 and 60 kg ha -~ N treatments. A cone penetrometer [Klute, 1986] fitted with a No. 3 cone (3.5 cm 2) was used, although occasionally it was found necessary to use a No. 2 cone (2 cm 2) when the soil was very hard. In each furrow, four measurements were made at positions 0.5, 2.5, 4.5, and 6.5 m from each end of the row. In each plot, sixteen penetrations were made in the outer rows and sixteen in the middle rows, and readings taken from 0--10, 10--20, 20--40, 40--60, 60--80, and 80--100 cm depths in the soil profile.",
+                "cite_spans": [
+                    {
+                        "start": 144,
+                        "end": 157,
+                        "text": "[Klute, 1986]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical analys&",
+                "sec_num": null
+            },
+            {
+                "text": "After the maize harvest, soil samples were collected from 5--50 cm depth for determination of bulk density, pore volume fraction, and the parameters of the soil water retention curve (pF). These were taken only from the 'no trees' and Leucaena treatments, both without N fertiliser. Using 100 cc cylinders, four samples were collected from the middle rows and four from the outer rows, at positions 1.5, 3.5, 4.5, and 6.5 m from the end of the row. The cylinders were taken to Mt Makulu Central Research Station, Lusaka, for analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical analys&",
+                "sec_num": null
+            },
+            {
+                "text": "Water retention capacity was measured at tensions of 0.0, 0.033, 0.1 and 1.5 MPa using a pressure plate apparatus [Klute, 1986] . Values for the parameters a and b of the soil water retention curve",
+                "cite_spans": [
+                    {
+                        "start": 114,
+                        "end": 127,
+                        "text": "[Klute, 1986]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical analys&",
+                "sec_num": null
+            },
+            {
+                "text": "In U s = a + b In |",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical analys&",
+                "sec_num": null
+            },
+            {
+                "text": "where U s is the soil water potential (MPa) and O s is the soil water content (%w/w), were obtained by fitting a straight line to the natural logarithmic transforms of each variable [Rogowski, 1972] . Bulk density and total porosity were also measured using the methods described in Klute [1986] .",
+                "cite_spans": [
+                    {
+                        "start": 182,
+                        "end": 198,
+                        "text": "[Rogowski, 1972]",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 283,
+                        "end": 295,
+                        "text": "Klute [1986]",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical analys&",
+                "sec_num": null
+            },
+            {
+                "text": "Infiltration rate measurements were made after the final harvest in the sole maize and Leucaena plots without N ferfiliser. Two holes, approximately 25",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical analys&",
+                "sec_num": null
+            },
+            {
+                "text": "x 25 \u2022 25 cm in size were made in each plot, at positions 1.5, 2.5, 4.5 and 6.5 m from the end of one row. The holes were filled with water to a depth of 15 cm, and the lowering of the water level measured at one minute intervals over a period of ten minutes. The process was repeated twice. The infiltration rate was calculated using the falling head method [Hvorslev, 1952] modified for use above the groundwater level.",
+                "cite_spans": [
+                    {
+                        "start": 359,
+                        "end": 375,
+                        "text": "[Hvorslev, 1952]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical analys&",
+                "sec_num": null
+            },
+            {
+                "text": "Total prunings biomass production for the season is shown in Table 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 67,
+                        "end": 68,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Biomass production and crop yield",
+                "sec_num": null
+            },
+            {
+                "text": "Leucaena produced significantly more biomass than Flemingia, and there was a marked decline as the level of applied nitrogen fertiliser increased.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Biomass production and crop yield",
+                "sec_num": null
+            },
+            {
+                "text": "Maize yields were similar in trends to previous years, with Leucaena increasing yields significantly, and Flemingia to a lesser extent (Fig. 1 ). This year, however, both alley cropping species also significantly increased yield even when fertiliser N was applied at the rate of 120 kg ha -I, an effect not evident in previous years. ",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 141,
+                        "end": 142,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Biomass production and crop yield",
+                "sec_num": null
+            },
+            {
+                "text": "In the tree leaves, the three nutrients, N, P, and K declined over the period of measurement (Table 2a ). In all cases, levels of each nutrient were higher in Leucaena than in Flemingia. There was no effect of applied N level on the leaf N% in each species, and no difference in the C%, either between species, or between N-levels (Table 2b ). Leucaena has lower C/N and C/P ratios than Flemingia, mainly due to the difference in the N% between the two species.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 100,
+                        "end": 102,
+                        "text": "2a",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 338,
+                        "end": 340,
+                        "text": "2b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Leaf tissue analysis",
+                "sec_num": null
+            },
+            {
+                "text": "There was a general decline in all soil chemical properties over the season with the exception of NH +. Differences between treatments in the 20--40 cm",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Table 2a. Nitrogen, P and K content in Leucaena and Flemingia leaves. Values are %w/w. Kjeldahl-N P K Species Jan Mar Jan Mar Jan Mar Leucaena 4.9 4.3 0.32 0.26 1.8 1.7 Flemingia 3.4 3.2 0.28 0.24 1.4 1.3 LSD0.0~ 0.11 0.008 0.047 Table 2b. Total N and C (%) in leaf dry matter of the two tree species. Total N Total C C/N C/P Species NO N60 N120 mean NO N60 N120 mean ratio ratio Leucaena 5.48 5.84 5.93 5.75 49.5 49.5 49.4 49.5 8.6 202 Flemingia 3.85 3.84 3.87 3.85 50.9 51.0 50.9 50.9 13.2 215",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "depth range were generally the same as those in the 0--20 cm zone; for clarity, therefore, these data are not presented.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Nitrogen. There was a decline in NO;-to near zero over the period of measurement, and a corresponding increase in NH + over the same period (Table 3 ). Based on this data, there was a significant increase (P < 0.01) of total soil mineral N (to a depth of 40 cm) over the season from 60.8 kg ha -1 to 93.1 kg ha -1 N, a net increase of 32 kg ha -1. There were no significant differences between species, nitrogen level treatments, or sampling positions, for both forms of N, and no correlation between mean soil mineral N levels and the yield of maize. The total amount of nitrogen applied to each plot was estimated as the sum of that from the fertiliser and that from the prunings. Nitrogen fertiliser",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 147,
+                        "end": 148,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Table 3. Concentration of NO3-N and NH4-N in species treatments at three times of sampling. Means across replications and N-treatments. Values in mg kg -1. NO3-N NH4-N Treatment Jan 29 Mar 3 May 24 Jan 29 Mar 3 May 24 Sole maize 7.47 3.01 0.000 11.2 23.9 20.8 Leucaena 7.93 1.69 0.000 8.7 22.3 18.2 Flemingia 8.66 2.39 0.333 12.7 21.1 21.6 LSD0.05 3.40 10.1",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "in the form of urea was applied at the rates of 0, 60 and 120 kg ha -1 N. In the case of the prunings, only that N fixed biologically was considered, as the remainder originated from within the plot itself. The net contribution N from the prunings was therefore calculated as N applied = Prunings biomass X biomass N% X fraction of N fixed",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "The values for N% of 5.75% and 3.85% for the biomass of Leucaena and Flerningia respectively (Table 2b ) were used, and the fraction of N fixed biologically was assumed to be 35% for both species [Sanginga et al., 1989 ].",
+                "cite_spans": [
+                    {
+                        "start": 196,
+                        "end": 218,
+                        "text": "[Sanginga et al., 1989",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 100,
+                        "end": 102,
+                        "text": "2b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "There was strong linear correlations between maize yield and N applied (Fig. 2a ), and between maize leaf N% and total N applied (Fig. 2b ). From the gradient of the relationship between yield and applied N, it can be seen that each extra kg of N added produces a maize yield increase of 10.2 kg ha -1. If it is assumed that the N content of maize seed is 2.74% [Mengel and Kirkby, 1987] , this represents an efficiency of use of applied N of 28%. The increase in total soil mineral N accounts for 32 kg ha -1 of that not used by the crop, the remainder being lost from the system in some way.",
+                "cite_spans": [
+                    {
+                        "start": 362,
+                        "end": 387,
+                        "text": "[Mengel and Kirkby, 1987]",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 77,
+                        "end": 79,
+                        "text": "2a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 135,
+                        "end": 137,
+                        "text": "2b",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Organic carbon. There was a decline in the soil organic carbon level in all treatments over the season (Fig. 3 ). However, particularly in the first part of the season, levels were higher in the Leucaena plots, and to some extent the Flemingia plots, compared to the 'no tree' control, although all treatments had declined to similar levels by the end of the season. There were significantly higher levels (P < 0.05) of organic carbon under the tree hedgerows than in the sole maize plots, but although levels were higher in the middle of the Leucaena alleys, differences were not significant (Table 4a ). There were also significant differences between the nitrogen treatments (Table 4b ), but these were not consistent --lowest values were in the N60 treatment and highest values in the N120 treatment respectively.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 109,
+                        "end": 110,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 600,
+                        "end": 602,
+                        "text": "4a",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 685,
+                        "end": 687,
+                        "text": "4b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Phosphorus. There was a general decline over the season in the level of P in the soil to around 36% of the value at the beginning of the season. There was a tendency for P levels to be higher in the Flemingia plots (Table 4a ),",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 222,
+                        "end": 224,
+                        "text": "4a",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "although not significantly, but there were no differences between levels of N fertiliser application (Table 4b ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 108,
+                        "end": 110,
+                        "text": "4b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Aluminium and pH. Levels of A1 and exchangeable acidity (H + + 1[ 3+) were higher between the alleys in the Leucaena and Fleming& treatments compared to the sole maize, but did not differ significantly under the hedgerows (Table 4a ). Consequently, aluminum saturation levels followed a similar pattern. The highest values of pH were found under the Leucaena tree rows,",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 229,
+                        "end": 231,
+                        "text": "4a",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "1.20 1.10 1,00 O o \"E 0.90 0.80 o r 0.70 0.60 0.50 Dec i i i i J Jan Feb Mar Apr May Date of sampling Fig. 3. Changes in soil organic carbon (%) over the season. ------no trees; leucocephala; ........ Flemingia congesta. Vertical bar represents LSD0.05. Leucaena Table 4a. Soil chemical properties in the sole maize, Leucaena leucocephala (Leuc), and Flemingia congesta (Flem) treatments. Under-trees (-H) and mid-plot (-M) measurements shown for alley crop treatments. Values are means across sampling dates and N treatments. F-values from analysis of variance (* = P < 0.05; ** = P < 0.01), and LSD0.05 values (where significant) shown. Position Ca Mg K Na E\u2022 A1 ECEC Alsat Org.C P pH me (100g) -1 % % ppm Solemaize 0.76 0.38 0.09 0.02 0.39 0.18 1.65 12.8 0.74 9.4 4.52 Leuc-H 0.77 0.52 0.12 0.03 0.31 0.15 1.76 10.1 0.83 8.7 4.64 b Flem-H 0.85 0.47 0.09 0.02 0.44 0.21 1.88 15.0 0.79 11.4 4.57 F(2,6) 3.3 11.4 7.87 1.38 2.41 3.14 10.92 5.85 5.89 2.9 4.43 LSD0.os 0.06 0.02 0.10 3.0 0.06 0.08 Solemaize 0.76 0.38 0.09 0.02 0.39 0.18 1.65 12.8 0.74 9.4 4.52 Leuc-M 0.69 0.38 0.12 0.03 0.44 0.20 1.66 14.1 0.77 9.7 4.50 Flem-M 0.65 0.32 0.10 0.02 0.52 0.25 1.61 18.1 0.72 10.6 4.39 F(2,16) 3.75 3.35 7.44 3.79 3.60 6.91 0.54 6.03 1.24 0.5 7.53 LSD0.o5 0.09 0.05 0.00 0.10 0.04 3.4 0.08 Table 4b. Effect of increasing N-fertiliser applications on soil chemical properties. Values are means across sampling dates and row positions. F-values from analysis of variance (* = P < 0.05; ** = P < 0.01), and LSD0.05 values (where significant) shown. N-level Ca Mg K Na Ex.Ac A1 ECEC Alsat Org.C P pH me (100g) -1 % % ppm NO 0.78 0.45 0.11 0.02 0.34 0.16 1.71 12.8 0.76 9.6 4.60 N60 0.73 0.40 0.10 0.02 0.44 0.20 1.68 12.2 0.73 10.5 4.50 N120 0.74 0.38 0.10 0.02 0.48 0.22 1.72 16.6 0.81 9.6 4.49 F(2,16) 1.50 11.8 3.37 0.71 11.83 7.23 2.24 4.9 3.45 0.8 13.3 LSDo.05 0.03 0.01 0.06 0.03 12.8 0.06 0.07",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "but the lowest were between the alleys in the Flemingia treatments. When the pooled tree values were compared to the sole maize values, pH was significantly higher (P < 0.05) under the tree rows of both species, and significantly lower between the alleys. There were highly significant increases in exchangeable acidity, AP +, and aluminium saturation, and a decrease in pH as more nitrogen fertillser was applied (Table 4b ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 421,
+                        "end": 423,
+                        "text": "4b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Exchangeable bases. Levels of Ca, Mg, K, Na, and the effective cation exchange capacity (ECEC) in the sole maize and rows with the Leucaena and Flemingia treatments are shown in Table 4a . In general, there were higher levels of each nutrient, resulting in the higher ECEC values, under the tree rows than between the alleys for each tree species. The ECEC was significantly higher (P < 0.05) under the hedgerows compared to the sole maize, principally due to higher levels of Mg and K. As increasing levels of nitrogen fertiliser were applied, there was a significant decline in the level of Mg and K in the soil (Table 4a ); however, as there was a corresponding increase in the level of H + and AP +, overall ECEC did not change significantly.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 184,
+                        "end": 186,
+                        "text": "4a",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 621,
+                        "end": 623,
+                        "text": "4a",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil chemical properties",
+                "sec_num": null
+            },
+            {
+                "text": "There were clear differences in penetrometer readings down to 50 cm depth, although at lower depths, differences were not significant (Fig. 4 ). At both levels of N application, the Leucaena treatments showed less resistance than the 'no trees' treatments. Similarly, the treatments receiving 60 kg ha -1 N showed a higher resistance than those receiving no fertiliser, although where",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 140,
+                        "end": 141,
+                        "text": "4",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil physical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Leucaena was present, the difference was small. In the Leucaena plots, no difference was found between the middle rows and the outer rows.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical properties",
+                "sec_num": null
+            },
+            {
+                "text": "Values of the bulk density, pore volume, infiltration rate and soil water retention curve parameters are shown in Table 5 . Compared to the 'no trees' plots, there was a significant reduction in bulk density and significant increase in the pore volume fraction in the Leucaena plots, particularly in the rows near the trees. Infiltration rate was also higher in the Leucaena plots. There were, however, no significant differences between 'no-tree' and",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 120,
+                        "end": 121,
+                        "text": "5",
+                        "ref_id": "TABREF7"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Soil physical properties",
+                "sec_num": null
+            },
+            {
+                "text": "1800 0-1600 14oo 1200 ~ 100o O. floo 0 9 ;.-:,-,.. ",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil physical properties",
+                "sec_num": null
+            },
+            {
+                "text": "The extremely close relationship between the quantity of applied nitrogen and maize yield and nitrogen level in the maize leaves shown in these results (Fig. 2 ) emphasises the limiting nature of nitrogen in the soils of Northern Zambia. The beneficial results described in Matthews et al. [1992b] using alley cropped Leucaena leucocephala in comparison to Flemingia congesta and Gliricidia sepium, seem, therefore, to be largely derived from the capacity of Leucaena to introduce nitrogen into the system through biological nitrogen fixation. In comparison to Flerningia, Leucaena contributed considerably more N, not only by producing higher levels of biomass, but also by having a higher level of N in this biomass. The data in Table 3 indicate that there was a net increase of around 32 kg ha -* in the level of soil mineral N to a depth of 40 cm, mainly in the form of NH +, with no significant differences between either tree species, N treatments, or sampling positions. Why there should be an increase in soil N over the season at all in the sole maize receiving no N fertiliser is difficult to explain, although Yamoah et al. [1986b] also found that soil N level increased in control treatments, along with an increase of nearly twice as much under an alley crop of Cassia, a non nitrogen-fixing species. The y-axis intercept in Fig. 2a indicates the presence of residual soil N from previous years; assuming the estimates above are correct, and that all of this soil mineral N eventually becomes available to the crop, there appears to be an adequate supply without further addition for some time. The trial has involved a maize/soyabean rotation for several years, probably the factor responsible for the presence of N in the soil in the absence of fertiliser and pruning applications. The slope of the line in Fig. 2a indicates that only 28% of each additional unit of applied N is used by the crop; the rest is presumably lost by conversion to microbial protein or by leaching, as volatilisation on these acid soils is expected to be negligible. It is interesting to note that Fig. 2a in this paper is essentially the same as Fig. 2 in Matthews et al. [1992b] ; when applied biomass is converted to the nitrogen equivalent, differences in response between the different fertiliser nitrogen levels disappear.",
+                "cite_spans": [
+                    {
+                        "start": 274,
+                        "end": 297,
+                        "text": "Matthews et al. [1992b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1121,
+                        "end": 1142,
+                        "text": "Yamoah et al. [1986b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2149,
+                        "end": 2172,
+                        "text": "Matthews et al. [1992b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 158,
+                        "end": 159,
+                        "text": "2",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 737,
+                        "end": 738,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1343,
+                        "end": 1345,
+                        "text": "2a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1827,
+                        "end": 1829,
+                        "text": "2a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 2095,
+                        "end": 2097,
+                        "text": "2a",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 2144,
+                        "end": 2145,
+                        "text": "2",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to improved nitrogen supply, an equally important effect of Leucaena alley cropping seems to be the improvement of soil organic matter levels. Similar increases in organic carbon were found when the results of several alley cropping trails at the same site were averaged [Matthews et al., 1991] . The role of organic materials in improving soil physical, chemical and biological properties has been well reviewed in recent years [e.g. Allison, 1973] , and various studies have shown the beneficial effects of alley cropping on soil organic matter levels. For example, Kang et al. [1981 Kang et al. [ , 1985] ] and Kang and Wilson [1987] , in a trial lasting six years in Nigeria, observed that soil organic matter levels were maintained in the alley cropping plots, but declined in the control plots. Similarly, Handawela [1986] reported higher soil organic matter and nitrogen levels under Gliricidia maculatum alley crops in Sri Lanka than under maize only. Yamoah et al. [1986b] found that there was an improvement in soil organic matter levels in Cassia and Gliricidia alley crops compared to the control plots. This improvement occurred even when the prunings were not applied, suggesting a contribution from root residues.",
+                "cite_spans": [
+                    {
+                        "start": 283,
+                        "end": 306,
+                        "text": "[Matthews et al., 1991]",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 447,
+                        "end": 461,
+                        "text": "Allison, 1973]",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 580,
+                        "end": 597,
+                        "text": "Kang et al. [1981",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 598,
+                        "end": 621,
+                        "text": "Kang et al. [ , 1985] ]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 626,
+                        "end": 648,
+                        "text": "Kang and Wilson [1987]",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 824,
+                        "end": 840,
+                        "text": "Handawela [1986]",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 972,
+                        "end": 993,
+                        "text": "Yamoah et al. [1986b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The beneficial effect of organic matter on soil physical properties is due in part to the action of organic gums in binding soil particles into aggregates, leading to an improvement in soil structure with a balanced distribution of pore sizes. This contributes to improved permeability and aeration, and easier root penetration, and in turn provides favourable conditions for development of fine feeder roots and mychorrhizae, so increasing the efficiency of nutrient uptake. The effects of improved soil physical properties on crop yields have been well reviewed by Lal and Greenland [1979] . As Yamoah et al. [1986a] have pointed out, good physical properties may even be more important than the supply of nutrients; the nutrients released from prunings become useless if the physical conditions do not favour proper root development to take up these nutrients. The present study showed significant reductions in soil bulk density, increases in the pore volume fraction and infiltration rates, and lower penetration resistance in the Leucaena treatments. Simlar results are emerging from other alley cropping studies. Handawela [1986] measured lower soil compression strengths under a Gliricidia maculatum alley crop in Sri Lanka, while Yamoah et al. [1986b] found a decrease in bulk density under alley crops of Gliricidia, Flemingia and Leucaena in Nigeria. Hulugalle and Kang [1990] , and Kang and Ghuman [1989] have observed similar improvements in soil physical proper-ties under various alley crops. Lal [1989b Lal [ , 1989c] ] reported that, despite an increase in bulk density and penetration resistance and a decrease in infiltration rates in all treatments, the rate of deterioration of these properties was less in Leucaena leucocephala and Gliricidia sepiurn alley crop treatments, particularly the former. This was attributed to effects on soil structure and structural porosity. The increased moisture retention capacity of the topsoil found by several authors [e.g. Kang et al., 1985; Yamoah et al., 1986b; Lal, 1989b] was not found in the present work.",
+                "cite_spans": [
+                    {
+                        "start": 567,
+                        "end": 591,
+                        "text": "Lal and Greenland [1979]",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 597,
+                        "end": 618,
+                        "text": "Yamoah et al. [1986a]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1120,
+                        "end": 1136,
+                        "text": "Handawela [1986]",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1239,
+                        "end": 1260,
+                        "text": "Yamoah et al. [1986b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1376,
+                        "end": 1387,
+                        "text": "Kang [1990]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1394,
+                        "end": 1416,
+                        "text": "Kang and Ghuman [1989]",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1508,
+                        "end": 1518,
+                        "text": "Lal [1989b",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1519,
+                        "end": 1535,
+                        "text": "Lal [ , 1989c] ]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1983,
+                        "end": 2001,
+                        "text": "Kang et al., 1985;",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 2002,
+                        "end": 2023,
+                        "text": "Yamoah et al., 1986b;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2024,
+                        "end": 2035,
+                        "text": "Lal, 1989b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The effect of enhanced organic matter levels on soil chemical properties has also been well documented. Factors such as a balanced nutrient supply, a slow release of nutrients, protection from leaching, and a buffering effect against soil acidity have all been cited [Young, 1989] . Certainly, in the present work, there were higher levels of Mg, K and overall ECEC, and pH values were also highest, under the hedgerows (particularly Leucaena) where organic carbon levels were the highest. Similar trends were reported by Kang et al. [1981 Kang et al. [ , 1985]] . Various other authors have also found evidence of an amelioration of A1 and acidity buildup by alley crops [e.g. Lal, 1989 @ Young [1989] has argued that it is unlikely that alley cropping can raise pH on naturally acid soils, but that further acidification may be checked by increasing the concentration of Ca and other bases in leaves brought up from the lower layers and recycled to the surface. The higher levels of Mg, K and ECEC in the alley crop treatments in the present study suggest that this may be occurring.",
+                "cite_spans": [
+                    {
+                        "start": 267,
+                        "end": 280,
+                        "text": "[Young, 1989]",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 522,
+                        "end": 539,
+                        "text": "Kang et al. [1981",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 540,
+                        "end": 562,
+                        "text": "Kang et al. [ , 1985]]",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 678,
+                        "end": 687,
+                        "text": "Lal, 1989",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 688,
+                        "end": 702,
+                        "text": "@ Young [1989]",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The higher nutrient content and lower acidity of the soil directly under the hedgerows suggests that litter fall and root residues are important factors contributing to soil fertility maintainance. Lal [1989b] also found lower soil bulk densities nearer the hedgerows, which he ascribed to enhanced earthworm activity and lack of soil disturbance. Nevertheless, despite the more favourable soil conditions, crop yields were significantly less closer to the tree rows [Matthews et al., 1991] , indicating that competition for light and possibly water may be more important than soil conditions.",
+                "cite_spans": [
+                    {
+                        "start": 198,
+                        "end": 209,
+                        "text": "Lal [1989b]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 467,
+                        "end": 490,
+                        "text": "[Matthews et al., 1991]",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The detrimental effect of constant applications of nitrogenous fertiliser is highlighted by these results. Significant decreases in Mg and K (and to some extent, Ca), increases in A1 and soil acidity, and higher penetrometer resistance were evident as more urea was applied. Lal [1989a] has pointed out that Ca, Mg, and K are often replaced by AP + under continuous cropping. Bolt and Holdsworth [1987] have reported a decline in maize yields in Northern Province, Zambia, despite increasing rates of fertiliser application, suggesting a deterioration in soil fertility as a possible reason. Certainly, urea is known to have an acidifying effect on soils [Mengel and Kirkby, 1987] . The decline in Ca, Mg, and K with higher fertiliser applications may have been due to the increase in maize yield removing more of these nutrients, emphasising the importance of balanced fertiliser applications. Adequate supply of one nutrient only may result in an induced deficiency of others.",
+                "cite_spans": [
+                    {
+                        "start": 275,
+                        "end": 286,
+                        "text": "Lal [1989a]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 376,
+                        "end": 402,
+                        "text": "Bolt and Holdsworth [1987]",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 655,
+                        "end": 680,
+                        "text": "[Mengel and Kirkby, 1987]",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Thus, although the high yields obtained with nitrogenous fertiliser application could not be obtained with alley cropping, the gradual deterioration in soil fertility, particularly in soil acidity, by the former, would seem to be a powerful argument in favor of continued research on alley cropping as a means of maintaining soil fertility and crop yields. While it is essential that other tree species should be screened for their ability to produce high quantities of biomass in the region, future research should also not discard Leucaena as a potential alley cropping species. Although the use of large quantities of lime is impractical at present for small-scale farmers in Northern Zambia IMatthews et al, 1992b] , the results from this trial have shown that Leucaena Ieucocephala seems to need favourable pH conditions only to establish; subsequent growth continues with no further applications even with soil pH as low as 4.4. It might be possible, therefore, to develop techniques of applying lime only to the soil around the seed or seedling, thereby reducing the quantities of lime required.",
+                "cite_spans": [
+                    {
+                        "start": 695,
+                        "end": 718,
+                        "text": "IMatthews et al, 1992b]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Discussion",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "The authors are grateful to the Norwegian Centre for International Agricultural Development (NORAGRIC) of the Agricultural University for Norway for financial support of this work. The original trial was supported in part by a grant from the Food and Agricultural Organisation (FAO) of the United Nations. Special thanks must also be extended to all the staff of the Agroforestry Section of the Soil Productivity Research Programme for their assistance with field work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgements",
+                "sec_num": null
+            },
+            {
+                "text": "i Synonyms: Flerningia macrophylla, Moghania rnacrophylla.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Note",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Soil Organic Matter and its Role in Crop Production",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Allison",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1973,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Allison FE (1973) Soil Organic Matter and its Role in Crop Production. Elsevier, Amster- dam, 637 pp",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Farming systems' economy and agricultural commercialisation in the South Eastern Plateau of Northern Province, Zambia",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Bolt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Holdsworth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "ARPT Economic Studies",
+                "volume": "1",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bolt R and Holdsworth I (1987) Farming systems' economy and agricultural commercialisa- tion in the South Eastern Plateau of Northern Province, Zambia. ARPT Economic Studies No. 1, Misamfu Regional Research Station, Kasama, Zambia",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Effect of hedgerows in alley cropping systems on surface soil physical properties of an Oxic Paleuslalf in southwestern Nigeria",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Handawela",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Amelioration of Soil by Trees: A Review of Current Concepts and Practices",
+                "volume": "114",
+                "issue": "",
+                "pages": "30--307",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Handawela J (1986) Effect of trees on upland annual agriculture in the low country dry zone of Sri Lanka. In: Prinsley RT and Swift M, eds, Amelioration of Soil by Trees: A Review of Current Concepts and Practices, pp 145--154. London Commonwealth Science Council Hulugalle NR and Kang BT (1990) Effect of hedgerows in alley cropping systems on surface soil physical properties of an Oxic Paleuslalf in southwestern Nigeria. J Agric Sci 114: 30t--307",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Time-lag and soil permeability in ground water observations. US Armycorps of engineers",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hvorslev",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1951,
+                "venue": "Waterways Experimentation Station Bulletin",
+                "volume": "36",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hvorslev MJ (1951) Time-lag and soil permeability in ground water observations. US Army- corps of engineers. Waterways Experimentation Station Bulletin 36, 50 pp",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Alley cropping as a sustainable crop production system",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Ghuman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "International Workshop on Conservation Farming on Hillslopes",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kang BT and Ghuman BS (1989) Alley cropping as a sustainable crop production system. Paper presented at an International Workshop on Conservation Farming on Hillslopes, Taichung, Taiwan, 20--29 March 1989",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Alley cropping sequentially cropped maize and cowpea with Leucaena on a sandy soil in southern Nigeria",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Grimme",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Lawson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Plant and Soil",
+                "volume": "85",
+                "issue": "",
+                "pages": "267--277",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kang BT, Grimme H and Lawson TL (1985) Alley cropping sequentially cropped maize and cowpea with Leucaena on a sandy soil in southern Nigeria. Plant and Soil 85:267--277",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Alley cropping maize (Zea mays L) and Leucaena (Leucaena leucocepohala LAM) in southern Nigeria",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Sipkens",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Plant and Soil",
+                "volume": "63",
+                "issue": "",
+                "pages": "165--179",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kang BT, Wilson GF and Sipkens L (1981) Alley cropping maize (Zea mays L) and Leucaena (Leucaena leucocepohala LAM) in southern Nigeria. Plant and Soil 63:165--179",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "The development of alley cropping as a promising agroforestry technology",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Wilson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Agroforestry --A Decade of Development",
+                "volume": "",
+                "issue": "",
+                "pages": "227--243",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kang BT and Wilson G (1987) The development of alley cropping as a promising agroforestry technology. In: Steppler HA and Nair PKR, eds, Agroforestry --A Decade of Develop- ment, pp 227--243.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Methods of Soil Analysis, Part 1: Physical and Mineralogical Methods",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Klute",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Klute A, ed (1986) Methods of Soil Analysis, Part 1: Physical and Mineralogical Methods Amer Soc Agron, Madison, WI, USA",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Agroforestry systems and soil surface management of a tropical alfisol. III. Changes in soil chemical properties",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Agroforestry Systems",
+                "volume": "8",
+                "issue": "",
+                "pages": "113--132",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal R (1989a) Agroforestry systems and soil surface management of a tropical alfisol. III. Changes in soil chemical properties. Agroforestry Systems 8:113--132",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Agroforestry systems and soil surface management of a tropical alfisol. IV. Effects on soil physical and mechanical properties",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Agroforestry Systems",
+                "volume": "8",
+                "issue": "",
+                "pages": "197--216",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal R (1989b) Agroforestry systems and soil surface management of a tropical alfisol. IV. Effects on soil physical and mechanical properties. Agroforestry Systems 8:197--216",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Agroforestry systems and soil surface management of a tropical alfisol. V. Water infiltrability, transmissivity and soil water sorptivity",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Agroforestry Systems",
+                "volume": "8",
+                "issue": "",
+                "pages": "217--238",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal R (1989c) Agroforestry systems and soil surface management of a tropical alfisol. V. Water infiltrability, transmissivity and soil water sorptivity. Agroforestry Systems 8: 217-- 238",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Soil Physical Properties and Crop Production in the Tropics",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Greenland",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1979,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal R and Greenland DJ (1979) Soil Physical Properties and Crop Production in the Tropics. Wiley, Chichester, UK, 551 pp",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "The potential of alley cropping in improving cultivation systems in Northern Province, Zambia: the evidence so far",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Matthews",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Volk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lungu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Regional Conference on Agroforestry Research and Development in the Miombo Ecozone of Southern Africa",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Matthews RB, Volk J, and Lungu S (1991) The potential of alley cropping in improving cultivation systems in Northern Province, Zambia: the evidence so far. Paper presented at the Regional Conference on Agroforestry Research and Development in the Miombo Ecozone of Southern Africa, Lilongwe, Malawi, June 16--21, 1991. ICRAF, Nairobi, Kenya",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The potential of alley cropping in improvement of cultivation systems in the high rainfall areas of Zambia. I. Chitemene and fundikila",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Matthews",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Holden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Volk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lungu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Agroforestry Systems",
+                "volume": "17",
+                "issue": "",
+                "pages": "219--240",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Matthews RB, Holden ST, Volk J and Lungu S (1992a) The potential of alley cropping in improvement of cultivation systems in the high rainfall areas of Zambia. I. Chitemene and fundikila. Agroforestry Systems 17:219--240",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "The potential of alley cropping in improvement of cultivation systems in the high rainfall areas of Zambia. II. Maize production",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Matthews",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lungu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Volk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Holden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Solberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Agroforestry Systems",
+                "volume": "17",
+                "issue": "",
+                "pages": "241--261",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Matthews RB, Lungu S, Volk J, Holden ST and Solberg K (1992b) The potential of alley cropping in improvement of cultivation systems in the high rainfall areas of Zambia. II. Maize production. Agroforestry Systems 17:241--261",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Principles of plant nutrition",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mengel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kirkby",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "247--492",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Mengel K and Kirkby EA (1987) Principles of plant nutrition, 4th ed, pp 247--492.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Estimation of the soil moisture characteristic and hydraulic conductivity: comparison of models",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Rogowski",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1972,
+                "venue": "Soil Sci",
+                "volume": "114",
+                "issue": "",
+                "pages": "423--429",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rogowski AS (1972) Estimation of the soil moisture characteristic and hydraulic conductivity: comparison of models. Soil Sci 114:423--429",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Nitrogen fixation of field-inoculated Leucaena leucocephala (Lam.) de Wit estimated by the 15N and the difference methods",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mulongoy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Ayanaba",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Plant and Soil",
+                "volume": "117",
+                "issue": "",
+                "pages": "269--274",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sanginga N, Mulongoy K and Ayanaba A (1989) Nitrogen fixation of field-inoculated Leucaena leucocephala (Lam.) de Wit estimated by the 15N and the difference methods. Plant and Soil 117:269--274",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Prospects of improved fro-ruing systems in a shifting cultivation area in Zambia",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Stromgaard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "Quarterly Journal of International Agriculture",
+                "volume": "23",
+                "issue": "",
+                "pages": "38--50",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Stromgaard P (1984) Prospects of improved fro-ruing systems in a shifting cultivation area in Zambia. Quarterly Journal of International Agriculture 23:38--50",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Nutrient contribution and maize performance in alley cropping systems",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Yamoah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Agboola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Agroforestry Systems",
+                "volume": "4",
+                "issue": "",
+                "pages": "247--254",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yamoah CF, Agboola AA and Wilson GF (1986a) Nutrient contribution and maize perform- ance in alley cropping systems. Agroforestry Systems 4:247--254",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Soil properties as affected by the use of leguminous shrubs for alley cropping with maize",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Yamoah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Agboola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mulongoy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1986,
+                "venue": "Agriculture Ecosystems and Environment",
+                "volume": "18",
+                "issue": "",
+                "pages": "167--177",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Yamoah CF, Agboola AA, Wilson GF and Mulongoy K (1986b) Soil properties as affected by the use of leguminous shrubs for alley cropping with maize. Agriculture Ecosystems and Environment 18:167--177",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Agroforestry for soil conservation",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Young",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Science and Practice of Agroforestry Series",
+                "volume": "",
+                "issue": "4",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Young A (1989) Agroforestry for soil conservation. Science and Practice of Agroforestry Series No. 4. ICRAF/CAB International Nairobi, Kenya",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "Fig. 2. (a) The relationship between total applied N (see text) and maize yield. Equation of the regression is Y = 574 + 10.2 X (r = 0.981, n = 9, P < 0.001); and (b) the relationship between total applied N and maize leaf N%. N% values are the mean over the January and March samples. Equation of the regression is Y = 1.52 + 0.0062 X (r = 0.968, n = 9, P < 0.001).",
+                "uris": null,
+                "num": null,
+                "fig_num": "2",
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "text": "Fig. 4. Penetrometer readings at each depth in the soil profile. O No tree-N0; O No trees-N60; [] Leucaena-NO; ~, Leucaena-N60; Vertical bar represents LSD0,05.",
+                "uris": null,
+                "num": null,
+                "fig_num": "4",
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "text": "Biomass production (kg ha -1) in each treatment. LSDo.05 values were as follows for",
+                "html": null,
+                "content": "<table><tr><td colspan=\"5\">comparisons between (a) treatment means: 483 kg ha-J; (b) N-level means: 342 kg ha-l;</td></tr><tr><td colspan=\"2\">(c) species means: 666 kg ha -1.</td><td/><td/><td/></tr><tr><td/><td/><td>N-level</td><td/><td/></tr><tr><td>Species</td><td>NO</td><td>N60</td><td>N120</td><td>mean</td></tr><tr><td>Leucaena</td><td>3707</td><td>3195</td><td>2659</td><td>3187</td></tr><tr><td>Flemingia</td><td>1528</td><td>1468</td><td>1365</td><td>1454</td></tr><tr><td>mean</td><td>2618</td><td>2332</td><td>2012</td><td/></tr><tr><td>2500</td><td/><td/><td/><td/></tr><tr><td>2OOO</td><td/><td/><td/><td/></tr><tr><td>g</td><td/><td/><td/><td/></tr><tr><td>1500</td><td/><td/><td/><td/></tr><tr><td>&gt;., .~ 1000</td><td/><td/><td/><td/></tr><tr><td>E</td><td/><td/><td/><td/></tr><tr><td>500</td><td/><td/><td/><td/></tr><tr><td/><td>NO</td><td>N60</td><td>N120</td><td/></tr><tr><td/><td/><td>N-level</td><td/><td/></tr></table>",
+                "num": null,
+                "type_str": "table"
+            },
+            "TABREF7": {
+                "text": "Values of bulk density, pore volume fraction, infiltration rate, and water release parameters a and b obtained for 'no trees' treatment, Leucaena middle and outer rows. Fvalues from analysis of variance (ns, *, ** = not significant, P < 0.05, P < 0.01 respectively), and LSD0.05 values (where significant) shown.Leucaena treatments, or between different rows within the Leucaena treatments for either parameter of the soil water retention curve.",
+                "html": null,
+                "content": "<table><tr><td/><td>Bulk</td><td>Pore</td><td>Infiltration</td><td colspan=\"2\">Water release parameters</td></tr><tr><td>Tree species</td><td>density, (gcm 3)</td><td>volume (%)</td><td>rate (cm rain-9 .</td><td>a</td><td>b</td></tr><tr><td>None</td><td>1.52</td><td>43.0</td><td>3.32</td><td>-2.20</td><td>--0.181</td></tr><tr><td>Leucaena mid</td><td>1.48</td><td>43.8</td><td>3.78</td><td>-2.14</td><td>--0.171</td></tr><tr><td>Leucaena out</td><td>1.43</td><td>46.3</td><td>--</td><td>--2.23</td><td>--0.194</td></tr><tr><td>F</td><td>12.2\"*</td><td>13.9\"*</td><td>6.1'</td><td>2.4ns</td><td>3.1ns</td></tr><tr><td>LSD0.05</td><td>0.04</td><td>1.5</td><td>0.05</td><td>--</td><td>--</td></tr></table>",
+                "num": null,
+                "type_str": "table"
+            }
+        }
+    }
+}

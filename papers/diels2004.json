@@ -1,0 +1,3052 @@
+{
+    "paper_id": "diels2004",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2026-02-18T16:04:22.098686Z"
+    },
+    "title": "Long-term soil organic carbon dynamics in a subhumid tropical climate: 13 C data in mixed C 3 /C 4 cropping and modeling with ROTHC",
+    "authors": [
+        {
+            "first": "J",
+            "middle": [],
+            "last": "Diels",
+            "suffix": "",
+            "affiliation": {},
+            "email": "j.diels@cgiar.org"
+        },
+        {
+            "first": "B",
+            "middle": [],
+            "last": "Vanlauwe",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "M",
+            "middle": [
+                "K"
+            ],
+            "last": "Van Der Meersch",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Laboratory for Soil and Water Management",
+                "institution": "K.U. Leuven",
+                "location": {
+                    "addrLine": "Kasteelpark Arenberg 20",
+                    "postCode": "3001",
+                    "settlement": "Heverlee",
+                    "country": "Belgium"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "N",
+            "middle": [],
+            "last": "Sanginga",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "R",
+            "middle": [],
+            "last": "Merckx",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "Laboratory for Soil and Water Management",
+                "institution": "K.U. Leuven",
+                "location": {
+                    "addrLine": "Kasteelpark Arenberg 20",
+                    "postCode": "3001",
+                    "settlement": "Heverlee",
+                    "country": "Belgium"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Scanty information on long-term soil organic carbon (SOC) dynamics hampers validation of SOC models in the tropics. We observed SOC content changes in a 16-year continuously cropped agroforestry experiment in Ibadan, south-western Nigeria. SOC levels declined in all treatments. The decline was most pronounced in the no-tree control treatments with continuous maize and cowpea cropping, where SOC levels dropped from the initial 15.4 to 7.3-8.0 Mg C ha 21 in the 0 -12 cm topsoil in 16 years. In the two continuously cropped alley cropping (AC) systems, one with Leucaena leucocephala and one with Senna siamea trees, SOC levels dropped to 10.7-13.2 Mg C ha 21 . Compared to the no-tree control treatments, an annual application of an additional 8.5 Mg ha 21 (dry matter) of plant residues, mainly tree prunings, led to an extra 3.5 Mg C ha 21 (,0.2% C) in the 0 -12 cm top soil after 11 years, and 4.1 Mg C ha 21 after 16 years. The addition of NPK fertilizer had little effect on the quantities of above-ground plant residues returned to the soil, and there was no evidence that the fertilizer affected the rate of SOC decomposition. The fact that both C 3 and C 4 plants returned organic matter to the soil in all cropping systems, but in contrasting proportions, led to clear contrasts in the 13 C abundance in the SOC. This 13 C information, together with the measured SOC contents, was used to test the ROTHC model. Decomposition was very fast, illustrated by the fact that we had to double all decomposition rate constants in the model in order to simulate the measured contrasts in SOC contents and d 13 C between the AC treatments and the no-tree controls. We hypothesized (1) that the pruning materials from the legume trees and/or the extra rhizodeposition from the tree roots in the AC treatments accelerated the decomposition of the SOC present at the start of the experiment (true C-priming), and/or (2) that the physical protection of microbial biomass and metabolites by the clay fraction on this site, having a sandy top soil in which clay minerals are mainly of the 1:1 type, is lower than assumed by the model.",
+    "pdf_parse": {
+        "paper_id": "diels2004",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "Scanty information on long-term soil organic carbon (SOC) dynamics hampers validation of SOC models in the tropics. We observed SOC content changes in a 16-year continuously cropped agroforestry experiment in Ibadan, south-western Nigeria. SOC levels declined in all treatments. The decline was most pronounced in the no-tree control treatments with continuous maize and cowpea cropping, where SOC levels dropped from the initial 15.4 to 7.3-8.0 Mg C ha 21 in the 0 -12 cm topsoil in 16 years. In the two continuously cropped alley cropping (AC) systems, one with Leucaena leucocephala and one with Senna siamea trees, SOC levels dropped to 10.7-13.2 Mg C ha 21 . Compared to the no-tree control treatments, an annual application of an additional 8.5 Mg ha 21 (dry matter) of plant residues, mainly tree prunings, led to an extra 3.5 Mg C ha 21 (,0.2% C) in the 0 -12 cm top soil after 11 years, and 4.1 Mg C ha 21 after 16 years. The addition of NPK fertilizer had little effect on the quantities of above-ground plant residues returned to the soil, and there was no evidence that the fertilizer affected the rate of SOC decomposition. The fact that both C 3 and C 4 plants returned organic matter to the soil in all cropping systems, but in contrasting proportions, led to clear contrasts in the 13 C abundance in the SOC. This 13 C information, together with the measured SOC contents, was used to test the ROTHC model. Decomposition was very fast, illustrated by the fact that we had to double all decomposition rate constants in the model in order to simulate the measured contrasts in SOC contents and d 13 C between the AC treatments and the no-tree controls. We hypothesized (1) that the pruning materials from the legume trees and/or the extra rhizodeposition from the tree roots in the AC treatments accelerated the decomposition of the SOC present at the start of the experiment (true C-priming), and/or (2) that the physical protection of microbial biomass and metabolites by the clay fraction on this site, having a sandy top soil in which clay minerals are mainly of the 1:1 type, is lower than assumed by the model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Improved prediction of long-term changes of soil organic matter (SOM) contents in tropical soils should help identify more intensive and productive sustainable cropping systems. Because of the contribution of SOM to CEC, buffering capacity, soil structure, and water holding capacity, higher SOM levels could raise efficiencies of mineral fertilizers. A better understanding of long-term SOM dynamics can therefore significantly contribute to the current renewed research on the benefits of combining synthetic and organic sources of plant nutrients. Improved predictive capabilities moreover would allow for more precise assessment of the carbon sequestration potential in tropical soils.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "SOM models, if properly validated against long-term data, offer the possibility of estimating changes in SOM levels under current and improved cropping systems without initiating new long-term experiments. Unfortunately, only a limited number of studies (Woomer, 1993; Parton et al., 1994; Myers, 1995; Vallis et al., 1996; Smith et al., 2000; Gijsman et al., 2002) have tested SOM models against longterm data from tropical regions. Most if not all SOM models were developed using long-term data from temperate regions only. The particular mineralogy of many tropical soils and the lack of understanding of its influence on SOM stabilization (Merckx et al., 2001) , underscores the need for model validation using long-term data from the tropics, a task which is hampered by the limited availability of welldocumented long-term experiments.",
+                "cite_spans": [
+                    {
+                        "start": 254,
+                        "end": 268,
+                        "text": "(Woomer, 1993;",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 269,
+                        "end": 289,
+                        "text": "Parton et al., 1994;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 290,
+                        "end": 302,
+                        "text": "Myers, 1995;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 303,
+                        "end": 323,
+                        "text": "Vallis et al., 1996;",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 324,
+                        "end": 343,
+                        "text": "Smith et al., 2000;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 344,
+                        "end": 365,
+                        "text": "Gijsman et al., 2002)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 643,
+                        "end": 664,
+                        "text": "(Merckx et al., 2001)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Various types of experimental data have been used to test SOM models for temperate and tropical regions: (1) time series of soil organic carbon (SOC) contents (Jenkinson et al., 1994; Parton and Rasmussen, 1994; Vallis et al., 1996) , and ( 2) SOC contents at one particular time in sites/treatments which differ in one or another factor controlling SOC levels (such as quantity or type of the organic materials returned to the soil) (Parton et al., 1987; Paustian et al., 1992) .",
+                "cite_spans": [
+                    {
+                        "start": 159,
+                        "end": 183,
+                        "text": "(Jenkinson et al., 1994;",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 184,
+                        "end": 211,
+                        "text": "Parton and Rasmussen, 1994;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 212,
+                        "end": 232,
+                        "text": "Vallis et al., 1996)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 434,
+                        "end": 455,
+                        "text": "(Parton et al., 1987;",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 456,
+                        "end": 478,
+                        "text": "Paustian et al., 1992)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "Many studies have used the 13 C natural abundance technique to generate quantitative information on long-term SOM dynamics in temperate and tropical regions (e.g. Martin et al., 1990; Veldkamp, 1994; Feigl et al., 1995; Hsieh, 1996) . The method, developed by Cerri et al. (1985) , is based on the fact that plants with a C 3 photosynthetic pathway have a 13 C abundance ranging between 2 24 and 2 34\u2030, while C 4 plants range between 2 6 and 2 19\u2030 (Smith and Epstein, 1971) . Because the 13 C abundance of incoming plant material is largely preserved during mineralization and humus formation, the 13 C content of the SOC reflects the 13 C content of the vegetation. If a change occurred from a C 3 to a C 4 vegetation or vice versa at a known time in the past, it is possible to infer the turnover time of the SOC originating from the first vegetation type from the present 13 C content of the SOM.",
+                "cite_spans": [
+                    {
+                        "start": 163,
+                        "end": 183,
+                        "text": "Martin et al., 1990;",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 184,
+                        "end": 199,
+                        "text": "Veldkamp, 1994;",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 200,
+                        "end": 219,
+                        "text": "Feigl et al., 1995;",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 220,
+                        "end": 232,
+                        "text": "Hsieh, 1996)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 260,
+                        "end": 279,
+                        "text": "Cerri et al. (1985)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 448,
+                        "end": 473,
+                        "text": "(Smith and Epstein, 1971)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "The possibility of using carbon isotope data as additional information for testing SOM models has been known since the work by Jenkinson et al. (1992) on changes in soil 14 C content following the nuclear tests in the early 1960s. However, very few researchers (Balesdent, 1996; Molina et al., 2001) have used 13 C abundance data in combination with SOM models. The use of the 13 C technique moreover has been limited to complete transitions from pure C 3 to pure C 4 vegetation (or vice versa). Tropical agroecosystems often involve a mixture or rotation of C 3 and C 4 plants.",
+                "cite_spans": [
+                    {
+                        "start": 127,
+                        "end": 150,
+                        "text": "Jenkinson et al. (1992)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 261,
+                        "end": 278,
+                        "text": "(Balesdent, 1996;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 279,
+                        "end": 299,
+                        "text": "Molina et al., 2001)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "The objectives of our study were to (1) monitor SOC changes on a 16-year time scale in a field experiment under sub-humid tropical conditions involving treatments with mixtures of C 3 and C 4 plants, (2) investigate the usefulness of the 13 C tracer technique for such a mixed C 3 -C 4 situation, and (3) use the experimental data to test the ROTHC SOM model (Jenkinson, 1990; Coleman and Jenkinson, 1995) .",
+                "cite_spans": [
+                    {
+                        "start": 359,
+                        "end": 376,
+                        "text": "(Jenkinson, 1990;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 377,
+                        "end": 405,
+                        "text": "Coleman and Jenkinson, 1995)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": "1."
+            },
+            {
+                "text": "A field experiment was established in 1986 to compare a Leucaena leucocephala and a Senna siamea alley cropping (AC) system with a control system without trees.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Site description, experimental design and management",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "L. leucocephala is a fast-growing N-fixing legume tree, while S. siamea is a legume tree that does not fix N and grows less vigorously. Since 1986, the AC cropping systems and the control have been continuously cropped with maize during the first growing season (May -July) and cowpea during the second growing season (September -November), except for 1992 when the field was left fallow in the second season. The experiment was established on an Episkeleti-Ferric Lixisol (Chromic) (ISSS-FAO-ISRIC, 1998) on the experimental farm of the International Institute of Tropical Agriculture (IITA) in Ibadan, SW-Nigeria (7830 0 N, 3854 0 E). The experimental field had a 6% slope. Farm records indicated that between 1975 and 1981 the land has been used for annual crops (maize, cowpea), and left under grass fallow from 1982 to 1986. The plot of land is visible as arable land free of shrubs or trees on aerial photographs taken in 1975 and 1979. Prior to the establishment of the IITA experimental farm in 1967, the land has been used by smallholder farmers, who presumably practiced a bushfallow system. Ibadan has a bimodal rainfall, with an annual mean of 1278 mm, and a mean annual temperature of 26.2 8C. The trial was set up as a randomized complete block design with five replications and six treatments: the above-mentioned three cropping systems with and without fertilizer. The experimental plots measured 19.5 \u00a3 10 m. Yearly additions of urea (120 kg N ha 21 ), single super phosphate (40 kg P ha 21 ) and muriate of potash (25 kg K ha 21 ) comprised the fertilizer treatments. From 1994 onwards, these levels were decreased to 60 kg N ha 21 , 16.2 kg P ha 21 , and 15 kg K ha 21 . The trees in the AC systems were planted 4.5 m between the rows and 0.5 m within the rows at the beginning of the growing season in 1986, first pruned in 1987, and then regularly pruned 3-4 times a year. Tree prunings, excluding woody stems . 10 mm, were left on the plots. Tillage consisted of loosening of 3-5 cm of topsoil with a hand hoe prior to planting and at each manual weeding operation. Weeds were managed with a combination of a single herbicide spraying before each maize and cowpea planting and subsequent manual weeding (3 -4 times during the first season, twice during the second season). All weed residues were left in the plots. At harvest, the maize and cowpea residues were left on the plots. The only exceptions were that the 1986 maize residues were removed from the plots that received NPK fertilizer, and that the 1988 and 1989 residues were redistributed between all plots to obtain the same application rate in all plots (3.59 Mg DM ha 21 in 1988 and 6.15 Mg DM ha 21 in 1989). Full details of the management of this long-term experiment are given by Van der Meersch et al. (1993) for the 1986 -1990 period and Vanlauwe et al. (2004) ) for the 1986 -2002 period.",
+                "cite_spans": [
+                    {
+                        "start": 2767,
+                        "end": 2796,
+                        "text": "Van der Meersch et al. (1993)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 2805,
+                        "end": 2809,
+                        "text": "1986",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 2810,
+                        "end": 2815,
+                        "text": "-1990",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 2816,
+                        "end": 2851,
+                        "text": "period and Vanlauwe et al. (2004) )",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Site description, experimental design and management",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "Soil samples were taken in 1986 (0 -5 and 5 -10 cm depths, composite sample of 20 cores per plot), May 1997, and April 2002 (last two samplings at 0 -5 and 5-15 cm depths, composite sample of 24 cores per plot). The 1986 soil samples were sieved through a 2-mm sieve and analyzed for %C using the Walkley and Black procedure (Nelson and Sommers, 1982) . The 1997 and 2002 soil samples were sieved through a 4-mm sieve, ground with a ball-mill, and analyzed for %C and 13 C natural abundance simultaneously with a Europa Scientific ANCA-SL stable isotope mass spectrometer. 13 C natural abundance was expressed in d 13 C\u2030 units using the international PDB standard:",
+                "cite_spans": [
+                    {
+                        "start": 325,
+                        "end": 351,
+                        "text": "(Nelson and Sommers, 1982)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil sampling, chemical analysis and ANOVA",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "d 13 C \u00bc 13 R sample 13 R standard 2 1 ! 1000; where 13 R \u00bc 13 C 12 C",
+                        "eq_num": "\u00f01\u00de"
+                    }
+                ],
+                "section": "Soil sampling, chemical analysis and ANOVA",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "The SOC content was expressed in Mg C ha 21 present in an equivalent soil mass of 1700 Mg ha 21 of mineral soil following the procedure outlined by Ellert and Bettany (1995) . Its equivalent thickness averaged 12 cm and varied slightly between sampling times and treatments due to bulk density differences. Bulk density values used in the calculations were derived from the same cores as used for the determination of the %C content to ensure consistency between %C and bulk density values used in the calculation procedure (Ellert et al., 2001) . Average d 13 C values were calculated likewise for the same equivalent soil mass.",
+                "cite_spans": [
+                    {
+                        "start": 148,
+                        "end": 173,
+                        "text": "Ellert and Bettany (1995)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 524,
+                        "end": 545,
+                        "text": "(Ellert et al., 2001)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil sampling, chemical analysis and ANOVA",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "The SOC contents and d 13 C values (1997 and 2002 data) were analyzed with a mixed-model ANOVA considering cropping system, fertilizer level, and their interaction as fixed effects and replicates (blocks) as a random effect (SAS Institute, 1992).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Soil sampling, chemical analysis and ANOVA",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "All crop and tree residue inputs were quantified throughout the experiment by weighing fresh residues on each plot and calculating the dry weight using the dry matter contents of subsamples (one sample taken per experimental plot). Carbon inputs (Mg C ha 21 ) were calculated using the measured average C contents of the respective plant residue types. Litter input from the roots in the top 12 cm were accounted for by multiplying (above-ground) residues of maize, cowpea and weeds by 1.10, Senna prunings biomass by 1.15 and Leucaena prunings biomass by 1.075. These factors were based on root:shoot ratios and information about variation of root density with depth reported by Jonsson et al. (1988) , Toky and Bisht (1992) , Schroth and Zech (1995) , Govindarajan et al. (1996), and Vanlauwe et al. (2002) . The factors do not account for root turnover, so true carbon inputs were likely slightly higher then estimated.",
+                "cite_spans": [
+                    {
+                        "start": 680,
+                        "end": 701,
+                        "text": "Jonsson et al. (1988)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 704,
+                        "end": 725,
+                        "text": "Toky and Bisht (1992)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 728,
+                        "end": 751,
+                        "text": "Schroth and Zech (1995)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 754,
+                        "end": 785,
+                        "text": "Govindarajan et al. (1996), and",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 786,
+                        "end": 808,
+                        "text": "Vanlauwe et al. (2002)",
+                        "ref_id": "BIBREF46"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Carbon inputs to the soil and their 13 C content",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "The area used for measuring the biomass production was the entire 19.5 \u00a3 10 m plot for the tree prunings (four tree rows of 10 m length), and a smaller area for the maize stover (ranging from 6 \u00a3 19.5 to 10 \u00a3 19.5 m over the years). Cowpea residue input was quantified from 1993 onwards by measuring the aboveground biomass (excluding the pods) at the start of leaf senescence in one or two 0.5 \u00a3 4 m frames per plot. Some biomass data are missing and were estimated. This was the case for the 1987 tree prunings and maize stover, the 1986 -1991 cowpea haulms, and the 2000 tree prunings. It was assumed that the biomass production of the Senna and Leucaena trees in 1987, i.e. the first year after establishment, amounted to 50% of the average yearly biomass production of 1989 -1991. The maize stover produced and applied in 1987 was taken as the average of the 1986 and 1988 production. As there were no data on the cowpea biomass yields for the years 1986-1991, the mean of the biomass measured for 1993-1997 was taken instead. The missing 2000 tree biomass was interpolated from the 1999 and 2001 data.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Carbon inputs to the soil and their 13 C content",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Weed biomass measurements were taken in 1988, 1989, and 1990 by collecting all above-ground weed biomass in a 4.0 \u00a3 1.5 m area in the middle of each plot at the time of the weeding operations (six times per year). Another set of weed biomass observations was taken in 1998 -1999 using a 0.5 \u00a3 4.15 m frame randomly positioned in each plot. Weed biomass production rapidly declined from 1988 to 1990 and stabilized thereafter, as indicated by the fact that weed biomass production in 1998 was very similar to that in 1990. The missing weed biomass information for 1986-1987 and 1991-1997 was therefore interpolated from the available data using a negative exponential relationship with time.",
+                "cite_spans": [
+                    {
+                        "start": 563,
+                        "end": 586,
+                        "text": "1986-1987 and 1991-1997",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Carbon inputs to the soil and their 13 C content",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Ball-milled plant samples of weeds, cowpea haulms, maize stover, and tree prunings from a selected subset of years were analyzed for 13 C natural abundance, and results were expressed in d 13 C units using the same methods as for the soil samples. Analysis of variance, reported by Diels et al. (2001) revealed that year-to-year variation of d 13 C values for these plant residues was so small that the information obtained from the selected years is representative for the entire duration of the trial.",
+                "cite_spans": [
+                    {
+                        "start": 282,
+                        "end": 301,
+                        "text": "Diels et al. (2001)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Carbon inputs to the soil and their 13 C content",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Changes in SOC levels and d 13 C were simulated using the ROTHC-26.3 model (Jenkinson, 1990; Coleman and Jenkinson, 1995) . ROTHC-26.3 is a model of the turnover of organic carbon in soils on a time scale of years to centuries. It allows for the effects of clay content, temperature, moisture content, and plant cover on decomposition. The model mimics decomposition by defining four active SOC compartments and a small inert compartment (IOM). The four active compartments are decomposable plant material (DPM), resistant plant material (RPM), microbial biomass (BIO), and humified organic matter (HUM). These four active compartments decompose following first-order kinetics, while the IOM compartment is resistant to decomposition. The effect of plant litter quality is handled by specifying how the carbon for a particular incoming material is split over the DPM and RPM compartments.",
+                "cite_spans": [
+                    {
+                        "start": 75,
+                        "end": 92,
+                        "text": "(Jenkinson, 1990;",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 93,
+                        "end": 121,
+                        "text": "Coleman and Jenkinson, 1995)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "Long-term averages of monthly mean air temperature, rainfall, and open pan evaporation for Ibadan were given as inputs to the model. In line with the practiced cropping system, it was specified that the soil was covered by a crop from May to November and bare during the remaining 5 months. The topsoil clay content was set to the observed value (9%). The DPM:RPM ratio was set to 1.44 for the maize, cowpea, and weed residues and to 0.82 for the tree prunings. As prunings consist of woody twigs (, 10 mm diameter) and easily decomposable leaves, we choose a value (0.82) intermediate between the 1.44 value recommended for improved grassland and agricultural crops, and the 0.25 value for deciduous or tropical woodland (Jenkinson et al., 1992; Coleman and Jenkinson, 1995) . Three sets of simulation runs were made: one with all decomposition rate constants set to the values fixed by the model authors (Coleman and Jenkinson, 1995) ; one with the DPM:RPM ratio set to 2.33 instead of the above-mentioned 0.82 value and all other rate constants and parameters left unchanged; and a third one with all decomposition rate constants doubled and all other parameters as set by the model authors.",
+                "cite_spans": [
+                    {
+                        "start": 722,
+                        "end": 746,
+                        "text": "(Jenkinson et al., 1992;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 747,
+                        "end": 775,
+                        "text": "Coleman and Jenkinson, 1995)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 906,
+                        "end": 935,
+                        "text": "(Coleman and Jenkinson, 1995)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "As the present model cannot calculate changes in d 13 C in the soil carbon, we did 13 separate simulations to calculate the buildup of carbon derived respectively from the maize, cowpea residues, the first, second, third and fourth tree pruning, and the seven weeding operations within a year. The simulated buildup of 'new carbon', i.e. of carbon which entered the soil after the start of the experiment, was obtained by adding up the simulated SOC originating from each of these 13 plant litter inputs within a year. The d 13 C value of this 'new carbon' at a given time t was calculated as a weighted average:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "EQUATION",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [
+                    {
+                        "start": 0,
+                        "end": 8,
+                        "text": "EQUATION",
+                        "ref_id": "EQREF",
+                        "raw_str": "d 13 C new \u00f0t\u00de \u00bc X i \u00f0d 13 C i \u00a3 C i \u00f0t\u00de\u00de X i C i \u00f0t\u00de",
+                        "eq_num": "\u00f02\u00de"
+                    }
+                ],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "where d 13 C i is the observed d 13 C value of plant material i and C i \u00f0t\u00de is the simulated buildup of plant-derived material i at time t. Isotopic discrimination during decomposition was hereby neglected.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "In order to simulate the decline of the 'old' carbon, i.e. the carbon that was present in the soil at the start of the trial, the model was initialized by distributing the initially observed 15.4 Mg C ha 21 over the five model C pools. This was done by running the model first for the 5 years preceding the start of the trial according to two extreme land-use scenarios, the rationale being that type and quantity of organic matter entering the soil during the 5 years preceding the trial, essentially control how much of the initial 15.4 Mg C ha 21 must have been in the more labile DPM and RPM pools at the start of the trial. The land-use scenarios chosen for the 5 years preceding the trial were (1) continuous cropping with annual inputs of crop and weed residues amounting to 3 Mg DM ha 21 , and (2) grass fallow with annual inputs of 12 Mg DM ha 21 . The remaining C in the initial 15.4 Mg C ha 21 (the C that is not inert, and that did not enter the soil in the 5 years preceding the trial) was then allocated to the HUM and BIO pools according to a 1.0:0.003 ratio (a ratio representing a microbial biomass population in equilibrium with a decomposing HUM fraction according to the model rate constants). The size of the IOM pool, the inert SOC, was estimated with the regression equation proposed by Falloon et al. (1998) , which predicts an IOM pool size of 1.1 Mg C ha 21 for a SOC level of 15.4 Mg C ha 21 . To account for uncertainty on this estimate, simulations were done for two IOM sizes (0.3 and 5.0 Mg C ha 21 ), being the 95% confidence interval around the regression equation estimate.",
+                "cite_spans": [
+                    {
+                        "start": 1310,
+                        "end": 1331,
+                        "text": "Falloon et al. (1998)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "In the model calculations we assumed that the treatments did not affect the decomposition of the old carbon nor its d 13 C. Therefore, contrasts in SOC levels between treatments are only dependent on the predicted buildup of new carbon. The model-predicted d 13 C of the SOC (old \u00fe new) in 1997 and 2002 was calculated as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "d 13 C",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "total \u00f0t\u00de \u00bc d 13 C old \u00f0t\u00de \u00a3 C old \u00f0t\u00de \u00fe d 13 C new \u00f0t\u00de \u00a3 C new \u00f0t\u00de C old \u00f0t\u00de \u00fe C new \u00f0t\u00de \u00f03\u00de with C old (t) and C new (t) being the predicted contents of old and new carbon at time t for the given treatment, and d 13 C new (t) obtained through Eq. (2). Assuming absence of isotopic discrimination during decomposition, d 13 C old has the same value in 1997 and 2002. It was estimated by calibrating the model. By trial and error it was found that d 13 C old had to be set to 2 24.8 to bring the simulated d 13 C total in 1997, averaged over the six treatments, to the observed average d 13 C total . Again we focused most attention to d 13 C contrasts between treatments, as such contrasts are fairly insensitive to the size and d 13 C of the old C.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling of SOC changes",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "The quantities of organic matter (OM) returned to the soil are about twice as high in the AC systems (12.0 -15.4 Mg dry matter ha 21 yr 21 ) as in the control systems (5.3 -6.0 Mg dry matter ha 21 yr 21 ) (Table 1 ). Fertilizer amendments increased the quantity of maize residues and tree biomass, but decreased weed biomass. Combined, the fertilizer amendment led to a slightly smaller OM input in the control system and a slightly larger OM input in the AC systems.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 212,
+                        "end": 213,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Carbon inputs",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "Table 2 lists the d 13 C values of the different litter inputs. The fraction of litter from C 4 plants is much larger in the no-tree control treatments (mean d 13 C \u00bc 2 18.9 and 2 16.5) compared to the AC systems (mean d 13 C ranges between 2 24.0 and 2 25.0). The d 13 C values of the weed biomass are intermediate between the typical values for C 3 and C 4 plants. It indicates that a mixture of C 3 and C 4 weeds was present, with slightly more C 4 weeds in the control treatments than in the AC treatments. Moreover, d 13 C values of weeds varied between the seven weeding operations because of pronounced seasonal shifts in weed composition (proportion of C 3 and C 4 weeds) as discussed by Diels et al. (2001) . Similarly, the d 13 C of the tree biomass from the four pruning operations showed small but systematic variations in response to seasonal changes in water availability and solar radiation. Hence different d 13 C values were used for inputs from different weeding and pruning operations within a year. The values shown in Table 2 are weighted means of the d 13 C values of the four prunings or seven weeding operations (weighted by DM quantities).",
+                "cite_spans": [
+                    {
+                        "start": 696,
+                        "end": 715,
+                        "text": "Diels et al. (2001)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 6,
+                        "end": 7,
+                        "text": "2",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 1045,
+                        "end": 1046,
+                        "text": "2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Carbon inputs",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "At the start of the trial (1986), the 0 -10 cm topsoil contained 13.4 Mg C ha 21 . Extrapolating the data to the 1700 Mg ha 21 equivalent soil mass, it was estimated that the initial SOC content was 15.4 Mg C ha 21 , implying that SOC levels declined in all treatments (compare with 1997 and 2002 levels in Table 3 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 313,
+                        "end": 314,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SOC changes",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "The cropping systems showed a clear effect (significant at a \u00bc 0:01) on both the SOC levels and their d 13 C value after 11 and 16 years: the SOC content increased in the order: control , LeucaenaAC , SennaAC (Table 3 ). The d 13 C value decreased (i.e. the proportion of C 3 -carbon increased) in the same order. On average, an extra 4.1 ^1.4 Mg C ha 21 was maintained in the AC systems compared to the control treatments after 16 years (Table 3 ). The fertilizer amendment slightly increased SOC contents, but the effect of fertilizer became statistically significant at 5% only after 16 years \u00f0P \u00bc 0:034\u00de: SOC levels tended to be slightly higher in the Senna AC system than in the Leucaena AC-the average difference is 1.2 ^1.6 Mg C ha 21 in 2002-notwithstanding the lower OM inputs in Senna AC. Also note that experimental errors (field variability) for d 13 C values were small compared to those for SOC contents: for the 2002 data, the standard error of the difference (SED) for d 13 C was 0.2\u2030, which is only 8% of the observed contrast between AC and the control treatments ( \u00bc 2.47\u2030). In comparison, the SED for C contents amounted to 1.1 Mg C ha 21 , which is 26% of the corresponding contrast (4.1 Mg C ha 21 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 216,
+                        "end": 217,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 445,
+                        "end": 446,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "SOC changes",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "When standard decomposition rate constants are used, the model predicts an extra buildup of 7.2 (in 1997) and 6.4 (in 2002) Mg C ha 21 in the AC systems compared to Table 1 Treatment means of annual inputs of plant residues to the soil (Mg DM ha 21 yr 21 ) from maize (1991-2001), cowpea (1993-2001) , weeds (1998), and tree prunings (1991) (1992) (1993) (1994) (1995) (1996) (1997) (1998) (1999) (2000) (2001) the control systems (Table 4 ). The model thus tends to overestimate the contrast between the two groups of treatments as the observed contrast was only 3.5 ^0.9 Mg C ha 21 in 1997, and 4.1 ^1.4 Mg C ha 21 in 2002 (Table 3 ). The model correctly predicts that the SOC in the AC systems has a lower (more negative) d 13 C, but the contrast is again overestimated (compare Table 4 with Table 3 ). Note that as the model assumes that the old C (i.e. original SOC present in 1986) decomposes at the same rate in all treatments, the contrast in simulated SOC levels between the AC treatments and the control systems is not influenced by the simulated decomposition of the 15.4 Mg C ha 21 present at the start of the trial. The old C (size and d 13 C) has however a (relatively small) effect on the d 13 C contrast between both groups of treatments. Fig. 1 shows the simulated decline of the old carbon from its initial level of 15.4 Mg C ha 21 , again with standard decomposition rate constants. The scenario analysis shows a Average difference between the four AC systems and the two control systems.",
+                "cite_spans": [
+                    {
+                        "start": 268,
+                        "end": 299,
+                        "text": "(1991-2001), cowpea (1993-2001)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 334,
+                        "end": 340,
+                        "text": "(1991)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 341,
+                        "end": 347,
+                        "text": "(1992)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 348,
+                        "end": 354,
+                        "text": "(1993)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 355,
+                        "end": 361,
+                        "text": "(1994)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 362,
+                        "end": 368,
+                        "text": "(1995)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 369,
+                        "end": 375,
+                        "text": "(1996)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 376,
+                        "end": 382,
+                        "text": "(1997)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 383,
+                        "end": 389,
+                        "text": "(1998)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 390,
+                        "end": 396,
+                        "text": "(1999)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 397,
+                        "end": 403,
+                        "text": "(2000)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 404,
+                        "end": 410,
+                        "text": "(2001)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 171,
+                        "end": 172,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 438,
+                        "end": 439,
+                        "text": "4",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 632,
+                        "end": 633,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 788,
+                        "end": 789,
+                        "text": "4",
+                        "ref_id": "TABREF3"
+                    },
+                    {
+                        "start": 801,
+                        "end": 802,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1260,
+                        "end": 1261,
+                        "text": "1",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ROTHC model calculations",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "b Average difference between the two Senna AC systems and the two Leucaena AC systems. that (1) the simulated level of old C depends on the assumed size of the inert SOC (IOM), and on the land use before experiment; and (2) no matter what assumptions we make (i.e. even with a negligible amount of IOM and with a land use scenario with high OM inputs and for which a large proportion of the carbon accumulates in the more labile model pools), the simulated level of old C is at least 8.0 Mg C ha 21 in 1997 and 7.0 Mg C ha 21 in 2002, not much lower than what was predicted in the model runs presented in Table 4 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 611,
+                        "end": 612,
+                        "text": "4",
+                        "ref_id": "TABREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ROTHC model calculations",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "Setting the pruning DPM:RPM ratio to 2.33 (instead of 0.82) brought the simulated SOC contrast between the AC and control treatments down to the observed 4.1 Mg C ha 21 in 1997 (with standard rate constants), but it did not significantly reduce the discrepancy between the measured and observed d 13 C contrast, and it did not solve the problem that the simulated fraction of old C remaining after 11 (or 16) years was too high when standard rate constants were used (results not shown).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ROTHC model calculations",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "When all decomposition rate constants were doubled, the simulated contrast between the AC and control systems became 4.8 Mg C ha 21 in 1997 and 4.3 Mg C ha 21 in 2002 (Table 5 ), much closer to the measured contrasts (Table 3 ) than was the case with standard model parameters. The d 13 C contrast between the two groups of treatments was only slightly overestimated in 2002 (compare Tables 5 with  3 ). The model predicts that the SOC content in Senna AC is 0.8 Mg C ha 21 lower than in Leucaena AC in 1997, and that the difference rose to 1.9 Mg ha 21 in 2002 (Table 5 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 174,
+                        "end": 175,
+                        "text": "5",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 224,
+                        "end": 225,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 391,
+                        "end": 400,
+                        "text": "5 with  3",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 569,
+                        "end": 570,
+                        "text": "5",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ROTHC model calculations",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "When simulating the decline of the initial 15.4 Mg ha 21 old C with doubled rate constants (and IOM \u00bc 1.1 Mg C ha 21 ) the model predicts that 5.1 Mg C ha 21 remains after 16 years. In this case it was again assumed the land was under grass vegetation producing 12 Mg DM ha 21 yr 21 during the 5 years before the trial began.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ROTHC model calculations",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "The simulated decline of the old C and buildup of new C over 16 years are depicted in Fig. 2 for the control and Senna AC system, both with fertilizer application. In both treatments, the model overestimates the SOC stocks in 1997, while the simulated 2002 stocks fall within the 95% confidence interval of the observations. For the no-tree control system, ROTHC predicts a steady decline in SOC levels (Fig. 2 ). Maize grain and stover production is low in All decomposition rate constants in ROTHC were doubled, while all other rate constants were left unaltered. The SOC pools at the start of the trial were initialized by setting IOM to 1.1 Mg C ha 21 , and setting the DPM, RPM and BIO pool size to the simulated size after 5 years of grass vegetation producing 12 Mg DM ha 21 yr 21 (land use scenario for 5 years preceding the start of the trial). The old C, predicted to amount to 6.7 Mg C ha 21 in 1997 and to 5.1 Mg C ha 21 in 2002, was assumed to have a d 13 C equal to 224. 9\u2030, both in 1997 and 2002. a Average difference between the four AC systems and the two control systems.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 91,
+                        "end": 92,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 409,
+                        "end": 410,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ROTHC model calculations",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "b Average difference between the two Senna AC systems and the two Leucaena AC systems. Fig. 2 . Simulated (lines) and observed (diamonds) SOC contents in the 1700 Mg ha 21 equivalent soil mass (,0-12 cm) in the no-tree control (with NPK) treatment (a) and the Senna AC system (with NPK) (b). Simulations were performed with doubled rate constants. The SOC pools at the start of the trial were initialized by setting IOM to 1.1 Mg C ha 21 , setting the DPM, RPM and BIO pool size to the simulated size after 5 years of grass vegetation producing this system and weed residues constitute a major source of SOM. In the Senna AC system, the extra organic matter produced compensates for most of the loss of the old carbon. Note that the extra input of tree biomass is to some extent counterbalanced by a lower input of weed litter compared to the control system. For the Leucaena AC system (graph not shown), a similar change of SOC stocks and contribution from trees, weeds, and crops was predicted as for the Senna system, but agreement with the observations was less good. The model predicted slightly higher SOC levels in Leucaena AC compared to the Senna system (Table 5 ), while the observed levels were actually slightly lower than in the Senna system (Table 3 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 92,
+                        "end": 93,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1170,
+                        "end": 1171,
+                        "text": "5",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 1262,
+                        "end": 1263,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "ROTHC model calculations",
+                "sec_num": "3.3."
+            },
+            {
+                "text": "SOC contents declined with continuous cropping in all systems (compare initial 15.4 Mg C ha 21 with SOC contents in Table 3 ), even in the AC systems that return large quantities of plant residues to the soil. A possible reason is that from 1982 to the start of the trial in 1986, the land was under grass fallow, and before that time cropping periods were presumably alternated with fallow periods, as is the standard practice on the IITA experimental farm since its establishment in 1967. Land use intensity has pronounced effects on SOC contents, and natural and planted fallows, including grass fallows, are known to be an effective way to restore SOC stocks (Lal and Kang, 1982) , because of the combined effect of the permanent soil cover, high returns of OM, and absence of tillage.",
+                "cite_spans": [
+                    {
+                        "start": 663,
+                        "end": 683,
+                        "text": "(Lal and Kang, 1982)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 122,
+                        "end": 123,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Options for SOC buildup",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "While the reasons for the overall SOC decline are somehow speculative due to the absence of precise records on fallow practices, tillage methods and farm operations during the 10-20 years before 1986, comparison of the 1997 and 2002 SOC contents between the treatments gives clear information on the potential of options for SOC maintenance under continuous cropping. First, the data in Table 1 show that the crop residues indeed constitute an important source of OM but that there is little scope to further increase this by using mineral fertilizer. In the no-tree control treatments the SOC contents in the top soil dropped from the initial 15.4 to 8.5 -8.9 Mg C ha 21 in 11 years (Table 3 ), irrespective of whether fertilizer was added or not. The fertilizer application did not affect cowpea biomass, did increase maize grain yield but had little effect on maize stover yield, and decreased weed biomass (Table 1 ). In the AC treatments, SOC levels tended to be slightly higher when fertilizer was applied (Table 3 ), presumably because the fertilizer did increase the OM production to some extent in these treatments (Table 1 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 393,
+                        "end": 394,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 691,
+                        "end": 692,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 917,
+                        "end": 918,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1019,
+                        "end": 1020,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1131,
+                        "end": 1132,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Options for SOC buildup",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "Far larger SOC levels were maintained when trees were introduced in the system. Compared to the no-tree control treatments, an annual application of an additional 8.5 Mg DM ha 21 in the AC treatments, mainly produced by the legume trees, led to an extra 3.5 Mg C ha 21 (, 0.2% C) in the equivalent soil mass after 11 years, and 4.1 Mg C ha 21 after 16 years (Table 3 ). The difference is small compared to SOC buildup under fallow vegetation, reported to be 21 Mg C ha 21 in 10 years of bush regrowth on a slightly more humid site (1470 mm yr 21 ) in SW Nigeria (Aweto, 1981) . This suggests that, for this environment, keeping part of the land under permanent fallow and concentrating production on the rest of the land might be a more effective way than AC to store or maintain C stocks in the soil as a way to reduce CO 2 emissions to the atmosphere. However, the extra SOC in the AC systems is important for the maintenance of soil fertility: After 10 years the ECEC of the 0 -5 cm top soil averaged 4.5 cmol c kg 21 in the AC systems compared to an average 3.3 cmol c kg 21 in the two control systems (Vanlauwe et al., 2004) . The ECEC of the mineral fraction in the topsoil (9% clay, mainly kaolinite) was 1.0 cmol c kg 21 soil only, which underscores the importance of SOM for building the cation exchange capacity in this soil. Trees are an interesting option for producing extra organic matter because they can capture additional light and moisture not available to the crop, provided competition with the crops is avoided by proper separation in space or time. Expressed as a percentage of the total tree biomass (excluding wood) produced in a year, the biomass pruned at maize planting (first pruning in a year) amounted to 37% of the annual Leucaena biomass and 57% of the annual Senna biomass. This fraction of the biomass was almost entirely produced outside the cropping season using residual soil moisture and the erratic rainfall at the beginning and the end of the dry season.",
+                "cite_spans": [
+                    {
+                        "start": 562,
+                        "end": 575,
+                        "text": "(Aweto, 1981)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1106,
+                        "end": 1129,
+                        "text": "(Vanlauwe et al., 2004)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 365,
+                        "end": 366,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Options for SOC buildup",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "A comparison of the SOC buildup in the Senna AC system with the Leucaena AC system furthermore indicated that residues with lower quality entailed a larger SOC buildup. Senna residues decompose more slowly than Leucaena in line with their wider lignin-to-N and (lignin \u00fe polyphenol)-to-N ratios (Vanlauwe et al., 1997) , but this quality effect was not accounted for in the simulations. As less OM is produced in the Senna AC system (Table 1 ) compared to the Leucaena system, the model thus predicts a 1.9 Mg C ha 21 lower SOC buildup in the Senna system in 2002 (Table 5 ). However, we observed that the buildup was 1.2 ^1.6 Mg C ha 21 higher in Senna instead of being lower (Table 3 ), so the quality effect amounted to 1.9 \u00fe (1.2 ^1.6) \u00bc 3.1 ^1.6 Mg C ha 21 .",
+                "cite_spans": [
+                    {
+                        "start": 295,
+                        "end": 318,
+                        "text": "(Vanlauwe et al., 1997)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 440,
+                        "end": 441,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 571,
+                        "end": 572,
+                        "text": "5",
+                        "ref_id": "TABREF4"
+                    },
+                    {
+                        "start": 684,
+                        "end": 685,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Options for SOC buildup",
+                "sec_num": "4.1."
+            },
+            {
+                "text": "The traditional approach of using the 13 C technique for quantifying SOC turnover in situations where a historical change occurred from a pure C 3 to a pure C 4 vegetation or vice versa is attractive because of its simplicity, but it can be used only on sites where such a drastic change is documented. The present study demonstrated that the 13 C natural abundance technique is also useful for complex systems involving rotation and intercropping of different C 3 and C 4 plant species. When comparing experimental errors relative to treatment contrasts, d 13 C values were more precise and thus offered a more stringent test to the model than carbon contents (Table 3 ). Moreover, the total carbon and d 13 C value had a different sensitivity to the buildup of C 4 -carbon, and thus offered complementary information. This is because the old carbon remaining at the end of the trial was mainly of C 3 -origin. Calculations with Eq. ( 2) show that small changes in the quantities of C 4 carbon retained in the soil had a clear effect on the d 13 C values, whereas its effect on total carbon contents was masked by experimental errors. This was especially the case in the no-tree control treatments where the buildup of new carbon is relatively small and an extra 1 Mg C ha 21 of C 4 -origin, not statistically detectable in the total SOC level, raises the d 13 C value by 0.9\u2030 after 11 years.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 668,
+                        "end": 669,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Use of 13 C technique for complex systems",
+                "sec_num": "4.2."
+            },
+            {
+                "text": "Through the work of Jenkinson and Ayanaba (1977) it is well known that SOC decomposition in the humid tropical Ibadan climate proceeds four times faster than under temperate conditions in Rothamsted, and this temperature effect is built into the ROTHC model. The fact that we nevertheless had to double the ROTHC rate constants to correctly reproduce the observed contrast in SOC contents and d 13 C values between the AC and control treatments means that turnover was very fast in this experiment, about eight times faster than in Rothamsted conditions.",
+                "cite_spans": [
+                    {
+                        "start": 20,
+                        "end": 48,
+                        "text": "Jenkinson and Ayanaba (1977)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fast SOC turnover",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "Various factors could explain this seemingly fast decomposition. A first factor to consider is possible SOC loss by soil erosion, a process not accounted for by the ROTHC-26.3 model. In a 6-year trial with the same continuous maize/cowpea rotation on a nearby site with a similar coarse-sandy top soil and a slightly steeper slope (7%), Lal (1989) observed average soil losses of the order of 4.3 Mg ha 21 yr 21 for a plowed plot without trees, 0.1 Mg ha 21 yr 21 for a no-till plot without trees, and 0.57 Mg ha 21 yr 21 for a Leucaena AC system with 4 m wide alleys. Even the largest soil loss (4.3 Mg ha 21 yr 21 ) corresponds only to an apparent C decomposition rate of 0.007 yr 21 ( \u00bc annual soil loss/soil mass in top 12 cm \u00a3 2 \u00a3 1.5, where 2 is the sediment enrichment factor and the factor 1.5 accounts for the fact that the %C in the top 5 cm is 50% higher than the C% in the 0 -12 cm soil). Given Lal's work, carbon losses through soil erosion must have been negligibly small compared to losses due to SOM decomposition.",
+                "cite_spans": [
+                    {
+                        "start": 337,
+                        "end": 347,
+                        "text": "Lal (1989)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fast SOC turnover",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "Termite activity is another process that might explain the seemingly fast decomposition. Termites accelerate OM decomposition by comminution, but could also bury litter fragments in nests below the sampling depth or outside the plots. In an experiment in the same environment, Vanlauwe et al. (1998) observed that 15 N-labeled Dactyladenia barteri residues disappeared quickly from the surface litter layerfaster than observed in litterbags that excluded termites from the litter-without being recovered in the surface soil. Termite activity was suggested as a possible explanation. Termite activity on crop and tree residues was also observed in the present experiment, and could explain why the buildup of SOC in the surface layer was lower than expected. Yet little is known about the quantity of OM that termites can remove from the surface layer.",
+                "cite_spans": [
+                    {
+                        "start": 277,
+                        "end": 299,
+                        "text": "Vanlauwe et al. (1998)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fast SOC turnover",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "It is also possible that the mineral fertilizer or the legume tree prunings and/or rhizodeposition from the tree roots accelerated the turnover of SOM, and in this way reduced the difference in SOC levels between AC and control treatments. Such priming effects are not considered in the ROTHC-26.3 model, as is the case for most SOM models (Kuzyakov et al., 2000) . So the model predicted that the 'old' SOC decomposed at the same rate in all treatments, and we thus validated the model with this inherent assumption by comparing simulated and predicted contrasts of SOC contents and 13 C abundances between treatments. When examining the effect of fertilizer on observed (Table 3 ) and simulated (Table 5 ) SOC contents, we found no indications that fertilizer increased SOM turnover. However, it cannot be excluded that the high-quality residues from the legume trees and/or rhizodeposition from the tree roots accelerated the turnover of the old C compared to the control plots. Some laboratory incubation studies with 13 C or 14 C labeled residues indicate that the addition of easily decomposable OM to soil might double or even triple the mineralization of the soil C (Broadbent, 1947; Vanlauwe et al., 1994; Liang et al., 1999) . In a field incubation study with soil sampled from the control plot in the Ibadan long-term experiment, it was indeed observed that several legume residue types increased the decomposition of the native SOC soil carbon (K. Oorts, PhD thesis 539, K.U. Leuven). Unfortunately, there is little information about the extent to which such C-priming occurs in the field in the longer term.",
+                "cite_spans": [
+                    {
+                        "start": 340,
+                        "end": 363,
+                        "text": "(Kuzyakov et al., 2000)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1174,
+                        "end": 1191,
+                        "text": "(Broadbent, 1947;",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1192,
+                        "end": 1214,
+                        "text": "Vanlauwe et al., 1994;",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1215,
+                        "end": 1234,
+                        "text": "Liang et al., 1999)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 679,
+                        "end": 680,
+                        "text": "3",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 704,
+                        "end": 705,
+                        "text": "5",
+                        "ref_id": "TABREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Fast SOC turnover",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "An underestimation of the rate of decomposition of the incoming plant litter during the experiment could possibly explain the differences between model and observations as well. The short-to-medium term (, 2 years) decomposition of incoming plant materials is strongly dependent on litter quality. That these legume tree prunings decompose relatively fast is expected from their high N content: 4.2 -5.3% for Leucaena and 2.7 -3.6% for Senna leaves (Vanlauwe et al., 1997) . The effect of litter quality is handled in the model by the choice of the magnitude of the DPM and RPM fractions in the plant material. We might have underestimated the decomposition rate of the tree prunings to some extent, but that does not explain all discrepancies between the model and the data, as was shown by the model run in which we increased the DPM:RPM ratio of the tree prunings from 0.82 to 2.33.",
+                "cite_spans": [
+                    {
+                        "start": 449,
+                        "end": 472,
+                        "text": "(Vanlauwe et al., 1997)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fast SOC turnover",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "Another reason for the fast decomposition might be the low physical protection of SOM in this sandy topsoil (9% clay, predominantly kaolinite). The effect of physical protection by clay is accounted for in the model by making the partition between CO 2 evolved and (BIO \u00fe HUM) formed during decomposition dependent on the inorganic cation exchange capacity (CEC min ) based on the relationship derived from observations over the first 10 days in S\u00f8rensen's (1975) laboratory experiment with labeled cellulose. Quantitative information on the effect of clay content and type (or CEC) on long-term SOC dynamics are, however, scarce and variable. Decomposition studies in the field with labeled residues demonstrated that retention after 8 years in southern Australia and after 10 years in England was between 5 and 40% higher in heavier textured soils than in lighter textured soils (Jenkinson, 1977; Ladd et al., 1985) . The part in the ROTHC model dealing with the later stages of decomposition has been parameterized exclusively on data from experiments in Rothamsted (Jenkinson et al., 1992) on sites having high-activity clays and fairly high clay contents. Therefore, underestimation of the textural control effect on SOM stabilization could explain why the model underestimates the SOC decomposition rate for this sandy topsoil in which clay minerals are mainly of the 1:1 type. If the textural control mechanism is indeed so much weaker in this soil, it would mean that SOM buildup is most difficult in those soils where SOM is most needed in order to attain sufficient cation exchange capacity.",
+                "cite_spans": [
+                    {
+                        "start": 446,
+                        "end": 463,
+                        "text": "S\u00f8rensen's (1975)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 881,
+                        "end": 898,
+                        "text": "(Jenkinson, 1977;",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 899,
+                        "end": 917,
+                        "text": "Ladd et al., 1985)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1069,
+                        "end": 1093,
+                        "text": "(Jenkinson et al., 1992)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fast SOC turnover",
+                "sec_num": "4.3."
+            },
+            {
+                "text": "The data from a 16-year field experiment in SW-Nigeria and modeling of the SOC dynamics during the trial using the ROTC26.3 model led to the following findings:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": "5."
+            },
+            {
+                "text": "1. SOC levels declined in all treatments. The decline was most pronounced in the no-tree control treatments with continuous maize and cowpea cropping, where SOC levels dropped from the initial 15.4 to 7.3-8.0 Mg C ha 21 in 16 years (SOC content in 1700 Mg ha 21 equivalent soil mass). In the two continuously cropped AC systems (Leucaena and Senna), the SOC levels dropped to levels between 10.7 and 13.2 Mg C ha 21 . 2. The addition of mineral fertilizer (NPK) had little effect on the quantities of plant residues returned to the soil (sum of weeds, crop residues, and tree prunings), and there was no evidence that the fertilizer affected the rate of SOC decomposition. 3. The 13 C natural abundance technique yielded useful information to test SOM models in a complex cropping system, in which both C 3 and C 4 plants were intercropped/rotated, and contrasts in the d 13 C of the SOC resulted from the fact that the relative OM contribution of the C 3 and C 4 components differed between the treatments compared. 4. The fact that we had to double the decomposition rate constants of the ROTHC-26.3 model in order to reproduce the observed contrasts in SOC contents and 13 C abundance between the AC systems and the control without trees indicated that SOC decomposition in this experiment was very fast. Possible reasons for this are (1) that the pruning materials from the legume trees and/or the extra rhizodeposition from the tree roots in the AC treatments accelerated the decomposition of the SOC present at the start of the experiment (true C-priming), and/or (2) that the physical protection of microbial biomass and metabolites by the clay fraction in the sandy top soil, in which clay minerals are mainly of the 1:1 type, was lower than assumed by the model. Termite activity could also have contributed to the seemingly fast decomposition.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions",
+                "sec_num": "5."
+            },
+            {
+                "text": "Present address: Tropical Soil Biology and Fertility Institute of CIAT, P.O. Box 30677, Nairobi, Kenya.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Present address: Kerkstraat 11,",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Heers, Belgium.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "J.Diels et al. / Soil Biology & Biochemistry 36 (2004) 1739-1750",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Mg DM ha 21 yr 21 (the scenario for the 5 years preceding the trial initiation), and setting the HUM pool such that the sum of all pools equals the observed initial SOC content (15.4 Mg C ha 21 ).J.Diels et al. / Soil Biology & Biochemistry 36 (2004) 1739-1750",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "We are particularly grateful to DGDC, the Belgian Directorate General for Development Cooperation, for their sustained support through several and subsequent collaborative projects between K.U. Leuven and IITA on 'Soil Organic Matter Dynamics' and 'Balanced Nutrient Management Systems for Maize-based Farming systems in the Moist Savanna and Humid Forest Zone of West-Africa', allowing one of the rare and much needed long-term field trials like this. We thank Mrs K. Coorevits, Dr O.V. Adebiyi and Mr M.K. Kelani for the soil and plant analyses, and Mr Wale Awotide and Mr Z.A. Oluwabukola for the supervision of the field trial.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Acknowledgements",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Secondary succession and soil fertility restoration in south-western Nigeria",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Aweto",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1981,
+                "venue": "Journal of Ecology",
+                "volume": "69",
+                "issue": "",
+                "pages": "601--607",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Aweto, A.O., 1981. Secondary succession and soil fertility restoration in south-western Nigeria. Journal of Ecology 69, 601-607.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The significance of organic separates to carbon dynamics and its modelling in some cultivated soils",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Balesdent",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "European Journal of Soil Science",
+                "volume": "47",
+                "issue": "",
+                "pages": "485--493",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Balesdent, J., 1996. The significance of organic separates to carbon dynamics and its modelling in some cultivated soils. European Journal of Soil Science 47, 485 -493.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Nitrogen release and carbon loss from soil organic matter during decomposition of added plant residues",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Broadbent",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1947,
+                "venue": "Soil Science Society of America Proceedings",
+                "volume": "12",
+                "issue": "",
+                "pages": "246--249",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Broadbent, F.E., 1947. Nitrogen release and carbon loss from soil organic matter during decomposition of added plant residues. Soil Science Society of America Proceedings 12, 246 -249.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Application du trac \u00b8age isotopique naturel en 13 C a `l'e \u00b4tude de la dynamique de la matie `re organique dans les sols",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Cerri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Balesdent",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Feller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Victoria",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Plenecassagne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Comptes Rendus de l' Academie des Sciences de Paris T 300 Se \u00b4rie II",
+                "volume": "9",
+                "issue": "",
+                "pages": "423--428",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cerri, C.C., Balesdent, J., Feller, C., Victoria, R., Plenecassagne, A., 1985. Application du trac \u00b8age isotopique naturel en 13 C a `l'e \u00b4tude de la dynamique de la matie `re organique dans les sols. Comptes Rendus de l' Academie des Sciences de Paris T 300 Se \u00b4rie II 9, 423 -428.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "RothC-26 3. A Model for the Turnover of Carbon in Soil: Model Description and Users Guide",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Coleman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Jenkinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "IACR Rothamsted",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Coleman, K., Jenkinson, D.S., 1995. RothC-26 3. A Model for the Turnover of Carbon in Soil: Model Description and Users Guide. IACR Rothamsted, Herts, UK, 30 pp.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Temporal variations in plant delta 13 C values and implications for using the 13 C technique in long-term soil organic matter studies",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Diels",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Coolen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Soil Biology and Biochemistry",
+                "volume": "33",
+                "issue": "",
+                "pages": "1245--1251",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Diels, J., Vanlauwe, B., Sanginga, N., Coolen, E., Merckx, R., 2001. Temporal variations in plant delta 13 C values and implications for using the 13 C technique in long-term soil organic matter studies. Soil Biology and Biochemistry 33, 1245-1251.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Calculation of organic matter and nutrients stored in soils under contrasting management regimes",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Ellert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Bettany",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Canadian Journal of Soil Science",
+                "volume": "75",
+                "issue": "",
+                "pages": "529--538",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ellert, B.H., Bettany, J.R., 1995. Calculation of organic matter and nutrients stored in soils under contrasting management regimes. Canadian Journal of Soil Science 75, 529-538.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Measuring and comparing soil carbon storage",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Ellert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Janzen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Mcconkey",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Assessment Methods for Soil Carbon. Advances in Soil Science",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ellert, B.H., Janzen, H.H., McConkey, B.G., 2001. Measuring and comparing soil carbon storage. In: Lal, R., Kimble, J.M., Follet, R.F., Stewart, B.A. (Eds.), Assessment Methods for Soil Carbon. Advances in Soil Science. Papers from a Conference held at Ohio State University, November 1998.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Estimating the size of the inert organic matter pool from total soil organic carbon content for use in the Rothamsted carbon model",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Falloon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Coleman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Marshall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Soil Biology and Biochemistry",
+                "volume": "30",
+                "issue": "",
+                "pages": "1207--1211",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Falloon, P., Smith, P., Coleman, K., Marshall, S., 1998. Estimating the size of the inert organic matter pool from total soil organic carbon content for use in the Rothamsted carbon model. Soil Biology and Biochemistry 30, 1207-1211.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Changes in the origin and quality of soil organic matter after pasture introduction in Rondonia (Brazil)",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Feigl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Melillo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Cerri",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Plant and Soil",
+                "volume": "175",
+                "issue": "",
+                "pages": "21--29",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Feigl, B.J., Melillo, J., Cerri, C.C., 1995. Changes in the origin and quality of soil organic matter after pasture introduction in Rondonia (Brazil). Plant and Soil 175, 21 -29.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Modifying DSSAT crop models for low-input agricultural systems using a soil organic matter-residue module from CENTURY",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Gijsman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Hoogenboom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Parton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Kerridge",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Agronomy Journal",
+                "volume": "94",
+                "issue": "",
+                "pages": "462--474",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gijsman, A.J., Hoogenboom, G., Parton, W.J., Kerridge, P.C., 2002. Modifying DSSAT crop models for low-input agricultural systems using a soil organic matter-residue module from CENTURY. Agronomy Journal 94, 462 -474.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Soilwater and root dynamics under hedgerow intercropping in semiarid Kenya",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Govindarajan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Rao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Mathuva",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K R"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Agronomy Journal",
+                "volume": "88",
+                "issue": "",
+                "pages": "513--520",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Govindarajan, M., Rao, M.R., Mathuva, M.N., Nair, P.K.R., 1996. Soil- water and root dynamics under hedgerow intercropping in semiarid Kenya. Agronomy Journal 88, 513-520.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Soil organic carbon pools of two tropical soils inferred by carbon signatures",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Hsieh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Soil Science Society of America Journal",
+                "volume": "60",
+                "issue": "",
+                "pages": "1117--1121",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Hsieh, Y.P., 1996. Soil organic carbon pools of two tropical soils inferred by carbon signatures. Soil Science Society of America Journal 60, 1117-1121.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "World reference base for soil resources",
+                "authors": [],
+                "year": 1998,
+                "venue": "World soil resources report",
+                "volume": "84",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "ISSS-FAO-ISRIC, 1998. World reference base for soil resources. World soil resources report, 84. Food and Agriculture Organization of the United Nations, Rome, Italy, 88 pp.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Studies on the decomposition of plant material in soil. V. The effects of plant cover and soil type on the loss of carbon from 14 C labelled ryegrass decomposing under field conditions",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Jenkinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Journal of Soil Science",
+                "volume": "28",
+                "issue": "",
+                "pages": "424--434",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jenkinson, D.S., 1977. Studies on the decomposition of plant material in soil. V. The effects of plant cover and soil type on the loss of carbon from 14 C labelled ryegrass decomposing under field conditions. Journal of Soil Science 28, 424-434.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "The turnover of organic carbon and nitrogen in soil",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Jenkinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Philosophical Transactions of the Royal Society, London B",
+                "volume": "329",
+                "issue": "",
+                "pages": "361--368",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jenkinson, D.S., 1990. The turnover of organic carbon and nitrogen in soil. Philosophical Transactions of the Royal Society, London B329, 361-368.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Decomposition of carbon-14 labeled plant material under tropical conditions",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Jenkinson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Ayanaba",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1977,
+                "venue": "Soil Science Society of America Journal",
+                "volume": "41",
+                "issue": "",
+                "pages": "912--915",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jenkinson, D.S., Ayanaba, A., 1977. Decomposition of carbon-14 labeled plant material under tropical conditions. Soil Science Society of America Journal 41, 912-915.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Calculating net primary production and annual input of organic matter to soil from the amount and radiocarbon content of soil organic matter",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Jenkinson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Harkness",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Vance",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Adams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Harrison",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Soil Biology and Biochemistry",
+                "volume": "24",
+                "issue": "",
+                "pages": "295--308",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jenkinson, D.S., Harkness, D.D., Vance, E.D., Adams, D.E., Harrison, A.F., 1992. Calculating net primary production and annual input of organic matter to soil from the amount and radiocarbon content of soil organic matter. Soil Biology and Biochemistry 24, 295-308.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "How the Rothamsted classical experiments have been used to develop and test models for the turnover of carbon and nitrogen in soil",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Jenkinson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Bradbury",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Coleman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Long-term Experiments in Agricultural and Ecological Sciences",
+                "volume": "",
+                "issue": "",
+                "pages": "117--137",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jenkinson, D.S., Bradbury, N.J., Coleman, K., 1994. How the Rothamsted classical experiments have been used to develop and test models for the turnover of carbon and nitrogen in soil. In: Leigh, R.A., Johnston, A.E. (Eds.), Long-term Experiments in Agricultural and Ecological Sciences. CAB International, Wallingford, pp. 117-137.",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "The vertical distribution of fine roots of five tree species and maize in Morogoro, Tanzania",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Jonsson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Fidjeland",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Maghembe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Hogberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "Agroforestry Systems",
+                "volume": "6",
+                "issue": "",
+                "pages": "63--69",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Jonsson, K., Fidjeland, L., Maghembe, J.A., Hogberg, P., 1988. The vertical distribution of fine roots of five tree species and maize in Morogoro, Tanzania. Agroforestry Systems 6, 63-69.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Review of mechanisms and quantification of priming effects",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Kuzyakov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Friedel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Stahr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Soil Biology and Biochemistry",
+                "volume": "32",
+                "issue": "",
+                "pages": "1485--1498",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kuzyakov, Y., Friedel, J.K., Stahr, K., 2000. Review of mechanisms and quantification of priming effects. Soil Biology and Biochemistry 32, 1485-1498.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Decomposition of plant material in Australian soils. III. Residual organic and microbial biomass C and N from isotope-labelled legume material and soil organic matter, decomposing under field conditions",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Ladd",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Amato",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Oades",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Australian Journal of Soil Research",
+                "volume": "23",
+                "issue": "",
+                "pages": "603--611",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ladd, J.N., Amato, M., Oades, J.M., 1985. Decomposition of plant material in Australian soils. III. Residual organic and microbial biomass C and N from isotope-labelled legume material and soil organic matter, decomposing under field conditions. Australian Journal of Soil Research 23, 603-611.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Agroforestry systems and soil surface management of a tropical alfisol. II. Water runoff, soil erosion, and nutrient loss",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Agroforestry Systems",
+                "volume": "8",
+                "issue": "",
+                "pages": "97--111",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal, R., 1989. Agroforestry systems and soil surface management of a tropical alfisol. II. Water runoff, soil erosion, and nutrient loss. Agroforestry Systems 8, 97-111.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Management of organic matter in soils in the tropics and subtropics",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Transactions of the 12th International Congress of Soil Science",
+                "volume": "",
+                "issue": "",
+                "pages": "152--178",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Lal, R., Kang, B.T., 1982. Management of organic matter in soils in the tropics and subtropics. In: ISSS, (Ed.), Managing Soil Resources to meet Challenges to Mankind. Transactions of the 12th International Congress of Soil Science, New Delhi. Indian Society of Soil Science, pp. 152 -178.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Short-term mineralization of maize residues in soils as determined by carbon-13 natural abundance",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Liang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Gregorich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Mackenzie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Plant and Soil",
+                "volume": "208",
+                "issue": "",
+                "pages": "227--232",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Liang, B.C., Gregorich, E.G., MacKenzie, A.F., 1999. Short-term mineralization of maize residues in soils as determined by carbon-13 natural abundance. Plant and Soil 208, 227-232.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Estimate of organic matter turnover rate in a savanna soil by 13 C natural abundance measurements",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Martin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Mariotti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Balesdent",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Lavelle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Vuattoux",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "Soil Biology and Biochemistry",
+                "volume": "22",
+                "issue": "",
+                "pages": "517--523",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Martin, A., Mariotti, A., Balesdent, J., Lavelle, P., Vuattoux, R., 1990. Estimate of organic matter turnover rate in a savanna soil by 13 C natural abundance measurements. Soil Biology and Biochemistry 22, 517-523.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Soil organic matter and soil fertility",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Diels",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Denef",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Oorts",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Sustaining Soil Fertility in West Africa",
+                "volume": "58",
+                "issue": "",
+                "pages": "69--89",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Merckx, R., Diels, J., Vanlauwe, B., Sanginga, N., Denef, K., Oorts, K., 2001. Soil organic matter and soil fertility. In: Tian, G., Ishida, F., Keatinge, J.D.H. (Eds.), Sustaining Soil Fertility in West Africa. SSSA Special Publication No. 58. Soil Science Society of America, Madison, WI, pp. 69 -89.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Modeling the incorporation of corn (Zea mays L.) carbon from roots and rhizodeposition into soil organic matter",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A E"
+                        ],
+                        "last": "Molina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Clapp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Linden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Allmaras",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Layese",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Dowdy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Cheng",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Soil Biology and Biochemistry",
+                "volume": "33",
+                "issue": "",
+                "pages": "83--92",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Molina, J.A.E., Clapp, C.E., Linden, D.R., Allmaras, R.R., Layese, M.F., Dowdy, R.H., Cheng, H.H., 2001. Modeling the incorporation of corn (Zea mays L.) carbon from roots and rhizodeposition into soil organic matter. Soil Biology and Biochemistry 33, 83-92.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Modelling of soil organic matter dynamics",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J K"
+                        ],
+                        "last": "Myers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Soil organic matter management for sustainable agriculture",
+                "volume": "",
+                "issue": "",
+                "pages": "140--148",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Myers, R.J.K., 1995. Modelling of soil organic matter dynamics. In: Lefroy, R.D.B., Blair, G.J., Craswell, E.T. (Eds.), Soil organic matter manage- ment for sustainable agriculture. Proceedings of a Workshop held in Ubon, Thailand, 24 -26 August 1994. Australian Centre for Inter- national Agricultural Research (ACIAR), Canberra, Australia, pp. 140-148.",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Total carbon, organic carbon, and organic matter",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Nelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Sommers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1982,
+                "venue": "Methods of Soil Analysis. Part 2. Chemical and Microbiological Properties",
+                "volume": "9",
+                "issue": "",
+                "pages": "539--579",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nelson, D.W., Sommers, L.E., 1982. Total carbon, organic carbon, and organic matter. In: Page, A.L., Miller, R.H., Keeney, D.R. (Eds.), Methods of Soil Analysis. Part 2. Chemical and Microbiological Properties. Agronomy Monograph No. 9 (Part 2). American Society of Agronomy-Soil Science Society of America, Madison, WI, pp. 539-579.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Long-term effects of crop management in wheat-fallow: II. CENTURY model simulations",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Parton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Rasmussen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Soil Science Society of America Journal",
+                "volume": "58",
+                "issue": "",
+                "pages": "530--536",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Parton, W.J., Rasmussen, P.E., 1994. Long-term effects of crop manage- ment in wheat-fallow: II. CENTURY model simulations. Soil Science Society of America Journal 58, 530-536.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Analysis of factors controlling soil organic matter levels in Great Plains grasslands",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Parton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Schimel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Cole",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Ojima",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1987,
+                "venue": "Soil Science Society of America Journal",
+                "volume": "51",
+                "issue": "",
+                "pages": "1173--1179",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Parton, W.J., Schimel, D.S., Cole, C.V., Ojima, D.S., 1987. Analysis of factors controlling soil organic matter levels in Great Plains grasslands. Soil Science Society of America Journal 51, 1173-1179.",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Modelling soil organic matter dynamics and plant productivity in tropical ecosystems",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Parton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Woomer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Martin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "The Biological Management of Tropical Soil Fertility",
+                "volume": "",
+                "issue": "",
+                "pages": "171--188",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Parton, W.J., Woomer, P.L., Martin, A., 1994. Modelling soil organic matter dynamics and plant productivity in tropical ecosystems. In: Woomer, P.L., Swift, M.J. (Eds.), The Biological Management of Tropical Soil Fertility. Wiley, Chichester, pp. 171-188.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Modeling soil organic matter in organic-amended and nitrogen-fertilized long-term plots",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Paustian",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Parton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Persson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Soil Science Society of America Journal",
+                "volume": "56",
+                "issue": "",
+                "pages": "476--488",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Paustian, K., Parton, W.J., Persson, J., 1992. Modeling soil organic matter in organic-amended and nitrogen-fertilized long-term plots. Soil Science Society of America Journal 56, 476 -488.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "SAS/STAT Software: changes and enhancements",
+                "authors": [],
+                "year": 1992,
+                "venue": "Release",
+                "volume": "6",
+                "issue": "07",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "SAS Institute, 1992. SAS/STAT Software: changes and enhancements, Release 6.07",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Above-and below-ground biomass dynamics in a sole cropping and an alley cropping system with Gliricidia sepium in the semi-deciduous rainforest zone of West Africa",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Schroth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Zech",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Agroforestry Systems",
+                "volume": "31",
+                "issue": "",
+                "pages": "181--198",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Schroth, G., Zech, W., 1995. Above-and below-ground biomass dynamics in a sole cropping and an alley cropping system with Gliricidia sepium in the semi-deciduous rainforest zone of West Africa. Agroforestry Systems 31, 181-198.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Two categories of 13 C/ 12 C ratios for higher plants",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Epstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1971,
+                "venue": "Plant Physiology",
+                "volume": "47",
+                "issue": "",
+                "pages": "380--384",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smith, B.N., Epstein, S., 1971. Two categories of 13 C/ 12 C ratios for higher plants. Plant Physiology 47, 380-384.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Modeling soil carbon dynamics in tropical ecosystems",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Falloon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Coleman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Piccolo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Cerri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bernoux",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Jenkinson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Ingram",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Szabo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Pasztor",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Global Climate Change and Tropical Ecosystems",
+                "volume": "",
+                "issue": "",
+                "pages": "341--364",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smith, P., Falloon, P., Coleman, K., Smith, J., Piccolo, M.C., Cerri, C., Bernoux, M., Jenkinson, D., Ingram, J., Szabo, J., Pasztor, L., 2000. Modeling soil carbon dynamics in tropical ecosystems. In: Lal, R., Kimble, J.M., Stewart, B.A. (Eds.), Global Climate Change and Tropical Ecosystems. CRC Press, Boca Raton, FL, pp. 341 -364.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "The influence of clay on the rate of decay of amino acid metabolites synthesised in soils during decomposition of cellulose",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "S\u00f8rensen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1975,
+                "venue": "Soil Biology and Biochemistry",
+                "volume": "7",
+                "issue": "",
+                "pages": "171--177",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "S\u00f8rensen, L.H., 1975. The influence of clay on the rate of decay of amino acid metabolites synthesised in soils during decomposition of cellulose. Soil Biology and Biochemistry 7, 171-177.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Observations on the rooting patterns of some agroforestry trees in an arid region of north-western India",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Toky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Bisht",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Agroforestry Systems",
+                "volume": "18",
+                "issue": "",
+                "pages": "245--263",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Toky, O.P., Bisht, R.P., 1992. Observations on the rooting patterns of some agroforestry trees in an arid region of north-western India. Agroforestry Systems 18, 245-263.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Simulation of the effects of trash and N fertilizer management on soil organic matter levels and yields of sugarcane",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Vallis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Parton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Keating",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Wood",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Soil and Tillage Research",
+                "volume": "38",
+                "issue": "",
+                "pages": "115--132",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vallis, I., Parton, W.J., Keating, B.A., Wood, A.W., 1996. Simulation of the effects of trash and N fertilizer management on soil organic matter levels and yields of sugarcane. Soil and Tillage Research 38, 115-132.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Evolution of plant biomass and nutrient content in relation to soil fertility changes in two alley cropping systems",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Van Der Meersch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Mulongoy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1993,
+                "venue": "Soil Organic Matter Dynamics and Sustainability of Tropical Agriculture",
+                "volume": "",
+                "issue": "",
+                "pages": "143--154",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Van der Meersch, M.K., Merckx, R., Mulongoy, K., 1993. Evolution of plant biomass and nutrient content in relation to soil fertility changes in two alley cropping systems. In: Mulongoy, K., Merckx, R. (Eds.), Soil Organic Matter Dynamics and Sustainability of Tropical Agriculture. Wiley, Chichester, pp. 143 -154.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Residue fractionation and decomposition: the significance of the active fraction",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Dendooven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Plant and Soil",
+                "volume": "158",
+                "issue": "",
+                "pages": "263--274",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vanlauwe, B., Dendooven, L., Merckx, R., 1994. Residue fractionation and decomposition: the significance of the active fraction. Plant and Soil 158, 263-274.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Decomposition of four Leucaena and Senna prunings in alley cropping systems under subhumid tropical conditions: the process and its modifiers",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Soil Biology and Biochemistry",
+                "volume": "29",
+                "issue": "",
+                "pages": "131--137",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vanlauwe, B., Sanginga, N., Merckx, R., 1997. Decomposition of four Leucaena and Senna prunings in alley cropping systems under subhumid tropical conditions: the process and its modifiers. Soil Biology and Biochemistry 29, 131-137.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Recovery of Leucaena and Dactyladenia residue nitrogen-15 in alley cropping systems",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Soil Science Society of America Journal",
+                "volume": "62",
+                "issue": "",
+                "pages": "454--460",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vanlauwe, B., Sanginga, N., Merckx, R., 1998. Recovery of Leucaena and Dactyladenia residue nitrogen-15 in alley cropping systems. Soil Science Society of America Journal 62, 454 -460.",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Root distribution of Senna siamea grown on a series of derived-savanna zone soils in Togo, West Africa",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Akinnifesi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Tossah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Lyasse",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Agroforestry Systems",
+                "volume": "54",
+                "issue": "",
+                "pages": "1--12",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vanlauwe, B., Akinnifesi, F.K., Tossah, B.K., Lyasse, O., Sanginga, N., Merckx, R., 2002. Root distribution of Senna siamea grown on a series of derived-savanna zone soils in Togo, West Africa. Agroforestry Systems 54, 1-12.",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Evaluation of crop yields, hedgerow biomass production, and selected soil fertility characteristics in a long-term alley cropping trial in Southwestern Nigeria",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Vanlauwe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Diels",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sanginga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Merckx",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Vanlauwe, B., Diels, J., Sanginga, N., Merckx, R., 2004. Evaluation of crop yields, hedgerow biomass production, and selected soil fertility characteristics in a long-term alley cropping trial in Southwestern Nigeria. Submitted for publication.",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Organic carbon turnover in three tropical soils under pasture after deforestation",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Veldkamp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Soil Science Society of American Journal",
+                "volume": "58",
+                "issue": "",
+                "pages": "175--180",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Veldkamp, E., 1994. Organic carbon turnover in three tropical soils under pasture after deforestation. Soil Science Society of American Journal 58, 175-180.",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Modelling soil organic matter dynamics in tropical ecosystems: model adoption, uses and limitations",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Woomer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1991,
+                "venue": "Soil Organic Matter Dynamics and the Sustainability of Tropical Agriculture. Proceedings of an International Symposium",
+                "volume": "",
+                "issue": "",
+                "pages": "279--294",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Woomer, P.L., 1993. Modelling soil organic matter dynamics in tropical ecosystems: model adoption, uses and limitations. In: Mulongoy, K., Merckx, R. (Eds.), Soil Organic Matter Dynamics and the Sustainability of Tropical Agriculture. Proceedings of an International Symposium, Leuven, Belgium, 4 -6 November 1991. Wiley, Chichester, pp. 279 -294.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "fig_num": "1",
+                "num": null,
+                "type_str": "figure",
+                "text": ", and setting the DPM, RPM and BIO pool size to the simulated size after 5 years of grass vegetation producing 12 Mg DM ha 21 yr 21 (land use scenario for 5 years preceding the start of the trial). The old C, predicted to amount to 8.4 Mg C ha 21 in 1997 and to 7.2 Mg C ha 21 in 2002, was assumed to have a d 13 C equal to 224.9\u2030, both in 1997 and 2002.",
+                "uris": null
+            },
+            "FIGREF1": {
+                "fig_num": "1",
+                "num": null,
+                "type_str": "figure",
+                "text": "Fig. 1. Simulated decline of the old C with time for two IOM pool sizes (0.3-5.0 Mg C ha 21 ) and two scenarios concerning the land use during the 5 years before the start of the experiment: (1) grass fallow with an annual OM input of 12 Mg DM ha 21 , and (2) cropping with an annual OM input of 3 Mg DM ha 21 from crops and weeds. The SOC pools at the start of the trial (1986) were initialized by setting the DPM, RPM and BIO pool size to the simulated size after 5 years of grass vegetation or cropping, respectively. The HUM pool initialized such that the sum of all pools (DPM \u00fe RPM \u00fe BIO \u00fe HUM \u00fe IOM) equaled the observed initial SOC content (15.4 Mg C ha 21 ). Simulations were performed with standard rate constants.",
+                "uris": null
+            },
+            "TABREF1": {
+                "num": null,
+                "content": "<table><tr><td>System</td><td>No-tree</td><td>No-tree</td><td>Leucaena</td><td>Leucaena</td><td>Senna</td><td>Senna</td><td>95% Confidence</td></tr><tr><td>Fertilizer input</td><td>2NPK</td><td>\u00fe NPK</td><td>2NPK</td><td>\u00feNPK</td><td>2NPK</td><td>\u00fe NPK</td><td>interval</td></tr><tr><td>Source</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Maize (stover \u00fe roots)</td><td>1.4</td><td>3.0</td><td>1.8</td><td>2.6</td><td>2.1</td><td>3.6</td><td>^0.3</td></tr><tr><td>Cowpea (haulms \u00fe roots)</td><td>0.7</td><td>0.8</td><td>0.8</td><td>0.8</td><td>0.8</td><td>1.0</td><td>^0.1</td></tr><tr><td>Weeds (incl. roots)</td><td>3.9</td><td>1.5</td><td>2.7</td><td>1.0</td><td>1.3</td><td>0.8</td><td>^0.2</td></tr><tr><td>Trees (prunings, litterfall \u00fe roots)</td><td>0.0</td><td>0.0</td><td>9.2</td><td>10.9</td><td>7.8</td><td>9.0</td><td>^1.1</td></tr><tr><td>Total</td><td>6.0</td><td>5.3</td><td>14.5</td><td>15.4</td><td>12.0</td><td>14.5</td><td/></tr></table>",
+                "type_str": "table",
+                "text": "in the AC and control treatments Contribution from roots in the top 15 cm was estimated as 10% of the above-ground maize, cowpea and weed residues, 7.5% of the Senna prunings and 15% of the Leucaena prunings.Treatment means of d 13 C\u2030 values of maize stover, cowpea haulms, weeds, and tree prunings in the AC and control treatments",
+                "html": null
+            },
+            "TABREF2": {
+                "num": null,
+                "content": "<table><tr><td>Cropping system</td><td>Mg C ha 21</td><td/><td>d 13 C \u2030</td><td/></tr><tr><td/><td>1997</td><td>2002</td><td>1997</td><td>2002</td></tr><tr><td>No-tree control 2 NPK</td><td>8.9</td><td>7.3</td><td>222.3</td><td>222.6</td></tr><tr><td>No-tree control \u00fe NPK</td><td>8.5</td><td>8.0</td><td>222.4</td><td>221.4</td></tr><tr><td>Leucaena AC 2 NPK</td><td>11.3</td><td>10.7</td><td>224.4</td><td>224.3</td></tr><tr><td>Leucaena AC \u00fe NPK</td><td>12.6</td><td>11.6</td><td>224.8</td><td>224.3</td></tr><tr><td>Senna AC 2 NPK</td><td>11.6</td><td>11.6</td><td>224.8</td><td>224.8</td></tr><tr><td>Senna AC \u00fe NPK</td><td>13.4</td><td>13.2</td><td>224.6</td><td>224.8</td></tr><tr><td>SED a</td><td>0.7</td><td>1.1</td><td>0.3</td><td>0.2</td></tr><tr><td>Treatment differences</td><td/><td/><td/><td/></tr><tr><td>AC-control b</td><td>3.5 ^0.9</td><td>4.1 ^1.4</td><td>22.29 ^0.35</td><td>22.47 ^0.24</td></tr><tr><td>Senna AC-Leucaena AC c</td><td>0.5 ^1.0</td><td>1.2 ^1.6</td><td>20.10 ^0.40</td><td>20.53 ^0.28</td></tr></table>",
+                "type_str": "table",
+                "text": "Treatment means of observed SOC contents and d 13 C values for the 1700 Mg ha 21 equivalent soil mass (,0-12 cm) in 1997 and 2002 for the three cropping systems at two fertilizer levels",
+                "html": null
+            },
+            "TABREF3": {
+                "num": null,
+                "content": "<table><tr><td>Cropping system</td><td>Mg C ha 21</td><td/><td>d 13 C\u2030</td><td/></tr><tr><td/><td>1997</td><td>2002</td><td>1997</td><td>2002</td></tr><tr><td>No-tree control 2 NPK</td><td>14.9</td><td>14.7</td><td>222.2</td><td>221.7</td></tr><tr><td>No-tree control \u00fe NPK</td><td>14.1</td><td>14.2</td><td>221.9</td><td>221.2</td></tr><tr><td>Leucaena AC 2 NPK</td><td>22.2</td><td>22.1</td><td>224.7</td><td>224.8</td></tr><tr><td>Leucaena AC \u00fe NPK</td><td>22.3</td><td>22.4</td><td>224.8</td><td>224.9</td></tr><tr><td>Senna AC 2 NPK</td><td>20.4</td><td>18.8</td><td>225.0</td><td>224.8</td></tr><tr><td>Senna AC \u00fe NPK</td><td>21.9</td><td>20.1</td><td>224.7</td><td>224.5</td></tr><tr><td>Treatment differences</td><td/><td/><td/><td/></tr><tr><td>AC-control a</td><td>7.2</td><td>6.4</td><td>22.7</td><td>23.3</td></tr><tr><td>Senna AC-Leucaena AC b</td><td>21.1</td><td>22.8</td><td>20.1</td><td>0.2</td></tr><tr><td colspan=\"5\">The SOC pools at the start of the trial were initialized by setting IOM to</td></tr><tr><td>1.1 Mg C ha 21</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table",
+                "text": "SOC stocks and d 13 C values in the 1700 Mg ha 21 equivalent soil mass (,0 -12 cm) in 1997 and 2002 for the three cropping systems at two fertilizer levels, using standard model parameters",
+                "html": null
+            },
+            "TABREF4": {
+                "num": null,
+                "content": "<table><tr><td>Cropping system</td><td>Mg C ha 21</td><td/><td>d 13 C\u2030</td><td/></tr><tr><td/><td>1997</td><td>2002</td><td>1997</td><td>2002</td></tr><tr><td>No-tree control 2 NPK</td><td>11.0</td><td>10.3</td><td>222.5</td><td>221.7</td></tr><tr><td>No-tree control \u00fe NPK</td><td>10.6</td><td>9.9</td><td>222.1</td><td>221.2</td></tr><tr><td>Leucaena AC 2 NPK</td><td>15.9</td><td>15.2</td><td>224.6</td><td>224.7</td></tr><tr><td>Leucaena AC \u00fe NPK</td><td>16.0</td><td>15.4</td><td>224.7</td><td>224.9</td></tr><tr><td>Senna AC 2 NPK</td><td>14.6</td><td>13.0</td><td>224.9</td><td>224.7</td></tr><tr><td>Senna AC \u00fe NPK</td><td>15.6</td><td>13.8</td><td>224.5</td><td>224.5</td></tr><tr><td>Treatment differences</td><td/><td/><td/><td/></tr><tr><td>AC-control a</td><td>4.8</td><td>4.3</td><td>22.4</td><td>23.3</td></tr><tr><td>Senna AC -Leucaena AC b</td><td>20.8</td><td>21.9</td><td>0.0</td><td>0.2</td></tr></table>",
+                "type_str": "table",
+                "text": "Simulated SOC stocks and d 13 C values in the 1700 Mg ha 21 equivalent soil mass (,0-12 cm) in 1997 and 2002 for the three cropping systems at two fertilizer levels",
+                "html": null
+            }
+        }
+    }
+}

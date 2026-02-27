@@ -344,7 +344,7 @@ def index_encoded_data(index, embedding_paths, indexing_batch_size):
     print("Data indexing completed.")
 
 
-def build_dense_index(cfg):
+def zbuild_dense_index(cfg):
     index_args = cfg.datastore.index
 
     if isinstance(index_args.index_shard_ids[0], ListConfig):
@@ -363,6 +363,8 @@ def build_dense_index(cfg):
         
         os.makedirs(index_dir, exist_ok=True)
         index_path = os.path.join(index_dir, f"index.faiss")
+
+        # COMMENT OUT FOR NOW: need to overwrite index
         if index_args.save_or_load_index and os.path.exists(index_path) and not index_args.overwrite:
             index.deserialize_from(index_dir)
             pass

@@ -1,0 +1,2422 @@
+{
+    "paper_id": "singh2019",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2026-02-18T16:05:57.948797Z"
+    },
+    "title": "Biomass production and carbon stock potential of natural vegetation, agroforestry and cultivated land use systems along altitudinal gradient in north western Himalaya",
+    "authors": [
+        {
+            "first": "Rahul",
+            "middle": [],
+            "last": "Singh",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "D",
+            "middle": [
+                "R"
+            ],
+            "last": "Bhardwaj",
+            "suffix": "",
+            "affiliation": {},
+            "email": "bhardwajdr_uhf@rediffmail.com"
+        },
+        {
+            "first": "Nazir",
+            "middle": [
+                "A"
+            ],
+            "last": "Pala",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir",
+                "location": {
+                    "addrLine": "Ganderbal-",
+                    "postCode": "191201",
+                    "country": "India"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Bhalendra",
+            "middle": [
+                "Singh"
+            ],
+            "last": "Rajput",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Banda University of Agriculture and Technology",
+                "location": {
+                    "postCode": "Banda-210001",
+                    "country": "India"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Yashwant",
+            "middle": [],
+            "last": "Singh Parmar",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "The present study was undertaken in two altitudinal ranges 365-635 m and 636-914 m above mean sea level covering sub-montane, low hills and sub-tropical regions of Himachal Pradesh, India. The two altitudinal ranges were selected because of having common eight land use systems viz., agriculture (T 1 ), horticulture (T 2 ), agrisilvicultural (T 3 ), silvopastoral (T 4 ), agrihorticulture (T 5 ), agrihortisilvicultural (T 6 ), forest (T 7 ) and grassland (T 8 ). The experiment was carried out to identify variation in different land use systems in terms of biomass production and carbon stock potentials. The maximum value of aboveground biomass (184.75 t ha -1 ), belowground biomass (47.84 t ha -1 ) and total biomass (232.59 t ha -1 ) was recorded in forest land use system. All traits of biomass followed the order of T 6 >T 2 >T 5 >T 3 >T 4 >T 1 >T 8.. Among the agroforestry systems maximum aboveground (66.46 t ha -1 ), belowground (20.84 t ha -1 ) and total biomass (86.48 t ha -1 ) were accumulated in agrihortisilviculture system. The values of above, below and total biomass showed declining trend with increase in altitude. Vegetation carbon density also decreased with increasing altitudinal range. Among agroforestry systems, maximum (90.10 t ha -1 ) total carbon stock was observed in agrihortisilviculture, which was 2.45, 4.42, 10.67 and 44.80% higher than agrihorticulture, silvopastoral, agrisilviculture and agriculture land use system.",
+    "pdf_parse": {
+        "paper_id": "singh2019",
+        "_pdf_hash": "",
+        "abstract": [
+            {
+                "text": "The present study was undertaken in two altitudinal ranges 365-635 m and 636-914 m above mean sea level covering sub-montane, low hills and sub-tropical regions of Himachal Pradesh, India. The two altitudinal ranges were selected because of having common eight land use systems viz., agriculture (T 1 ), horticulture (T 2 ), agrisilvicultural (T 3 ), silvopastoral (T 4 ), agrihorticulture (T 5 ), agrihortisilvicultural (T 6 ), forest (T 7 ) and grassland (T 8 ). The experiment was carried out to identify variation in different land use systems in terms of biomass production and carbon stock potentials. The maximum value of aboveground biomass (184.75 t ha -1 ), belowground biomass (47.84 t ha -1 ) and total biomass (232.59 t ha -1 ) was recorded in forest land use system. All traits of biomass followed the order of T 6 >T 2 >T 5 >T 3 >T 4 >T 1 >T 8.. Among the agroforestry systems maximum aboveground (66.46 t ha -1 ), belowground (20.84 t ha -1 ) and total biomass (86.48 t ha -1 ) were accumulated in agrihortisilviculture system. The values of above, below and total biomass showed declining trend with increase in altitude. Vegetation carbon density also decreased with increasing altitudinal range. Among agroforestry systems, maximum (90.10 t ha -1 ) total carbon stock was observed in agrihortisilviculture, which was 2.45, 4.42, 10.67 and 44.80% higher than agrihorticulture, silvopastoral, agrisilviculture and agriculture land use system.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The role of forests (or trees) in carbon cycles is well recognized (Singh and Lal, 2000; Pala et al., 2012) and forests area is considered as large sink of carbon (Dixon et al., 1994; W ang et al., 2001) . There is considerable interest to increase the carbon storage capacity of terrestrial vegetation through land-use practices such as afforestation, reforestation, and natural regeneration of forests, grasslands, silvicultural and agroforestry systems (Brown, 1996; Ghosh and Mahanta, 2014; Chatuvedi et al., 2016) . Finding low-cost methods to sequester carbon is emerging as a major international policy goal in the context of increasing concerns about global climate change (Montagnini and Nair, 2004) . Agroforestry has been recognized to be of special importance as a carbon sequestration strategy because of its applicability in agricultural lands as well as in reforestation programs (Cairns and Meganck 1994; Ruark et al., 2003; Roy, 2016) . Conceptually trees are considered to be a terrestrial carbon sink (Houghton et al., 1998) . Therefore, managed forests can, theoretically, sequester carbon both in situ (biomass and soil) and ex-situ (products). By including trees in agricultural production systems, agroforestry can, arguably, increase the amount of carbon stored in lands devoted to agriculture, while still allowing for the growing of food crops (Kursten, 2000) .",
+                "cite_spans": [
+                    {
+                        "start": 67,
+                        "end": 88,
+                        "text": "(Singh and Lal, 2000;",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 89,
+                        "end": 107,
+                        "text": "Pala et al., 2012)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 163,
+                        "end": 183,
+                        "text": "(Dixon et al., 1994;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 184,
+                        "end": 203,
+                        "text": "W ang et al., 2001)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 456,
+                        "end": 469,
+                        "text": "(Brown, 1996;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 470,
+                        "end": 494,
+                        "text": "Ghosh and Mahanta, 2014;",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 495,
+                        "end": 518,
+                        "text": "Chatuvedi et al., 2016)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 681,
+                        "end": 708,
+                        "text": "(Montagnini and Nair, 2004)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 895,
+                        "end": 920,
+                        "text": "(Cairns and Meganck 1994;",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 921,
+                        "end": 940,
+                        "text": "Ruark et al., 2003;",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 941,
+                        "end": 951,
+                        "text": "Roy, 2016)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1020,
+                        "end": 1043,
+                        "text": "(Houghton et al., 1998)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1370,
+                        "end": 1385,
+                        "text": "(Kursten, 2000)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "In India, average sequestration potential in agroforestry has been estimated to be 25 t C per ha over 96 million ha (Sathaye and Ravindranath, 1998) but there is a considerable variation in different regions depending upon the biomass production. Several studies from forests of Indian Himalayan region (Shah et al., 2014; Pala et al., 2012; Iqbal et al., 2014) and agroforestry (Rajput et al., 2015; 2016) have been carried out in the recent past to explore the compatibility regarding carbon stock storage. In recent years, the farmers and field professionals of sub-montane and low hills, sub-tropical zone of Himachal Pradesh have developed various agroforestry systems integrating with timber, fodder, fruit trees and field crops and can store more carbon than monoculture land use. The main components of these land use systems are cereal crops, legumes, vegetable crops, fruit trees etc. The main forest tree species which dots the landscape of this agro-climatic zone are Poplar, Eucalyptus, Grewia, Morus, Toona, Siris and Bamboos etc. These agroforestry systems and other land use systems need to be tested for their carbon storage potential and environmental suitability in order to quantify the relative importance of these land use systems in today's contest. Therefore, the present study was undertaken in different land use systems of sub-montane and low hills, sub-tropical zone of Himachal Pradesh to estimate the biomass and carbon stocks in different land use systems.",
+                "cite_spans": [
+                    {
+                        "start": 116,
+                        "end": 148,
+                        "text": "(Sathaye and Ravindranath, 1998)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 303,
+                        "end": 322,
+                        "text": "(Shah et al., 2014;",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 323,
+                        "end": 341,
+                        "text": "Pala et al., 2012;",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 342,
+                        "end": 361,
+                        "text": "Iqbal et al., 2014)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 379,
+                        "end": 400,
+                        "text": "(Rajput et al., 2015;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 401,
+                        "end": 406,
+                        "text": "2016)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Introduction",
+                "sec_num": null
+            },
+            {
+                "text": "The study was carried out (during 2015-2016) in agro-climatic zone of Himachal Pradesh, which was divided in two altitudinal ranges A 1 (365-635 m) and A 2 (636-914 m). The zone covers an area of 55,673 km 2 over six districts viz., Kangra, Hamirpur, Una, Bilaspur, Solan and Sirmaur. The area is located between 32\u00ba 50' to 30\u00ba 22' North latitude and 76\u00ba 18' to 77\u00ba 47' East longitude and 365 to 914 m above sea level altitudinal range (Fig 1 ). For the selection of sites, three districts were randomly selected for sampling. Each district was further stratified in two altitudinal range (365-635 m) and (636-914 m). At each altitudinal range three sites were selected randomly on the basis of altitude and from each site three villages were selected for further sampling. In both altitudinal ranges A 1 and A 2 eight different land use systems viz., agriculture, horticulture, agrisilvicultural, silvopastoral, agrihorticulture, agrihortisilviculture, forest and grassland denoted by T 1 , T 2 , T 3 , T 4 , T 5 , T 6 , T 7 and T 8 were selected (Table 1 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 441,
+                        "end": 442,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1055,
+                        "end": 1056,
+                        "text": "1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Study area:",
+                "sec_num": null
+            },
+            {
+                "text": "The climate of study area varied within different altitudinal ranges. This zone was affected by all three extreme climatic conditions, high temperature in summers (18-35\u00ba C), very low in winter (5-21\u00ba C) and heavy rainfall in rainy season. The average annual rainfall varied from 1400-1800 mm and most of which was concentrated during July-August, receiving about 80 percent of total annual rainfall. There was a vast variation in vegetation type in zone first. In forest ecosystem (land use) and tree based land use systems had huge variation in vegetation; grasslands had only herbs and shrubs. Important flora constituted in this zone was Acacia catechu, Grewia optiva, Pinus roxburghii, Shorea robusta, Toona ciliata, Dalergia sissoo in trees, common shrubs were Murraya koenigii, Pyrus pashia, Lantan camara, Artemisia vulgaris, Adhatoda vasica, Carrisa carandas and common herbs were Bidens pilosa, Xanthium strumar--ium, Cynodon dactylon, Cyperus rotundus, Chrysopogon montanus, Themeda anathera etc.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study area:",
+                "sec_num": null
+            },
+            {
+                "text": "Above ground tree biomass: For measurement of above ground tree biomass in each land use system 0.1 ha plots (50 \u00d7 20 m 2 ) were laid down. The volume estimation of all the trees falling in the plot was enumerated. The diameter at breast height (dbh) was measured with calliper and height with Ravi's multimeter. Local volume equation developed for specific tree species and region were used for calculating the volume of the forest trees of the sample plot (FSI, 1996) . W here volume equation was not available for the concerned species, the general volume equations were used for volume (FSI, 1996) .The estimation of above ground biomass of woody trees was estimated by using expansion factors and specific gravity. The expansion factors for different species were available from previous literature (IPCC 2003; Rai et al., 2000) . Specific gravity was determined from the available literature (IPCC, 2003; Kaul and Sharma, 1983) . Wherever the specific gravity values were not available in that case the stem cores were taken to find out specific gravity which was used further to determine the biomass of the stem using maximum moisture method (Smith, 1954) .",
+                "cite_spans": [
+                    {
+                        "start": 458,
+                        "end": 469,
+                        "text": "(FSI, 1996)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 590,
+                        "end": 601,
+                        "text": "(FSI, 1996)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 804,
+                        "end": 815,
+                        "text": "(IPCC 2003;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 816,
+                        "end": 833,
+                        "text": "Rai et al., 2000)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 898,
+                        "end": 910,
+                        "text": "(IPCC, 2003;",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 911,
+                        "end": 933,
+                        "text": "Kaul and Sharma, 1983)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1150,
+                        "end": 1163,
+                        "text": "(Smith, 1954)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study area:",
+                "sec_num": null
+            },
+            {
+                "text": "Below ground biomass: Below ground biomass of trees was calculated by using the guidelines of IPCC (1996) and Cairns et al. (1997) . Below ground biomass of trees were calculated by multiplying above ground biomass with a factor of root: shoot ratio of particular tree (Rajput et al., 1985; Kumar, 1998) . Below ground biomass = above ground biomass \u00d7 root: shoot ratio Fruit tree biomass: For estimation of fruit tree biomass, we developed diameter-dry biomass based equations. For this purpose, we visited orchard fields from time to time, when they were uprooting their orchards during winter. For each fruit tree crop we selected 20 trees. Each selected tree was then sectioned into secondary branches and main stem. The diameter of basal portion (with tree calliper) and fresh weight of each branch was determined in the field with the help of balance. After estimating the dry biomass of the each secondary branch, we developed non-linear regression equation between diameter and dry biomass of the branches. This regression equation was then used to estimate the dry weight of secondary branches of the sample trees of the sample plot.",
+                "cite_spans": [
+                    {
+                        "start": 94,
+                        "end": 105,
+                        "text": "IPCC (1996)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 110,
+                        "end": 130,
+                        "text": "Cairns et al. (1997)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 269,
+                        "end": 290,
+                        "text": "(Rajput et al., 1985;",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 291,
+                        "end": 303,
+                        "text": "Kumar, 1998)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study area:",
+                "sec_num": null
+            },
+            {
+                "text": "of the main stem log Cumulative weight of all the secondary branches = + Agriculture 365-635 m asl 636-914 m asl Horticulture 365-635 m asl 636-914 m asl Agrisilviculture 365-635 m asl 636-914 m asl Silvopastoral 365-635 m asl 636-914 m asl Agrihorticulture 365-635 m asl 636-914 m asl Agrihortisilviculture 365-635 m asl 636-914 m asl Forest 365-635 m asl 636-914 m asl Grassland 365-635 m asl 636-914 m asl T 1 T 2 T 3 T 4 T 5 T 6 T 7 T 8 Maize-wheat, black gram-mustard Maize-wheat, paddy-wheat Mango, kinnow Mango Popular + toona + maize-barley, toona + sissoo + paddy-wheat Toon + morus + celtis + black gram-wheat, grewia + sissoo + maize -pea Eucalyptus, toona, morus+ natural grass Khair+sissoo+grewia+natural grass Kinnow + tomato-wheat, kinnow + maize-mustard Mango + maize -wheat, mango + tomato-mustard Maize-wheat + kinnow + toona + popular, paddy-wheat + mango + toona, black gram-onion + kinnow+toona Paddy-wheat + mango + eucalyptus, maize-galic + mango +toon Shorea robusta, Albizia lebbeck, A. procera, Terminelia arjuna, D. sissoo, Toona ciliata, Acacia catechu, Leucaena leucocephala. Pinus roxburghii + A. catechu Natural grass Natural grass Fruit tree root biomass:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Biomass",
+                "sec_num": null
+            },
+            {
+                "text": "50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 50\u00d720 1.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Biomass",
+                "sec_num": null
+            },
+            {
+                "text": "The uprooted fruit trees by the farmers during their orchard replacement time were used to develop the diameter-biomass equations on dry biomass. The same trees were used for the estimation of the fruit tree root biomass and shoot-root ratio. Five plots of 1 x 1 m 2 were used for estimation of crop biomass. All the crop biomass occurring within the borders of the quadrates were cut at ground level and collected samples were weighed, subsampled and oven dried at 65 + 5 o C to a constant weight.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Biomass",
+                "sec_num": null
+            },
+            {
+                "text": "The crop biomass was converted into carbon by multiplying with a factor of 0.5 (IPCC default value). Below ground biomass of crops and grasses was calculated by multiplying above ground biomass of crops/grasses with a factor of root: shoot ratio of particular crop/grass.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Biomass",
+                "sec_num": null
+            },
+            {
+                "text": "Below ground biomass = above ground biomass \u00d7 root: shoot ratio",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Biomass",
+                "sec_num": null
+            },
+            {
+                "text": "To quantify standing floor mass, standing floor litter were randomly collected at five points using a 1m x 1m quadrates size. The standing floor litter inside the quadrate was collected and oven dried at 60 \u00b0C to a constant weighed. The litter biomass was converted to carbon by multiplying a default value of 0.370 (Smith and Heath, 2001) . Above and below ground carbon stock in vegetation was determined by vegetation biomass by multiplying with default value 0.5 (IPCC, 1996) .",
+                "cite_spans": [
+                    {
+                        "start": 316,
+                        "end": 339,
+                        "text": "(Smith and Heath, 2001)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 467,
+                        "end": 479,
+                        "text": "(IPCC, 1996)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Litter and soil carbon stock:",
+                "sec_num": null
+            },
+            {
+                "text": "Carbon stock = biomass \u00d7 0.5 (IPCC default value)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Litter and soil carbon stock:",
+                "sec_num": null
+            },
+            {
+                "text": "Soil samples were also collected, air dried in shade, grinded with wooden pestle, passed through 2 mm sieve, and stored in cloth bags for further laboratory analysis. Organic carbon content was estimated following Walkley and Black (1934) method. Soil mass for a particular soil depth was then computed from the bulk density and soil C stock was calculated for that soil depth by multiplying soil mass with soil organic C-content (Nelson and Sommers, 1996) .",
+                "cite_spans": [
+                    {
+                        "start": 214,
+                        "end": 238,
+                        "text": "Walkley and Black (1934)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 430,
+                        "end": 456,
+                        "text": "(Nelson and Sommers, 1996)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Litter and soil carbon stock:",
+                "sec_num": null
+            },
+            {
+                "text": "The data obtained were subjected to statistical analysis as per the procedure suggested by Gomez and Gomez (1984) .",
+                "cite_spans": [
+                    {
+                        "start": 91,
+                        "end": 113,
+                        "text": "Gomez and Gomez (1984)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis:",
+                "sec_num": null
+            },
+            {
+                "text": "Above ground, below ground and total tree biomass production: Trees play an important role in soil C sequestration (Takimoto et al., 2009) ; with an increase in the number of trees (high tree density) in a system, the overall biomass production per unit area of land will be higher, which in turn might promote more C storage in soils. In the interaction effect between land use systems and altitudinal range, the above ground biomass declined with the increasing altitudinal range from A 1 to A 2 except in grassland in the present study. However, this decline was significant in agrisilviculture and silvopastoral systems only. Maximum (184.75 t ha -1 ) above ground biomass was found under forest land use system followed by agrihortisilviculture (66.46 t ha -1 ), horticulture (62.99 t ha -1 ), agrihorticulture (58.37 t ha -1 ), agrisilviculture (45.01 t ha -1 ), silvopastoral (34.49 t ha -1 ), agriculture (17.09 t ha -1 ) and grassland (2.43 t ha -1 ), respectively. Agrihortisilviculture system had 3.88 times higher above ground biomass over agriculture system. Irrespective of land use systems, A 1 (63.33 t ha -1 ) had significantly higher biomass than A 2 (54.57 t ha -1 ) (Table 2 ). Higher biomass production at lower altitude might be due to higher density of tree species in the systems, local climatic factors, higher fertility status because of their proximity to plains, management practices and differences in species composition (Rajput et al., 2015; 2016) .",
+                "cite_spans": [
+                    {
+                        "start": 115,
+                        "end": 138,
+                        "text": "(Takimoto et al., 2009)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 1451,
+                        "end": 1472,
+                        "text": "(Rajput et al., 2015;",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1473,
+                        "end": 1478,
+                        "text": "2016)",
+                        "ref_id": "BIBREF34"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1193,
+                        "end": 1194,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results and Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The maximum below ground biomass was found in forest (47.84 t ha -1 ), which was significantly higher than other land use systems, and it was minimum in grassland (1.09 t ha -1 ). Among agroforestry systems, maximum below ground biomass production (20.02 t ha -1 ) was exhibited by agrihortisilviculture, and it was significantly higher than agrihorticulture (13.18 t ha -1 ), agrisilviculture (12.47 t ha -1 ) and silvopastoral (9.01t ha -1 ) systems (Table 2 ). Agroforestry systems (AFS) produced 1.84 to 4.09 times higher below ground biomass than agriculture land use system. In fact, recent studies indicated higher soil C stock (amount of carbon stored in soil) under deeper soil profiles in AFS compared to treeless agricultural or pasture land systems under similar ecological settings (Haile et al., 2008; Nair et al., 2009) . In this connection, AFS are expected to have a great impact on the flux and long term storage of C in the terrestrial biosphere (Dixon, 1995) as the area of the world under AFS will hopefully increase substantially in the near future.",
+                "cite_spans": [
+                    {
+                        "start": 795,
+                        "end": 815,
+                        "text": "(Haile et al., 2008;",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 816,
+                        "end": 834,
+                        "text": "Nair et al., 2009)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 965,
+                        "end": 978,
+                        "text": "(Dixon, 1995)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 459,
+                        "end": 460,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results and Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "The maximum total biomass (232.59 t ha -1 ) was accumulated in forest land use followed by agrihortisilviculture (86.48 t ha -1 ), horticulture (74.25 t ha - 1 ), agrihorticulture (71.56 t ha -1 ), agrisilviculture (57.48 t ha -1 ), silvopastoral (43.51 t ha -1 ), agriculture (21.98 t ha -1 ) and grassland (3.52 t ha -1 ) use systems (Table 2 ). The total tree biomass production declined at all land use systems, except in grassland. The carbon sequestration potential of the vegetation component (above and belowground) also varied from 0.29 Mg ha-1 yr-1 in a fodder bank agroforestry system of West African Sahel to 15.21 Mg ha -1 yr -1 in mixed species stands of Puerto Rico (Nair et al., 2009) .",
+                "cite_spans": [
+                    {
+                        "start": 681,
+                        "end": 700,
+                        "text": "(Nair et al., 2009)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 343,
+                        "end": 344,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results and Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Litter biomass production: Maximum litter biomass (1.87 t ha -1 ) was accumulated in forest, followed by horticulture (0.52 t ha -1 ), agrisilviculture (0.42 t ha -1 ), agrihortisilviculture (0.34 t ha -1 ), agrihorticulture (0.34 t ha -1 ), silvopastoral (0.28 t ha -1 ) and grassland (0.14 t ha - 1 ), respectively. The minimum (0.06 t ha -1 ) litter biomass was recorded in agriculture system (Table 2 ). The litter biomass declined significantly with increasing altitudinal range. Lower altitude (A 1 ) recorded 1.75 times higher litter biomass than higher altitude (A 2 ).The litter biomass production declined significantly with increase in altitude (from A 1 to A 2 altitude) in respect of land use systems viz., horticulture, agrisilviculture and forest.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 403,
+                        "end": 404,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results and Discussion",
+                "sec_num": null
+            },
+            {
+                "text": "Above ground, below ground and total biomass carbon stock: Forest land use system showed highest above ground biomass carbon stock (92.37 t ha -1 ). The above ground biomass carbon stock in horticulture (31.50 t ha -",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results and Discussion",
+                "sec_num": null
+            },
+            {
+                "text": ") was statistically at par with agrihortisilviculture (33.23 t ha -1 ) and agrihorticulture (29.19 t ha -1 ) land use system (Table 3 ). The minimum above ground biomass carbon stock (1.21 t ha -1 ) was observed in grassland system. Among the agroforestry systems, agrihortisilviculture recorded maximum (33.23 t ha -1 ) above ground carbon stock and it was 12.61%, 32.27 %, 48.09% and 74.3% more than agrihorticulture, agrisilviculture, silvopastoral and agriculture. Significantly higher above ground carbon stock (31.66 t ha -1 ) was found at lower (A 1 ) altitude than higher (A 2 ) (27.29 t ha -1 ). The role of forests (or trees) in carbon cycles is well recognized (Singh and Lal, 2000) and forests are considered a large sink of carbon (Dixon et al., 1994; Wang et al., 2010) . Now efforts are being made to increase the carbon storage capacity of terrestrial vegetation through land-use practices such as afforestation, reforestation, and natural regeneration of forests, silvicultural systems and agroforestry (Brown, 1996; Canadell and Raupach, 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 672,
+                        "end": 693,
+                        "text": "(Singh and Lal, 2000)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 744,
+                        "end": 764,
+                        "text": "(Dixon et al., 1994;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 765,
+                        "end": 783,
+                        "text": "Wang et al., 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1020,
+                        "end": 1033,
+                        "text": "(Brown, 1996;",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1034,
+                        "end": 1061,
+                        "text": "Canadell and Raupach, 2008)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 132,
+                        "end": 133,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "The maximum below ground carbon stock was observed at A 1 T 7 treatment combination (28.38 t ha -1 ), which differed significantly with other combinations. It was observed that the below ground carbon had no significant difference in respect of land use systems at both the altitudinal ranges, except in silvopastoral and forest land use",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "T 1 ( Agriculture) T 2 (Horticulture) T 3 (Agrisilviculture) T 4 (Silvopastoral) T 5 (Agrihorticulture) T 6 (Agrihortisilviculture) T 7 (",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "Forest) T 8 (Grassland) Mean T A T\u00d7A 10.98 32.42 26.65 22.52 30.29 35.45 94.03 0.96 31.66 SEm\u00b1 1.15 0.57 1.63 6.11 30.58 18.37 11.97 28.09 31.01 90.72 1.47 27.29 CD (P<0.05) 3.35 1.67 4.74 8.54 31.50 22.51 17.25 29.19 33.23 92.37 1.21 2.53 5.78 6.73 5.65 6.76 10.60 28.38 0.43 8.36 SEm\u00b1 0.27 0.13 0.38 2.36 5.48 5.74 3.36 6.42 9.41 19.46 0.66 6.61 CD (P<0.05) 0.79 0.40 1.13 2.44 5.63 6.23 4.51 6.59 10.01 23.92 0.54 13.51 38.20 33.38 28.17 37.05 46.06 122.41 1.39 40.02 SEm\u00b1 1.42 0.71 2.01 8.47 36.05 24.10 15.34 34.51 40.42 110.18 2.13 33.90 CD (P<0.05) 4.12 2.06 5.83 10.99 f 37.12 c 28.74 d 21.75 e 35.78 c 43.24 b 116.30 a 1.76 g Mean A 1 (365-635 m) A 2 (636-914 m) A 1 (365-635 m) A 1 (365-635 m) A 2 (636-914 m) A 2 (636-914 m) Mean Mean Land use system Above ground carbon stock Below ground carbon stock Total vegetation carbon stock Table 3 . Effect of land use systems, altitudinal gradient and their interaction on above ground, below ground and total vegetation carbon stock (t ha -1 ) systems. Maximum below ground carbon stock (23.92 t ha -1 ) was observed in forest system followed by agrihortisilviculture (10.01 t ha -1 ), agrihorticulture (6.59 t ha -1 ), agrisilviculture (6.23 t ha -1 ), horticulture (5.63 t ha -1 ), silvopastoral (4.51 t ha -1 ) and agriculture (2.44 t ha -1 ), respectively (Table 3 ). Minimum value of below ground carbon stock (0.54 t ha -1 ) was recorded in grassland system. Below ground carbon stock showed decreasing trend with increase in altitudinal range.The results were in agreement with the findings of Rajput et al. (2015) , who reported that the biomass in forest ecosystem decreases with increasing altitude. Similar findings were also reported earlier by Minj (2008) , where all categories of biomass viz., aboveground, belowground and total biomass in different land use systems decreased with increase in altitude.",
+                "cite_spans": [
+                    {
+                        "start": 1557,
+                        "end": 1577,
+                        "text": "Rajput et al. (2015)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1713,
+                        "end": 1724,
+                        "text": "Minj (2008)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 850,
+                        "end": 851,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1323,
+                        "end": 1324,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "Maximum mean total carbon stock (116.30 t ha -1 ) was observed in forest land use system followed by agrihortisilviculture (43.24 t ha -1 ), horticulture (37.12 t ha - 1 ), agrihorticulture (35.78 t ha -1 ), agrisilviculture (28.74 t ha -1 ), silvopastoral (21.75 t ha -1 ) and agriculture system (10.99 t ha -1 ). Among agroforestry systems, agrihortisilviculture showed quite higher values of total biomass carbon stock than other systems and followed the trend of agrihortisilviculture > agrihorticulture > agrisilviculture > silvopastoral (Table 3 ). With respect to the effect of altitudinal gradient on total carbon stock, higher total carbon stock was also recorded in A 1 (44.00 t ha -1 ) than A 2 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 550,
+                        "end": 551,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "Litter carbon density and soil carbon density: Litter carbon pool was found significantly higher under forest (0.69 t ha -1 ) followed by horticulture (0.19 t ha -1 ), agrisilviculture (0.15 t ha -1 ), agrihorticulture (0.13 t ha -1 ), agrihortisilviculture (0.12 t ha -1 ), silvopastoral (0.10 t ha - 1 ), grassland (0.05 t ha -1 ) and agriculture (0.02 t ha -1 ), respectively. The litter carbon pool was found statistically at par in silvopastoral, horticulture and agrihortisilviculture. Irrespective of the land use systems, the litter carbon declined significantly with increasing altitudinal range. Maximum (80.44 t ha -1 ) soil carbon density was observed in forest land use system followed by silvopastoral (64.25 t ha -1 ), agrihorticulture (51.99 t ha - 1 ), grassland (39.48 t ha -1 ) and agriculture (38.72 t ha -1 ) (Table 3 4 ). The incorporation of trees or shrubs in agroforestry systems increased the amount of carbon sequestered when compared to a monoculture field of crop plants or pasture (Sharrow and Ismail, 2004; Kirby and Potvin, 2007) .The above results indicated that biomass components viz., above and belowground biomass and total biomass produced by particular land use system was influenced by the age of the components-annual or perennial, type of crop, structure of the system, nature and number of woody components, etc. Nayak (1996) observed that aboveground biomass was influenced by the plant species and their densities. Deshmukh (1998) reported that management practices also affected the biomass production of tree grown under different agroforestry systems.",
+                "cite_spans": [
+                    {
+                        "start": 1011,
+                        "end": 1037,
+                        "text": "(Sharrow and Ismail, 2004;",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1038,
+                        "end": 1061,
+                        "text": "Kirby and Potvin, 2007)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 1356,
+                        "end": 1368,
+                        "text": "Nayak (1996)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1460,
+                        "end": 1475,
+                        "text": "Deshmukh (1998)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 837,
+                        "end": 838,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 839,
+                        "end": 840,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "T 1 ( Agriculture) T 2 (Horticulture) T 3 (Agrisilviculture) T 4 (Silvopastoral) T 5 (Agrihorticulture) T 6 (Agrihortisilviculture) T 7 (Forest) T 8 (Grassland) SEm\u00b1 CD (P<0.05) Altitudinal range (A) A 1 (365-635 m a.s.l.) A 2 (636-914 m a.s.l.) SEm\u00b1 CD (P<0.05) 10.99 37.12 28.74 21.75 35.78 43.24 116.29 1.75 1.42 4.12 40.02 33.90 0.71 2.06 0.02 0.19 0.15 0.10 0.13 0.12 0.69 0.05 0.017 0.049 0.23 0.13 0.008 0.025 38.72 59.06 51.58 64.25 51.99 46.74 80.44 39.48 5.469 15.872 48.86 59.21 2.735 7.936 49.73 96.38 80.48 86.11 87.89 90.10 197.43 41.29 5.805 16.846 122.73 129.26 1.652 NS Treatment Vegetation carbon pool Total carbon pool Soil carbon pool Litter carbon pool Total ecosystem carbon density and vegetation carbon pool: Maximum (197.43 t ha -1 ) total carbon density was recorded in forest land use system, which was significantly higher than all other land use systems. The land use systems of horticulture (96.38 t ha -1 ), agrihortisilviculture (90.10 t ha -1 ), agrihorticulture (87.89 t ha -1 ), Silvopastoral (86.11 t ha -1 ) and agrisilviculture (80.48 t ha -1 ) remained statistically at par with one another (Table 4 ). Trees are known for their high potential for converting radiant energy into organic matter as compared to the annuals. Forest ecosystems store carbon in large, long-lived species and in species with dense wood (Bunker et al., 2005) . Agrihortisilviculture land management systems had several species with diverse growth habits, root systems, mineral requirements enabling optimum use of available space and resources (Huxley, 1983) and lesser intensity of weed as compared to other systems (Toky et al., 1989) .",
+                "cite_spans": [
+                    {
+                        "start": 1352,
+                        "end": 1373,
+                        "text": "(Bunker et al., 2005)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 1559,
+                        "end": 1573,
+                        "text": "(Huxley, 1983)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1632,
+                        "end": 1651,
+                        "text": "(Toky et al., 1989)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1137,
+                        "end": 1138,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "The variability in the productivity of agroforestry system as recorded in our study was in agreement with the observations of Albrecht and Kandji (2003) .",
+                "cite_spans": [
+                    {
+                        "start": 126,
+                        "end": 152,
+                        "text": "Albrecht and Kandji (2003)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "Table 4 . Carbon pool (t ha -1 ) in different components of the system as influenced by average effect of land use system and altitudinal gradient altitudinal range. The lower altitude showed maximum vegetation carbon in all categories. It was approximately half of the vegetation biomass and also affected by the factors of the vegetation biomass. The higher values of these traits in this treatment combination might be ascribed to higher average age diameter of the tree component at this altitudinal range, nature of the functional component in question and intensity of management involved. Indeed, the average age of the timber trees was quiet higher than agricultural crop, fodder and fruit based land use systems. In addition to it, the biomass production and its removal was quiet high in field crops.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 6,
+                        "end": 7,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "1",
+                "sec_num": null
+            },
+            {
+                "text": "Different land use systems had significant influence on production of above, below and total biomass. All traits of biomass followed the order of T 6 >T 2 >T 5 >T 3 >T 4 >T 1 >T 8. W hereas, among the agroforestry systems maximum aboveground (66.46 t ha -1 ), belowground (20.84 t ha -1 ) and total biomass (86.48 t ha -1 ) was accumulated by agrihortisilviculture system followed by agrihorticulture, agrisilviculture and silvopastoral system, respectively. Agriculture land use showed 74.28, 75.57 and 74.58% lower aboveground, belowground and total biomass than the agrihortisilviculture system, respectively. The values of above, below and total biomass showed declining trend with increasing altitude. The altitudinal range also had significant influence on vegetation carbon density.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "The study, therefore, indicated that the forest land use system had higher (197.43 t ha -1 ) carbon stock (vegetation + litter + soil) among all land use systems, but agrihortisilviculture system had higher carbon stock (90.10 t ha -1 ) than agriculture and all other agroforestry systems. Hence, increase in tree cover seems to be a viable option for mitigation of carbon increase in atmosphere.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Maximum vegetation carbon pool (116.29 t ha 1 ) was observed in forest land use and minimum (1.42 t ha -1 ) in grassland (Table 4 ). Carbon pool under agrihortisilviculture and horticulture systems was found to be statistically at par. Further it was observed that vegetation carbon declined with increasing altitudinal range. Biomass carbon (aboveground, belowground and total carbon) density was significantly influenced by",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 128,
+                        "end": 129,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Carbon sequestration in tropical agroforestry systems",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Albrecht",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kandji",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Agriculture, Ecosystem and Environment",
+                "volume": "99",
+                "issue": "",
+                "pages": "15--27",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Albrecht, A and S.T. Kandji. 2003. Carbon sequestration in tropical agroforestry systems. Agriculture, Ecosystem and Environment 99: 15-27.",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Present and potential roles of forests in the global climate change debate",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Unasylva",
+                "volume": "185",
+                "issue": "",
+                "pages": "3--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Brown, S. 1996. Present and potential roles of forests in the global climate change debate. Unasylva 185: 3-10.",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Species loss and aboveground carbon storage in a tropical forest",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Bunker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Declerk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Bradford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Colwell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Perfecto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Philips",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Sankaran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Naeem",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Science",
+                "volume": "310",
+                "issue": "",
+                "pages": "1029--1031",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Bunker, D. E., F. DeClerk., J. C. Bradford., R. K. Colwell., I. Perfecto., O. L. Philips., M. Sankaran and S. Naeem. 2005. Species loss and aboveground carbon storage in a tropical forest. Science 310: 1029-1031.",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Carbon sequestration, biological diversity, and sustainable development: integrated forest management",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Cairns",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Meganck",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Environ Management",
+                "volume": "18",
+                "issue": "",
+                "pages": "13--22",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cairns, M. A. and R. A. Meganck. 1994. Carbon sequestration, biological diversity, and sustainable development: integrated forest management. Environ Management 18: 13-22.",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Root biomass allocation in the world's upland forests",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Cairns",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Helmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Baumgardener",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Oecologia",
+                "volume": "111",
+                "issue": "",
+                "pages": "1--11",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Cairns, M. A., S. Brown., E. N. Helmer and G. A. Baumgardener. 1997. Root biomass allocation in the world's upland forests. Oecologia 111: 1-11.",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Managing forests for climate change mitigation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Canadell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Raupach",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Science",
+                "volume": "320",
+                "issue": "",
+                "pages": "1456--1457",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Canadell, J. G. and M. R. Raupach.2008. Managing forests for climate change mitigation. Science 320: 1456-1457.",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Biomass production and carbon sequestration through agroforestry",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Chaturvedi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Handa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Kaushal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sarvade",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Panwar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Range Management and Agroforestry",
+                "volume": "37",
+                "issue": "",
+                "pages": "116--127",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Chaturvedi, O.P., A.K. Handa, R. Kaushal, S. Sarvade and P. Panwar. 2016. Biomass production and carbon sequestration through agroforestry. Range Management and Agroforestry 37: 116-127.",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Studies on the performance of wheat and soybean as intercrop with Grewia optiva pollarded at different heights",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Deshmukh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "1--90",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Deshmukh, H. K. 1998. Studies on the performance of wheat and soybean as intercrop with Grewia optiva pollarded at different heights. M.Sc. Thesis, Dr. Y.S. Parmar University of Horticulture and Forestry, Solan, India. pp. 1-90.",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Agroforestry systems: sources or sinks of greenhouse gases?",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Dixon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Agroforestry Systems",
+                "volume": "31",
+                "issue": "",
+                "pages": "99--116",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dixon, R. K. 1995. Agroforestry systems: sources or sinks of greenhouse gases? Agroforestry Systems 31: 99-116.",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Integrated systems: assessment of promising agroforest and alternative land-use practices to enhance carbon conservation and sequestration",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Dixon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Winjum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Andrasko",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Schroeder",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Climatic Change",
+                "volume": "30",
+                "issue": "",
+                "pages": "1--23",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dixon, R. K., J. K. Winjum., K. J. Andrasko., J. J. Lee and P. E. Schroeder. 1994. Integrated systems: assessment of promising agroforest and alternative land-use practices to enhance carbon conservation and sequestration. Climatic Change 30: 1-23.",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Carbon pools and fluxes of global forest ecosystems",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Dixon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Houghton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Solomon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Trexler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Science",
+                "volume": "263",
+                "issue": "",
+                "pages": "185--190",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Dixon, R. K., S. Brown., R. A. Houghton., A. M. Solomon and M. C. Trexler. 1994. Carbon pools and fluxes of global forest ecosystems. Science 263: 185-190.",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Volume equations for forests of India, Nepal and Bhutan",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Fsi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "FSI. 1996. Volume equations for forests of India, Nepal and Bhutan. Forest Survey of India, Ministry of Environment and Forests, Government of India.",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Carbon sequestration in grassland systems",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Ghosh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Mahanta",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Range Management and Agroforestry",
+                "volume": "35",
+                "issue": "",
+                "pages": "173--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ghosh, P.K. and S.K. Mahanta. 2014. Carbon sequestration in grassland systems. Range Management and Agroforestry 35: 173-181.",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Statistical Procedure for Agriculture Research",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gomez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Gomez",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1984,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "1--680",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Gomez, K. A. and A. A. Gomez. 1984. Statistical Procedure for Agriculture Research. 2 nd edn. Johan W illey and Sons, Inc. New York. pp. 1-680.",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Carbon storage of different soil-size fractions in Florida silvopastoral systems",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Haile",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K R"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Journal of Environmental Quality",
+                "volume": "37",
+                "issue": "",
+                "pages": "1789--1797",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Haile, S. G., P. K. R. Nair, and V.D. Nair. 2008. Carbon storage of different soil-size fractions in Florida silvopastoral systems. Journal of Environmental Quality 37: 1789-1797.",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Missing sinks, feedbacks and understanding the role of terrestrial ecosystems in the global carbon balance",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Houghton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Davidson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Woodwell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Global Biogeochemical Cycles",
+                "volume": "12",
+                "issue": "",
+                "pages": "25--34",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Houghton, R. A., E. A. Davidson and G. M. Woodwell. 1998. Missing sinks, feedbacks and understanding the role of terrestrial ecosystems in the global carbon balance. Global Biogeochemical Cycles 12: 25-34.",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Phenology of tropical woody perennials and seasonal crop plants with reference to their management in agroforestry systems",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Huxley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Plant Research and Agroforestry",
+                "volume": "",
+                "issue": "",
+                "pages": "503--526",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Huxley, P. A. 1983. Phenology of tropical woody perennials and seasonal crop plants with reference to their management in agroforestry systems. In: P.A. Huxley (ed). Plant Research and Agroforestry. International Council for Research in Agroforestry, Nairobi, Kenya. pp. 503-526.",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Impacts, adaptations and mitigation of climate: scientific-technical analyses",
+                "authors": [],
+                "year": 1995,
+                "venue": "Contribution of the second assessment report of the Intergovernmental Panel on Climate Change",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "IPCC.1996. Impacts, adaptations and mitigation of climate: scientific-technical analyses. In: Contribution of the second assessment report of the Intergovernmental Panel on Climate Change. 1995. Cambridge University.",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Good practice guidance for land use, landuse change and forestry",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Ipcc",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "IPCC National Greenhouse Gas Inventories Programme",
+                "volume": "",
+                "issue": "",
+                "pages": "1--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "IPCC. 2003. Good practice guidance for land use, land- use change and forestry, IPCC National Greenhouse Gas Inventories Programme, Hayama, Japan. pp. 1-295.",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Carbon and biomass density of trees in Duggada area of Garhwal Himalaya, India",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Iqbal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bhat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Pala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hussain",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Negi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Indian Forester",
+                "volume": "140",
+                "issue": "",
+                "pages": "18--22",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Iqbal, K., J. A. Bhat., N. A Pala, A. Hussain and A. K. Negi. 2014. Carbon and biomass density of trees in Duggada area of Garhwal Himalaya, India. Indian Forester 140: 18-22",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Biomass production systems of poplars and willows in India",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Kaul",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Sharma",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1983,
+                "venue": "Indian Forester",
+                "volume": "109",
+                "issue": "",
+                "pages": "645--654",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kaul, O. N. and K. K. Sharma. 1983. Biomass production systems of poplars and willows in India. Indian Forester 109: 645-654.",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Variation in carbon storage among tree species: implications for the management of a small scale carbon sink project",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kirby",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Potvin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Forest Ecology and Management",
+                "volume": "246",
+                "issue": "",
+                "pages": "208--221",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kirby, K. R and C. Potvin. 2007. Variation in carbon storage among tree species: implications for the management of a small scale carbon sink project. Forest Ecology and Management 246: 208-221.",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Dimensional stabilization of wood factors influencing shrinkage-swelling behaviour",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kumar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Journal of Timber Development Association of India",
+                "volume": "25",
+                "issue": "",
+                "pages": "31--44",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kumar S. 1998. Dimensional stabilization of wood factors influencing shrinkage-swelling behaviour. Journal of Timber Development Association of India 25: 31- 44.",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Fuelwood production in agroforestry systems for sustainable land use and CO 2 mitigation",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Kursten",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Ecological Engineering",
+                "volume": "16",
+                "issue": "",
+                "pages": "69--S72",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Kursten, E. 2000. Fuelwood production in agroforestry systems for sustainable land use and CO 2 mitigation. Ecological Engineering 16: S69-S72.",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Carbon sequestration potential of agroforestry systems-an evaluation in low & mid hills of western Himalayas",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Minj",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "1--124",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Minj, A. V. 2008. Carbon sequestration potential of agroforestry systems-an evaluation in low & mid hills of western Himalayas. Ph. D. Thesis, Dr. Y. S. Parmar University of Horticulture and Forestry, Solan, India. pp. 1-124.",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Carbon sequestration: An underexploited environmental benefit of agroforestry systems",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Montagnini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K R"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Agroforestry Systems",
+                "volume": "61",
+                "issue": "",
+                "pages": "281--295",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Montagnini, F and P. K. R. Nair. 2004. Carbon sequestration: An underexploited environmental benefit of agroforestry systems. Agroforestry Systems 61: 281-295.",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Agroforestry as a strategy for carbon sequestration",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K R"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kumar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Journal of Plant Nutrition and Soil Science",
+                "volume": "172",
+                "issue": "",
+                "pages": "10--23",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nair, P. K. R., B. M. Kumar and V. D. Nair. 2009. Agroforestry as a strategy for carbon sequestration. Journal of Plant Nutrition and Soil Science 172: 10-23.",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Studies on biomass productivity and nutrient content in Eucalyptus tereticornis, Leucaena leucocephala and Melia azedarach under high density plantation",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Nayak",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "1--112",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nayak, B. K. 1996. Studies on biomass productivity and nutrient content in Eucalyptus tereticornis, Leucaena leucocephala and Melia azedarach under high density plantation. M. Sc. Thesis, Dr Y. S. Parmar University of Horticulture and Forestry, Solan, India. pp. 1-112.",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Total carbon, organic carbon, and organic matter",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Nelson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Sommers",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1996,
+                "venue": "Methods of Soil Analysis. Part 2. Chemical and Microbiological Properties",
+                "volume": "9",
+                "issue": "",
+                "pages": "961--1010",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Nelson, D.W. and L.E. Sommers. 1996. Total carbon, organic carbon, and organic matter. In: A.L. Page (ed). Methods of Soil Analysis. Part 2. Chemical and Microbiological Properties. Agronomy Series 9. American Society of Agronomy, Madison, W I. pp. 961-1010.",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Carbon stock estimation in tree species of Sem Mukhem sacred forest in Garhwal Himalaya",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Pala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Negi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Vikrant",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Gokhale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Aziem",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Todaria",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Journal of Forestry Research",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "-10.1007/s11676-013-0341-1"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Pala, N. A., A. K. Negi., K. K. Vikrant., Y. Gokhale., S. Aziem and N. P. Todaria. 2012. Carbon stock estimation in tree species of Sem Mukhem sacred forest in Garhwal Himalaya. Journal of Forestry Research. DOI-10.1007/s11676-013-0341-1",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Survival, growth and production of multipurpose trees under silvipastoral system",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Rai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Solanki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Singh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Annals of Forestry",
+                "volume": "8",
+                "issue": "",
+                "pages": "279--281",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rai, P., K. R. Solanki and U. P. Singh. 2000. Survival, growth and production of multipurpose trees under silvipastoral system. Annals of Forestry 8: 279-281.",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Carbon dioxide mitigation potential and carbon density of different land use systems along an altitudinal gradient in north-western Himalayas",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Rajput",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Bhardwaj",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Pala",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Agroforestry System",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/s10457-015-9788-8"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Rajput, B. S., D. R Bhardwaj and N. A. Pala. 2015. Carbon dioxide mitigation potential and carbon density of different land use systems along an altitudinal gradient in north-western Himalayas. Agroforestry System. DOI 10.1007/s10457-015-9788-8 Springer.",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Factors influencing biomass and carbon storage potential of different land use systems along an elevational gradient in temperate northwestern Himalaya",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Rajput",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Bhardwaj",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Pala",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Agroforestry System",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1007/s10457-016-9948-5"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "Rajput, B. S., D. R. Bhardwaj and N. A. Pala. 2016. Factors influencing biomass and carbon storage potential of different land use systems along an elevational gradient in temperate northwestern Himalaya. Agroforestry System. DOI 10.1007/s10457-016- 9948-5",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Specific gravity of Indian timbers",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Rajput",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Shukla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Gupta",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Journal of Timber Development Association of India",
+                "volume": "3",
+                "issue": "",
+                "pages": "12--41",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Rajput, S. S., N. K. Shukla and V. K. Gupta. 1985. Specific gravity of Indian timbers. Journal of Timber Development Association of India 3: 12-41.",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Agroforestry on dry and degraded lands: present status and future prospects",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Roy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Range Management and Agroforestry",
+                "volume": "37",
+                "issue": "",
+                "pages": "1--11",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Roy, M.M. 2016. Agroforestry on dry and degraded lands: present status and future prospects. Range Management and Agroforestry 37: 1-11.",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Agroforestry-helping to achieve sustainable forest management",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Ruark",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Schoeneberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K R"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Proceedings of UNFF (United Nations Forum for Forests) Intercessional Experts Meeting on 'Role of Planted Forests in Sustainable Forest Management",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Ruark, G. A., M. M. Schoeneberger and P. K. R. Nair. 2003. Agroforestry-helping to achieve sustainable forest management. In: Proceedings of UNFF (United Nations Forum for Forests) Intercessional Experts Meeting on 'Role of Planted Forests in Sustainable Forest Management', March 24-30, 2003, New Zealand. www.maf.govt.nz/unff-planted-forestry- meeting.",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Climate change mitigation in the energy and forestry sectors of developing countries",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Sathaye",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Ravindranath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Annul Review of Energy and Environment",
+                "volume": "23",
+                "issue": "",
+                "pages": "387--437",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sathaye, J. A. and N. H. Ravindranath. 1998. Climate change mitigation in the energy and forestry sectors of developing countries. Annul Review of Energy and Environment 23: 387-437.",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Carbon partitioning in subtropical Pinus roxburghii sergant, forest Solan, India",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Shah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Sharma",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Tripathi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Pala",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Journal of Tropical Forest Science",
+                "volume": "26",
+                "issue": "",
+                "pages": "355--361",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Shah, S., D. P. Sharma, P. Tripathi and N. A. Pala. 2014. Carbon partitioning in subtropical Pinus roxburghii sergant, forest Solan, India. Journal of Tropical Forest Science 26: 355-361.",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Carbon and nitrogen storage in agroforests, tree plantation and pastures in western Oregon, USA",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Sharrow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Ismail",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Agroforestry Systems",
+                "volume": "60",
+                "issue": "",
+                "pages": "123--130",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Sharrow, S. H. and S. Ismail. 2004. Carbon and nitrogen storage in agroforests, tree plantation and pastures in western Oregon, USA. Agroforestry Systems 60: 123-130.",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Sustainable forestry in India for carbon mitigation",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Singh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Current Science",
+                "volume": "78",
+                "issue": "",
+                "pages": "563--567",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Singh, R and M. Lal. 2000. Sustainable forestry in India for carbon mitigation. Current Science 78: 563-567.",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Maximum moisture content method for determining specific gravity of small wood samples",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1954,
+                "venue": "U.S. Forest Products Laboratory Report",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smith, D. M. 1954. Maximum moisture content method for determining specific gravity of small wood samples.U.S. Forest Products Laboratory Report. 8 pp.",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Identifying influences on model uncertainty: an application using a forest carbon budget model",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Heath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Environmental Management",
+                "volume": "27",
+                "issue": "",
+                "pages": "253--267",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Smith, J. E. and L. S. Heath. 2001. Identifying influences on model uncertainty: an application using a forest carbon budget model. Environmental Management 27: 253-267.",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Contribution of trees to soil carbon sequestration under agroforestry systems in the West African Sahel",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Takimoto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K R"
+                        ],
+                        "last": "Nair",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Agroforestry Systems",
+                "volume": "76",
+                "issue": "",
+                "pages": "11--25",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Takimoto, A., V.D. Nair and P.K.R. Nair. 2009. Contribution of trees to soil carbon sequestration under agroforestry systems in the West African Sahel. Agroforestry Systems 76: 11-25.",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Structure and function of traditional agroforestry systems in the Western Himalayan. I. Biomass and productivity",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Toky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Kumar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Khosla",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Agroforestry Systems",
+                "volume": "9",
+                "issue": "",
+                "pages": "47--70",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Toky, O. P., P. Kumar and P. K. Khosla. 1989. Structure and function of traditional agroforestry systems in the Western Himalayan. I. Biomass and productivity. Agroforestry Systems 9:47-70.",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "An examination of the degtjareff method for determining organic carbon in soils: Effect of variations in digestion conditions and of inorganic soil constituents",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Walkley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Black",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1934,
+                "venue": "Soil Science",
+                "volume": "63",
+                "issue": "",
+                "pages": "251--263",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Walkley, A. and I. A. Black. 1934. An examination of the degtjareff method for determining organic carbon in soils: Effect of variations in digestion conditions and of inorganic soil constituents. Soil Science 63: 251-263.",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "The impact of human disturbance on vegetative carbon storage in forest ecosystems in China",
+                "authors": [
+                    {
+                        "first": "Wang",
+                        "middle": [
+                            "X"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Feng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Ouyang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Forest Ecology and Management",
+                "volume": "148",
+                "issue": "",
+                "pages": "117--123",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "Wang X., Z. Feng and Z. Ouyang. 2001. The impact of human disturbance on vegetative carbon storage in forest ecosystems in China. Forest Ecology and Management 148: 117-123.",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF1": {
+                "num": null,
+                "type_str": "table",
+                "html": null,
+                "text": "Tree-crop combinations and their distribution under land use systems of sub-montane and low hills, sub-tropical zone of Himachal Pradesh",
+                "content": "<table><tr><td>-</td><td>-</td><td>160, 520</td><td>230</td><td>450,180,70</td><td>130, 20, 20, 150, 70</td><td>160, 80,40</td><td>100, 110, 20</td><td>230</td><td>160</td><td>160,150,220,120</td><td>80, 100, 80</td><td>330</td><td>400, 150</td><td>-</td><td>-</td></tr><tr><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0.70</td><td>0.70</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1.00</td><td>1.00</td></tr><tr><td>-</td><td>-</td><td>1.00</td><td>1.00</td><td>0.40</td><td>0.40</td><td>0.30</td><td>0.30</td><td>0.40</td><td>0.40</td><td>0.60</td><td>0.60</td><td>1.00</td><td>1.00</td><td>-</td><td>-</td></tr><tr><td>00</td><td>1.00</td><td>-</td><td>-</td><td>0.60</td><td>0.60</td><td>-</td><td>-</td><td>0.60</td><td>0.60</td><td>0.40</td><td>0.40</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></table>"
+            },
+            "TABREF2": {
+                "num": null,
+                "type_str": "table",
+                "html": null,
+                "text": "Effect of land use systems, altitudinal gradient and their interaction on above ground, below ground, total and litter biomass production (t ha -1",
+                "content": "<table><tr><td>)</td></tr></table>"
+            }
+        }
+    }
+}
