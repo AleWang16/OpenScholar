@@ -1,9 +1,9 @@
 # Important Information
 
-DISCLAIMER: all commands displayed in this section is for bash, and thus it is highly recommended to use Ubuntu for best results.
+DISCLAIMER: all commands displayed in this section are for bash, and thus it is highly recommended to use Ubuntu for best results.
 
 This forked repository contains two new scripts that contain the fundamental functions for chunking, embedding, indexing, and 
-searching.  Two files are relevant for these functions are ```run_chunk_and_embed.py``` and ```build_indices_and_search.py```.  Below is a simplified file tree of the relevant files
+searching.  Two files are relevant for these functions are ```run_chunk_and_embed.py``` and ```build_indices_and_search.py```.  Below is a simplified file tree of the relevant files:
 
 ```
 OpenScholar
@@ -58,17 +58,17 @@ Before running the scripts, create relevant conda environments, which are listed
 
 For ```run_chunk_and_embed.py```:
 
-    ```
-    conda create --name chunking_and_embedding python=3.10.19
-    conda activate chunking_and_embedding
-    pip install -r run_chunk_and_embed.txt
-    ```
+```
+conda create --name chunking_and_embedding python=3.10.19
+conda activate chunking_and_embedding
+pip install -r run_chunk_and_embed.txt
+```
 For ```build_indices_and_search.py```:
 
-    ```
-    conda env create -f build_indices_and_search.yml   
-    conda activate build_indices_and_search
-    ```
+```
+conda env create -f build_indices_and_search.yml   
+conda activate build_indices_and_search
+```
 
 ```run_chunk_and_embed.py``` is responsible for taking a Grobid-processed paper in json format from the ```OpenScholar/papers``` directory, converting it to a jsonl file with formatting that is compatible with the chunking, embedding, and sharding functions of this repository.  This is important because Grobid formats the processed papers with nested json objects, and it needs to be flattened before being passed through the chunking and embedding pipeline.  To run, please run the following command from the root directory, inserting relevant paths and files into the placeholders, as denoted by the ```{}``` braces:
 
@@ -116,7 +116,7 @@ OpenScholar
 |       |
 ```
 
-Where the ```0``` directory corresponds to the 0 shard.  Likewise the indices created for the will be stored in the ```OpenScholar/embeddings/index``` directories, where each index is also organized into subdirectories based on the shard number, as shown below (example for one shard):
+Where the ```0``` directory corresponds to the ```0```th shard.  Likewise the indices created for the will be stored in the ```OpenScholar/embeddings/index``` directories, where each index is also organized into subdirectories based on the shard number, as shown below (example for one shard):
 ```
 OpenScholar
 |
