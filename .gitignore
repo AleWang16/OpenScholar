@@ -177,3 +177,7 @@ Miniconda3-latest-Linux-x86_64.sh
 pretty_print.py
 test.ipynb_checkpoints
 test.ipynb
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml

@@ -344,7 +344,7 @@ def index_encoded_data(index, embedding_paths, indexing_batch_size):
     print("Data indexing completed.")
 
 
-def zbuild_dense_index(cfg):
+def build_dense_index(cfg):
     index_args = cfg.datastore.index
 
     if isinstance(index_args.index_shard_ids[0], ListConfig):
